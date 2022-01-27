@@ -19,11 +19,19 @@ export async function GetAllNewData() {
 
     for (const ent of entity['result']) {
       let index = 1;
-      for (const entry of ent['entries']) {
-        entry['index'] = index++;
+      const newentry: any = [];
+      for (const entry in ent['entries']) {
+        if (
+          Object.prototype.hasOwnProperty.call(ent['entries'][entry], 'flags')
+        ) {
+          continue;
+        }
+        const entt = ent['entries'][entry];
+        entt['index'] = index++;
+        newentry.push(entt);
       }
+      ent['entries'] = newentry;
     }
-
     await writeFileSync(
       `./output/old/${lang}_item.json`,
       JSON.stringify(entity, null, 4)

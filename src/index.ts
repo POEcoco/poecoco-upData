@@ -1,18 +1,20 @@
-import {readdirSync, readFile, readFileSync, statSync} from 'fs';
-import {join, resolve} from 'path';
+import {readFileSync, statSync, writeFileSync} from 'fs';
 import {GetLanguageKeys} from './content';
 import {GetAllNewData} from './module/module';
 const targetPath = './output/old/';
 const list = GetLanguageKeys();
+
+const earlyget = false;
+
 async function main() {
   //Get all source data
-  //await GetAllNewData();
+  if (earlyget) await GetAllNewData();
   //Check file has been edit or not
 
   //基準檔案
-  const standJSON = JSON.parse(
-    readFileSync(targetPath + 'GB_item.json', 'utf8')
-  )['result'];
+  let standJSON = JSON.parse(readFileSync(targetPath + 'GB_item.json', 'utf8'))[
+    'result'
+  ];
   let dateList: Date[] = await updateDateModified();
   let broken = false; //截斷
   let modified = false; //新更改
@@ -32,6 +34,38 @@ async function main() {
     }
 
     if (modified) {
+      try {
+        //reload
+        standJSON = JSON.parse(
+          readFileSync(targetPath + 'GB_item.json', 'utf8')
+        )['result'];
+
+        //基準檔案全體重新編號
+        for (const ii in standJSON) {
+          let index = 1;
+          for (const iii of standJSON[ii]['entries']) {
+            iii['index'] = index++;
+          }
+        }
+        await writeFileSync(
+          targetPath + 'GB_item.json',
+          JSON.stringify(
+            {
+              result: standJSON,
+            },
+            null,
+            4
+          )
+        );
+        //reload
+        standJSON = JSON.parse(
+          readFileSync(targetPath + 'GB_item.json', 'utf8')
+        )['result'];
+      } catch {
+        continue;
+      }
+
+      //比較的檔案重新編號
       for (const i in list) {
         const str = await readFileSync(
           targetPath + `${list[i]}_item.json`,
@@ -42,6 +76,22 @@ async function main() {
           compareJSON = JSON.parse(str)['result'];
         } catch {
           continue;
+        }
+        for (const ii in compareJSON) {
+          let index = 1;
+          for (const iii of compareJSON[ii]['entries']) {
+            iii['index'] = index++;
+          }
+          await writeFileSync(
+            targetPath + `${list[i]}_item.json`,
+            JSON.stringify(
+              {
+                result: compareJSON,
+              },
+              null,
+              4
+            )
+          );
         }
 
         for (const ii in compareJSON) {

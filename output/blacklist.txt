@@ -1,0 +1,2091 @@
+CN
+
+
+                Armuor
+                {
+                    "type": "异色鞋(冰闪)",
+                    "text": "异色鞋(冰闪)",
+                    "index": 106
+                },
+                {
+                    "type": "异色鞋 (火冰)",
+                    "text": "异色鞋 (火冰)",
+                    "index": 107
+                },
+                {
+                    "type": "异色鞋 (火闪)",
+                    "text": "异色鞋 (火闪)",
+                    "index": 108
+                },
+                Currency
+                {
+                    "type": "智慧之石",
+                    "text": "智慧之石",
+                    "index": 310
+                },
+                {
+                    "type": "S17 福袋",
+                    "text": "S17 福袋",
+                    "index": 415
+                },
+                MAP
+
+                Monster
+                
+                {
+                    "type": "Alpha Paradisae",
+                    "text": "圣域元灵",
+                    "index": 141
+                },
+                
+
+
+TW
+                Accessories
+                {
+                    "type": "傑特護身符",
+                    "text": "傑特護身符",
+                    "index": 4
+                },
+                {
+                    "type": "金羽腰帶",
+                    "text": "金羽腰帶",
+                    "index": 55
+                },
+                {
+                    "type": "金黃花環",
+                    "text": "金黃花環",
+                    "index": 317
+                },
+                {
+                    "type": "黃金聖炎",
+                    "text": "黃金聖炎",
+                    "index": 318
+                },
+                {
+                    "type": "飛羽便鞋",
+                    "text": "飛羽便鞋",
+                    "index": 108
+                },
+                {
+                    "type": "物品數量增幅輔助",
+                    "text": "物品數量增幅輔助",
+                    "index": 409
+                },
+                Weapon
+                
+                {
+                    "type": "能量之刃",
+                    "text": "能量之刃",
+                    "index": 174
+                },
+
+
+                MAP
+                
+                {
+                    "type": "魔影墓場",
+                    "disc": "theawakening",
+                    "text": "魔影墓場 (大覺醒)",
+                    "index": 332
+                },
+                {
+                    "type": "海風高原",
+                    "disc": "theawakening",
+                    "text": "海風高原 (大覺醒)",
+                    "index": 333
+                },
+                {
+                    "type": "遠古市集",
+                    "disc": "theawakening",
+                    "text": "遠古市集 (大覺醒)",
+                    "index": 334
+                },
+                {
+                    "type": "火山炎域",
+                    "disc": "theawakening",
+                    "text": "火山炎域 (大覺醒)",
+                    "index": 335
+                },
+                {
+                    "type": "古堡",
+                    "disc": "theawakening",
+                    "text": "古堡 (大覺醒)",
+                    "index": 336
+                },
+                {
+                    "type": "惡咒陵墓",
+                    "disc": "theawakening",
+                    "text": "惡咒陵墓 (大覺醒)",
+                    "index": 337
+                },
+                {
+                    "type": "熔岩之室",
+                    "disc": "theawakening",
+                    "text": "熔岩之室 (大覺醒)",
+                    "index": 338
+                },
+                {
+                    "type": "苦行之域",
+                    "disc": "theawakening",
+                    "text": "苦行之域 (大覺醒)",
+                    "index": 339
+                },
+                {
+                    "type": "惡靈學院",
+                    "disc": "theawakening",
+                    "text": "惡靈學院 (大覺醒)",
+                    "index": 340
+                },
+                {
+                    "type": "毒菌魔域",
+                    "disc": "theawakening",
+                    "text": "毒菌魔域 (大覺醒)",
+                    "index": 341
+                },
+                {
+                    "type": "禁魂炎獄",
+                    "disc": "theawakening",
+                    "text": "禁魂炎獄 (大覺醒)",
+                    "index": 342
+                },
+                {
+                    "type": "熾炎船塢",
+                    "disc": "theawakening",
+                    "text": "熾炎船塢 (大覺醒)",
+                    "index": 343
+                },
+                {
+                    "type": "長草遺跡",
+                    "disc": "theawakening",
+                    "text": "長草遺跡 (大覺醒)",
+                    "index": 344
+                },
+                {
+                    "type": "遺跡廢墟",
+                    "disc": "theawakening",
+                    "text": "遺跡廢墟 (大覺醒)",
+                    "index": 345
+                },
+                {
+                    "type": "古兵工廠",
+                    "disc": "theawakening",
+                    "text": "古兵工廠 (大覺醒)",
+                    "index": 346
+                },
+                {
+                    "type": "幽暗地穴",
+                    "disc": "theawakening",
+                    "text": "幽暗地穴 (大覺醒)",
+                    "index": 347
+                },
+                {
+                    "type": "荒地",
+                    "disc": "theawakening",
+                    "text": "荒地 (大覺醒)",
+                    "index": 348
+                },
+                {
+                    "type": "奇術之庭",
+                    "disc": "theawakening",
+                    "text": "奇術之庭 (大覺醒)",
+                    "index": 349
+                },
+                {
+                    "type": "挖掘場",
+                    "disc": "theawakening",
+                    "text": "挖掘場 (大覺醒)",
+                    "index": 350
+                },
+                {
+                    "type": "危機水道",
+                    "disc": "theawakening",
+                    "text": "危機水道 (大覺醒)",
+                    "index": 351
+                },
+                {
+                    "type": "暮色沙丘",
+                    "disc": "theawakening",
+                    "text": "暮色沙丘 (大覺醒)",
+                    "index": 352
+                },
+                {
+                    "type": "神域之殿",
+                    "disc": "theawakening",
+                    "text": "神域之殿 (大覺醒)",
+                    "index": 353
+                },
+                {
+                    "type": "奇術秘殿",
+                    "disc": "theawakening",
+                    "text": "奇術秘殿 (大覺醒)",
+                    "index": 354
+                },
+                {
+                    "type": "冥神之域",
+                    "disc": "theawakening",
+                    "text": "冥神之域 (大覺醒)",
+                    "index": 355
+                },
+                {
+                    "type": "瓦爾密殿",
+                    "disc": "theawakening",
+                    "text": "瓦爾密殿 (大覺醒)",
+                    "index": 356
+                },
+                {
+                    "type": "廣場",
+                    "disc": "theawakening",
+                    "text": "廣場 (大覺醒)",
+                    "index": 357
+                },
+                {
+                    "type": "巨坑",
+                    "disc": "theawakening",
+                    "text": "巨坑 (大覺醒)",
+                    "index": 358
+                },
+                {
+                    "type": "核心",
+                    "disc": "theawakening",
+                    "text": "核心 (大覺醒)",
+                    "index": 359
+                },
+                {
+                    "type": "火山炎口",
+                    "disc": "theawakening",
+                    "text": "火山炎口 (大覺醒)",
+                    "index": 360
+                },
+                {
+                    "type": "大決鬥場",
+                    "disc": "theawakening",
+                    "text": "大決鬥場 (大覺醒)",
+                    "index": 361
+                },
+                {
+                    "type": "晴空幽島",
+                    "disc": "theawakening",
+                    "text": "晴空幽島 (大覺醒)",
+                    "index": 362
+                },
+                {
+                    "type": "貧瘠之地",
+                    "disc": "theawakening",
+                    "text": "貧瘠之地 (大覺醒)",
+                    "index": 363
+                },
+                {
+                    "type": "腐敗下水道",
+                    "disc": "theawakening",
+                    "text": "腐敗下水道 (大覺醒)",
+                    "index": 364
+                },
+                {
+                    "type": "秘密通道",
+                    "disc": "theawakening",
+                    "text": "秘密通道 (大覺醒)",
+                    "index": 365
+                },
+                {
+                    "type": "驚懼樹叢",
+                    "disc": "theawakening",
+                    "text": "驚懼樹叢 (大覺醒)",
+                    "index": 366
+                },
+                {
+                    "type": "濱海山丘",
+                    "disc": "theawakening",
+                    "text": "濱海山丘 (大覺醒)",
+                    "index": 367
+                },
+                {
+                    "type": "晨曦墓地",
+                    "disc": "theawakening",
+                    "text": "晨曦墓地 (大覺醒)",
+                    "index": 368
+                },
+                {
+                    "type": "崩壞長廊",
+                    "disc": "theawakening",
+                    "text": "崩壞長廊 (大覺醒)",
+                    "index": 369
+                },
+                {
+                    "type": "毒牙海港",
+                    "disc": "theawakening",
+                    "text": "毒牙海港 (大覺醒)",
+                    "index": 370
+                },
+                {
+                    "type": "赤貧居所",
+                    "disc": "theawakening",
+                    "text": "赤貧居所 (大覺醒)",
+                    "index": 371
+                },
+                {
+                    "type": "巨蛛巢穴",
+                    "disc": "theawakening",
+                    "text": "巨蛛巢穴 (大覺醒)",
+                    "index": 372
+                },
+                {
+                    "type": "瓦爾金字塔",
+                    "disc": "theawakening",
+                    "text": "瓦爾金字塔 (大覺醒)",
+                    "index": 373
+                },
+                {
+                    "type": "危機海礁",
+                    "disc": "theawakening",
+                    "text": "危機海礁 (大覺醒)",
+                    "index": 374
+                },
+                {
+                    "type": "詭譎晶洞",
+                    "disc": "theawakening",
+                    "text": "詭譎晶洞 (大覺醒)",
+                    "index": 375
+                },
+                {
+                    "type": "陰晦泥灘",
+                    "disc": "theawakening",
+                    "text": "陰晦泥灘 (大覺醒)",
+                    "index": 376
+                },
+                {
+                    "type": "古博物館",
+                    "disc": "theawakening",
+                    "text": "古博物館 (大覺醒)",
+                    "index": 377
+                },
+                {
+                    "type": "競技場",
+                    "disc": "theawakening",
+                    "text": "競技場 (大覺醒)",
+                    "index": 378
+                },
+                {
+                    "type": "密草神殿",
+                    "disc": "theawakening",
+                    "text": "密草神殿 (大覺醒)",
+                    "index": 379
+                },
+                {
+                    "type": "紫晶礦山",
+                    "disc": "theawakening",
+                    "text": "紫晶礦山 (大覺醒)",
+                    "index": 380
+                },
+                {
+                    "type": "暮光海灘",
+                    "disc": "theawakening",
+                    "text": "暮光海灘 (大覺醒)",
+                    "index": 381
+                },
+                {
+                    "type": "巨蛛之林",
+                    "disc": "theawakening",
+                    "text": "巨蛛之林 (大覺醒)",
+                    "index": 382
+                },
+                {
+                    "type": "月色迴廊",
+                    "disc": "theawakening",
+                    "text": "月色迴廊 (大覺醒)",
+                    "index": 383
+                },
+                {
+                    "type": "魔靈幻獄",
+                    "disc": "theawakening",
+                    "text": "魔靈幻獄 (大覺醒)",
+                    "index": 384
+                },
+                {
+                    "type": "地底之河",
+                    "disc": "theawakening",
+                    "text": "地底之河 (大覺醒)",
+                    "index": 385
+                },
+                {
+                    "type": "怒浪之港",
+                    "disc": "theawakening",
+                    "text": "怒浪之港 (大覺醒)",
+                    "index": 386
+                },
+                {
+                    "type": "瘴氣泥沼",
+                    "disc": "theawakening",
+                    "text": "瘴氣泥沼 (大覺醒)",
+                    "index": 387
+                },
+                {
+                    "type": "墮影墓場",
+                    "disc": "theawakening",
+                    "text": "墮影墓場 (大覺醒)",
+                    "index": 388
+                },
+                {
+                    "type": "疾風峽灣",
+                    "disc": "theawakening",
+                    "text": "疾風峽灣 (大覺醒)",
+                    "index": 389
+                },
+                {
+                    "type": "魅影別墅",
+                    "disc": "theawakening",
+                    "text": "魅影別墅 (大覺醒)",
+                    "index": 390
+                },
+                {
+                    "type": "奪魂之殿",
+                    "disc": "theawakening",
+                    "text": "奪魂之殿 (大覺醒)",
+                    "index": 391
+                },
+                {
+                    "type": "異蛛巢穴",
+                    "disc": "theawakening",
+                    "text": "異蛛巢穴 (大覺醒)",
+                    "index": 392
+                },
+                {
+                    "type": "旱木林地",
+                    "disc": "theawakening",
+                    "text": "旱木林地 (大覺醒)",
+                    "index": 394
+                },
+                {
+                    "type": "激戰柱廊",
+                    "disc": "theawakening",
+                    "text": "激戰柱廊 (大覺醒)",
+                    "index": 395
+                },
+                {
+                    "type": "骨跡陵墓",
+                    "disc": "theawakening",
+                    "text": "骨跡陵墓 (大覺醒)",
+                    "index": 396
+                },
+                {
+                    "type": "死寂泥溝",
+                    "disc": "theawakening",
+                    "text": "死寂泥溝 (大覺醒)",
+                    "index": 398
+                },
+                {
+                    "type": "洪災礦坑",
+                    "disc": "theawakening",
+                    "text": "洪災礦坑 (大覺醒)",
+                    "index": 399
+                },
+                {
+                    "type": "劇毒林谷",
+                    "disc": "theawakening",
+                    "text": "劇毒林谷 (大覺醒)",
+                    "index": 400
+                },
+                {
+                    "type": "花園迷宮",
+                    "disc": "theawakening",
+                    "text": "花園迷宮 (大覺醒)",
+                    "index": 401
+                },
+                {
+                    "type": "幽魂監牢",
+                    "disc": "theawakening",
+                    "text": "幽魂監牢 (大覺醒)",
+                    "index": 402
+                },
+                {
+                    "type": "炙陽峽谷",
+                    "disc": "theawakening",
+                    "text": "炙陽峽谷 (大覺醒)",
+                    "index": 403
+                },
+                {
+                    "type": "夜語幽林",
+                    "disc": "theawakening",
+                    "text": "夜語幽林 (大覺醒)",
+                    "index": 404
+                },
+                {
+                    "type": "乾潮林地",
+                    "disc": "theawakening",
+                    "text": "乾潮林地 (大覺醒)",
+                    "index": 405
+                },
+                {
+                    "type": "密林果園",
+                    "disc": "theawakening",
+                    "text": "密林果園 (大覺醒)",
+                    "index": 406
+                },
+                {
+                    "type": "濱海幽穴",
+                    "disc": "theawakening",
+                    "text": "濱海幽穴 (大覺醒)",
+                    "index": 407
+                },
+                {
+                    "type": "乾枯湖岸",
+                    "disc": "theawakening",
+                    "text": "乾枯湖岸 (大覺醒)",
+                    "index": 408
+                },
+                {
+                    "type": "冰川山丘",
+                    "disc": "theawakening",
+                    "text": "冰川山丘 (大覺醒)",
+                    "index": 409
+                },
+                {
+                    "type": "神主居所",
+                    "disc": "theawakening",
+                    "text": "神主居所 (大覺醒)",
+                    "index": 410
+                },
+                {
+                    "type": "畸形亡域",
+                    "disc": "theawakening",
+                    "text": "畸形亡域 (大覺醒)",
+                    "index": 411
+                },
+                {
+                    "type": "魔影墓場",
+                    "disc": "original",
+                    "text": "魔影墓場 (不朽聯盟)",
+                    "index": 332
+                },
+                {
+                    "type": "海風高原",
+                    "disc": "original",
+                    "text": "海風高原 (不朽聯盟)",
+                    "index": 333
+                },
+                {
+                    "type": "遠古市集",
+                    "disc": "original",
+                    "text": "遠古市集 (不朽聯盟)",
+                    "index": 334
+                },
+                {
+                    "type": "惡咒陵墓",
+                    "disc": "original",
+                    "text": "惡咒陵墓 (不朽聯盟)",
+                    "index": 335
+                },
+                {
+                    "type": "熔岩之室",
+                    "disc": "original",
+                    "text": "熔岩之室 (不朽聯盟)",
+                    "index": 336
+                },
+                {
+                    "type": "苦行之域",
+                    "disc": "original",
+                    "text": "苦行之域 (不朽聯盟)",
+                    "index": 337
+                },
+                {
+                    "type": "惡靈學院",
+                    "disc": "original",
+                    "text": "惡靈學院 (不朽聯盟)",
+                    "index": 338
+                },
+                {
+                    "type": "禁魂炎獄",
+                    "disc": "original",
+                    "text": "禁魂炎獄 (不朽聯盟)",
+                    "index": 339
+                },
+                {
+                    "type": "熾炎船塢",
+                    "disc": "original",
+                    "text": "熾炎船塢 (不朽聯盟)",
+                    "index": 340
+                },
+                {
+                    "type": "奇術秘殿",
+                    "disc": "original",
+                    "text": "奇術秘殿 (不朽聯盟)",
+                    "index": 341
+                },
+                {
+                    "type": "幽暗地穴",
+                    "disc": "original",
+                    "text": "幽暗地穴 (不朽聯盟)",
+                    "index": 342
+                },
+                {
+                    "type": "神域之殿",
+                    "disc": "original",
+                    "text": "神域之殿 (不朽聯盟)",
+                    "index": 343
+                },
+                {
+                    "type": "奇術之庭",
+                    "disc": "original",
+                    "text": "奇術之庭 (不朽聯盟)",
+                    "index": 344
+                },
+                {
+                    "type": "長草遺跡",
+                    "disc": "original",
+                    "text": "長草遺跡 (不朽聯盟)",
+                    "index": 345
+                },
+                {
+                    "type": "瓦爾密殿",
+                    "disc": "original",
+                    "text": "瓦爾密殿 (不朽聯盟)",
+                    "index": 346
+                },
+                {
+                    "type": "暮色沙丘",
+                    "disc": "original",
+                    "text": "暮色沙丘 (不朽聯盟)",
+                    "index": 347
+                },
+                {
+                    "type": "乾枯湖岸",
+                    "disc": "original",
+                    "text": "乾枯湖岸 (不朽聯盟)",
+                    "index": 348
+                },
+                {
+                    "type": "晴空幽島",
+                    "disc": "original",
+                    "text": "晴空幽島 (不朽聯盟)",
+                    "index": 349
+                },
+                {
+                    "type": "密林果園",
+                    "disc": "original",
+                    "text": "密林果園 (不朽聯盟)",
+                    "index": 350
+                },
+                {
+                    "type": "毒牙海港",
+                    "disc": "original",
+                    "text": "毒牙海港 (不朽聯盟)",
+                    "index": 351
+                },
+                {
+                    "type": "古兵工廠",
+                    "disc": "original",
+                    "text": "古兵工廠 (不朽聯盟)",
+                    "index": 352
+                },
+                {
+                    "type": "驚懼樹叢",
+                    "disc": "original",
+                    "text": "驚懼樹叢 (不朽聯盟)",
+                    "index": 353
+                },
+                {
+                    "type": "晨曦墓地",
+                    "disc": "original",
+                    "text": "晨曦墓地 (不朽聯盟)",
+                    "index": 333
+                },
+                {
+                    "type": "腐敗下水道",
+                    "disc": "original",
+                    "text": "腐敗下水道 (不朽聯盟)",
+                    "index": 334
+                },
+                {
+                    "type": "崩壞長廊",
+                    "disc": "original",
+                    "text": "崩壞長廊 (不朽聯盟)",
+                    "index": 335
+                },
+                {
+                    "type": "赤貧居所",
+                    "disc": "original",
+                    "text": "赤貧居所 (不朽聯盟)",
+                    "index": 336
+                },
+                {
+                    "type": "巨蛛巢穴",
+                    "disc": "original",
+                    "text": "巨蛛巢穴 (不朽聯盟)",
+                    "index": 337
+                },
+                {
+                    "type": "危機海礁",
+                    "disc": "original",
+                    "text": "危機海礁 (不朽聯盟)",
+                    "index": 334
+                },
+                {
+                    "type": "毒菌魔域",
+                    "disc": "original",
+                    "text": "毒菌魔域 (不朽聯盟)",
+                    "index": 335
+                },
+                {
+                    "type": "陰晦泥灘",
+                    "disc": "original",
+                    "text": "陰晦泥灘 (不朽聯盟)",
+                    "index": 336
+                },
+                {
+                    "type": "古博物館",
+                    "disc": "original",
+                    "text": "古博物館 (不朽聯盟)",
+                    "index": 337
+                },
+                {
+                    "type": "骨跡陵墓",
+                    "disc": "original",
+                    "text": "骨跡陵墓 (不朽聯盟)",
+                    "index": 338
+                },
+                {
+                    "type": "密草神殿",
+                    "disc": "original",
+                    "text": "密草神殿 (不朽聯盟)",
+                    "index": 339
+                },
+                {
+                    "type": "紫晶礦山",
+                    "disc": "original",
+                    "text": "紫晶礦山 (不朽聯盟)",
+                    "index": 340
+                },
+                {
+                    "type": "暮光海灘",
+                    "disc": "original",
+                    "text": "暮光海灘 (不朽聯盟)",
+                    "index": 341
+                },
+                {
+                    "type": "巨蛛之林",
+                    "disc": "original",
+                    "text": "巨蛛之林 (不朽聯盟)",
+                    "index": 342
+                },
+                {
+                    "type": "月色迴廊",
+                    "disc": "original",
+                    "text": "月色迴廊 (不朽聯盟)",
+                    "index": 343
+                },
+                {
+                    "type": "地底之河",
+                    "disc": "original",
+                    "text": "地底之河 (不朽聯盟)",
+                    "index": 344
+                },
+                {
+                    "type": "怒浪之港",
+                    "disc": "original",
+                    "text": "怒浪之港 (不朽聯盟)",
+                    "index": 345
+                },
+                {
+                    "type": "瘴氣泥沼",
+                    "disc": "original",
+                    "text": "瘴氣泥沼 (不朽聯盟)",
+                    "index": 346
+                },
+                {
+                    "type": "墮影墓場",
+                    "disc": "original",
+                    "text": "墮影墓場 (不朽聯盟)",
+                    "index": 347
+                },
+                {
+                    "type": "疾風峽灣",
+                    "disc": "original",
+                    "text": "疾風峽灣 (不朽聯盟)",
+                    "index": 348
+                },
+                {
+                    "type": "魅影別墅",
+                    "disc": "original",
+                    "text": "魅影別墅 (不朽聯盟)",
+                    "index": 349
+                },
+                {
+                    "type": "異蛛巢穴",
+                    "disc": "original",
+                    "text": "異蛛巢穴 (不朽聯盟)",
+                    "index": 335
+                },
+                {
+                    "type": "致命岩灘",
+                    "disc": "original",
+                    "text": "致命岩灘 (不朽聯盟)",
+                    "index": 336
+                },
+                {
+                    "type": "旱木林地",
+                    "disc": "original",
+                    "text": "旱木林地 (不朽聯盟)",
+                    "index": 337
+                },
+                {
+                    "type": "激戰柱廊",
+                    "disc": "original",
+                    "text": "激戰柱廊 (不朽聯盟)",
+                    "index": 338
+                },
+                {
+                    "type": "血腥陣地",
+                    "disc": "original",
+                    "text": "血腥陣地 (不朽聯盟)",
+                    "index": 339
+                },
+                {
+                    "type": "死寂泥溝",
+                    "disc": "original",
+                    "text": "死寂泥溝 (不朽聯盟)",
+                    "index": 340
+                },
+                {
+                    "type": "洪災礦坑",
+                    "disc": "original",
+                    "text": "洪災礦坑 (不朽聯盟)",
+                    "index": 341
+                },
+                {
+                    "type": "劇毒林谷",
+                    "disc": "original",
+                    "text": "劇毒林谷 (不朽聯盟)",
+                    "index": 342
+                },
+                {
+                    "type": "迷宮花園",
+                    "disc": "original",
+                    "text": "迷宮花園 (不朽聯盟)",
+                    "index": 343
+                },
+                {
+                    "type": "幽魂監牢",
+                    "disc": "original",
+                    "text": "幽魂監牢 (不朽聯盟)",
+                    "index": 344
+                },
+                {
+                    "type": "炙陽峽谷",
+                    "disc": "original",
+                    "text": "炙陽峽谷 (不朽聯盟)",
+                    "index": 345
+                },
+                {
+                    "type": "夜語幽林",
+                    "disc": "original",
+                    "text": "夜語幽林 (不朽聯盟)",
+                    "index": 346
+                },
+                {
+                    "type": "乾潮林地",
+                    "disc": "original",
+                    "text": "乾潮林地 (不朽聯盟)",
+                    "index": 347
+                },
+                {
+                    "type": "濱海幽穴",
+                    "disc": "original",
+                    "text": "濱海幽穴 (不朽聯盟)",
+                    "index": 336
+                },
+                {
+                    "type": "冰川山丘",
+                    "disc": "original",
+                    "text": "冰川山丘 (不朽聯盟)",
+                    "index": 338
+                },
+                {
+                    "type": "神主居所",
+                    "disc": "original",
+                    "text": "神主居所 (不朽聯盟)",
+                    "index": 339
+                },
+
+                Monster
+                
+                {
+                    "type": "K'aj Q'ura",
+                    "text": "傲慢之心",
+                    "index": 90
+                },
+                {
+                    "type": "Junglemare",
+                    "text": "叢林夢魘",
+                    "index": 55
+                },
+                {
+                    "type": "Crazed Chieftain",
+                    "text": "瘋狂的酋長",
+                    "index": 56
+                },
+                {
+                    "type": "Blue Frog",
+                    "text": "藍蛙",
+                    "index": 127
+                },
+                {
+                    "type": "Common Frog",
+                    "text": "一般的蛙",
+                    "index": 128
+                },
+                {
+                    "type": "Dire Wolf",
+                    "text": "恐懼之狼",
+                    "index": 258
+                },
+                {
+                    "type": "Carrion Minion",
+                    "text": "食腐仔蟲",
+                    "index": 191
+                },
+                {
+                    "type": "Rabid Minion",
+                    "text": "瘋狂的僕從",
+                    "index": 199
+                },
+                {
+                    "type": "Spirit of Aidan",
+                    "text": "艾丹之靈",
+                    "index": 274
+                },
+                {
+                    "type": "Spirit of Nadia",
+                    "text": "娜迪雅之靈",
+                    "index": 275
+                },
+                {
+                    "type": "Aidan the Frenzied",
+                    "text": "迅捷之影艾丹",
+                    "index": 278
+                },
+                {
+                    "type": "Primitive Ape",
+                    "text": "靈猿之首",
+                    "index": 282
+                },
+                {
+                    "type": "Echo of the Verdant",
+                    "text": "自然之回音",
+                    "index": 283
+                },
+
+
+GB
+                Accessories
+                {
+                    "type": "Golden Obi",
+                    "text": "Golden Obi",
+                    "index": 55
+                },
+                {
+                    "type": "Golden Hoop",
+                    "text": "Golden Hoop",
+                    "index": 76
+                },
+
+                Armuor
+                {
+                    "type": "Jet Amulet",
+                    "text": "Jet Amulet",
+                    "index": 4
+                },
+                {
+                    "type": "Golden Bracers",
+                    "text": "Golden Bracers",
+                    "index": 177
+                },
+                {
+                    "type": "Cured Quiver",
+                    "text": "Cured Quiver",
+                    "index": 416
+                },
+                {
+                    "type": "Conductive Quiver",
+                    "text": "Conductive Quiver",
+                    "index": 422
+                },
+                {
+                    "type": "Heavy Quiver",
+                    "text": "Heavy Quiver",
+                    "index": 423
+                },
+                {
+                    "type": "Light Quiver",
+                    "text": "Light Quiver",
+                    "index": 424
+                },
+                {
+                    "type": "Serrated Arrow Quiver",
+                    "text": "Serrated Arrow Quiver",
+                    "index": 425
+                }
+                {
+                    "type": "Golden Wreath",
+                    "text": "Golden Wreath",
+                    "index": 317
+                },
+                {
+                    "type": "Golden Flame",
+                    "text": "Golden Flame",
+                    "index": 318
+                },
+                {
+                    "type": "Golden Caligae",
+                    "text": "Golden Caligae",
+                    "index": 108
+                },
+                Weapon
+                
+                {
+                    "type": "Wyrmbone Rapier",
+                    "text": "Wyrmbone Rapier",
+                    "index": 195
+                },
+
+               
+
+
+
+                Currency
+                {
+                    "type": "Captured Soul of Mephod, the Earth Scorcher",
+                    "text": "Captured Soul of Mephod, the Earth Scorcher",
+                    "index": 414
+                },
+                {
+                    "type": "Captured Soul of Spinner of False Hope",
+                    "text": "Captured Soul of Spinner of False Hope",
+                    "index": 415
+                },
+                {
+                    "type": "Captured Soul of Nassar, Lion of the Seas",
+                    "text": "Captured Soul of Nassar, Lion of the Seas",
+                    "index": 416
+                },
+                {
+                    "type": "Captured Soul of Litanius, the Black Prayer",
+                    "text": "Captured Soul of Litanius, the Black Prayer",
+                    "index": 417
+                },
+                {
+                    "type": "Captured Soul of Stalker of the Endless Dunes",
+                    "text": "Captured Soul of Stalker of the Endless Dunes",
+                    "index": 418
+                },
+                {
+                    "type": "Captured Soul of Herald of Thunder",
+                    "text": "Captured Soul of Herald of Thunder",
+                    "index": 419
+                },
+                {
+                    "type": "Captured Soul of Drek, Apex Hunter",
+                    "text": "Captured Soul of Drek, Apex Hunter",
+                    "index": 420
+                },
+                {
+                    "type": "Item Quantity Support",
+                    "text": "Item Quantity Support",
+                    "index": 409
+                },
+                MAP
+                
+                {
+                    "type": "Necropolis Map",
+                    "disc": "theawakening",
+                    "text": "Necropolis Map (The Awakening)",
+                    "index": 332
+                },
+                {
+                    "type": "Plateau Map",
+                    "disc": "theawakening",
+                    "text": "Plateau Map (The Awakening)",
+                    "index": 333
+                },
+                {
+                    "type": "Bazaar Map",
+                    "disc": "theawakening",
+                    "text": "Bazaar Map (The Awakening)",
+                    "index": 334
+                },
+                {
+                    "type": "Volcano Map",
+                    "disc": "theawakening",
+                    "text": "Volcano Map (The Awakening)",
+                    "index": 335
+                },
+                {
+                    "type": "Chateau Map",
+                    "disc": "theawakening",
+                    "text": "Chateau Map (The Awakening)",
+                    "index": 336
+                },
+                {
+                    "type": "Cursed Crypt Map",
+                    "disc": "theawakening",
+                    "text": "Cursed Crypt Map (The Awakening)",
+                    "index": 337
+                },
+                {
+                    "type": "Lava Chamber Map",
+                    "disc": "theawakening",
+                    "text": "Lava Chamber Map (The Awakening)",
+                    "index": 338
+                },
+                {
+                    "type": "Precinct Map",
+                    "disc": "theawakening",
+                    "text": "Precinct Map (The Awakening)",
+                    "index": 339
+                },
+                {
+                    "type": "Academy Map",
+                    "disc": "theawakening",
+                    "text": "Academy Map (The Awakening)",
+                    "index": 340
+                },
+                {
+                    "type": "Fungal Hollow Map",
+                    "disc": "theawakening",
+                    "text": "Fungal Hollow Map (The Awakening)",
+                    "index": 341
+                },
+                {
+                    "type": "Dungeon Map",
+                    "disc": "theawakening",
+                    "text": "Dungeon Map (The Awakening)",
+                    "index": 342
+                },
+                {
+                    "type": "Shipyard Map",
+                    "disc": "theawakening",
+                    "text": "Shipyard Map (The Awakening)",
+                    "index": 343
+                },
+                {
+                    "type": "Overgrown Ruin Map",
+                    "disc": "theawakening",
+                    "text": "Overgrown Ruin Map (The Awakening)",
+                    "index": 344
+                },
+                {
+                    "type": "Castle Ruins Map",
+                    "disc": "theawakening",
+                    "text": "Castle Ruins Map (The Awakening)",
+                    "index": 345
+                },
+                {
+                    "type": "Arsenal Map",
+                    "disc": "theawakening",
+                    "text": "Arsenal Map (The Awakening)",
+                    "index": 346
+                },
+                {
+                    "type": "Grotto Map",
+                    "disc": "theawakening",
+                    "text": "Grotto Map (The Awakening)",
+                    "index": 347
+                },
+                {
+                    "type": "Wasteland Map",
+                    "disc": "theawakening",
+                    "text": "Wasteland Map (The Awakening)",
+                    "index": 348
+                },
+                {
+                    "type": "Courtyard Map",
+                    "disc": "theawakening",
+                    "text": "Courtyard Map (The Awakening)",
+                    "index": 349
+                },
+                {
+                    "type": "Excavation Map",
+                    "disc": "theawakening",
+                    "text": "Excavation Map (The Awakening)",
+                    "index": 350
+                },
+                {
+                    "type": "Waterways Map",
+                    "disc": "theawakening",
+                    "text": "Waterways Map (The Awakening)",
+                    "index": 351
+                },
+                {
+                    "type": "Dunes Map",
+                    "disc": "theawakening",
+                    "text": "Dunes Map (The Awakening)",
+                    "index": 352
+                },
+                {
+                    "type": "Palace Map",
+                    "disc": "theawakening",
+                    "text": "Palace Map (The Awakening)",
+                    "index": 353
+                },
+                {
+                    "type": "Shrine Map",
+                    "disc": "theawakening",
+                    "text": "Shrine Map (The Awakening)",
+                    "index": 354
+                },
+                {
+                    "type": "Maze Map",
+                    "disc": "theawakening",
+                    "text": "Maze Map (The Awakening)",
+                    "index": 355
+                },
+                {
+                    "type": "Vaal Temple Map",
+                    "disc": "theawakening",
+                    "text": "Vaal Temple Map (The Awakening)",
+                    "index": 356
+                },
+                {
+                    "type": "Plaza Map",
+                    "disc": "theawakening",
+                    "text": "Plaza Map (The Awakening)",
+                    "index": 357
+                },
+                {
+                    "type": "Pit Map",
+                    "disc": "theawakening",
+                    "text": "Pit Map (The Awakening)",
+                    "index": 358
+                },
+                {
+                    "type": "Core Map",
+                    "disc": "theawakening",
+                    "text": "Core Map (The Awakening)",
+                    "index": 359
+                },
+                {
+                    "type": "Caldera Map",
+                    "disc": "theawakening",
+                    "text": "Caldera Map (The Awakening)",
+                    "index": 360
+                },
+                {
+                    "type": "Colosseum Map",
+                    "disc": "theawakening",
+                    "text": "Colosseum Map (The Awakening)",
+                    "index": 361
+                },
+                {
+                    "type": "Tropical Island Map",
+                    "disc": "theawakening",
+                    "text": "Tropical Island Map (The Awakening)",
+                    "index": 362
+                },
+                {
+                    "type": "Desert Map",
+                    "disc": "theawakening",
+                    "text": "Desert Map (The Awakening)",
+                    "index": 363
+                },
+                {
+                    "type": "Toxic Sewer Map",
+                    "disc": "theawakening",
+                    "text": "Toxic Sewer Map (The Awakening)",
+                    "index": 364
+                },
+                {
+                    "type": "Channel Map",
+                    "disc": "theawakening",
+                    "text": "Channel Map (The Awakening)",
+                    "index": 365
+                },
+                {
+                    "type": "Thicket Map",
+                    "disc": "theawakening",
+                    "text": "Thicket Map (The Awakening)",
+                    "index": 366
+                },
+                {
+                    "type": "Atoll Map",
+                    "disc": "theawakening",
+                    "text": "Atoll Map (The Awakening)",
+                    "index": 367
+                },
+                {
+                    "type": "Cemetery Map",
+                    "disc": "theawakening",
+                    "text": "Cemetery Map (The Awakening)",
+                    "index": 368
+                },
+                {
+                    "type": "Arcade Map",
+                    "disc": "theawakening",
+                    "text": "Arcade Map (The Awakening)",
+                    "index": 369
+                },
+                {
+                    "type": "Wharf Map",
+                    "disc": "theawakening",
+                    "text": "Wharf Map (The Awakening)",
+                    "index": 370
+                },
+                {
+                    "type": "Ghetto Map",
+                    "disc": "theawakening",
+                    "text": "Ghetto Map (The Awakening)",
+                    "index": 371
+                },
+                {
+                    "type": "Spider Lair Map",
+                    "disc": "theawakening",
+                    "text": "Spider Lair Map (The Awakening)",
+                    "index": 372
+                },
+                {
+                    "type": "Vaal Pyramid Map",
+                    "disc": "theawakening",
+                    "text": "Vaal Pyramid Map (The Awakening)",
+                    "index": 373
+                },
+                {
+                    "type": "Reef Map",
+                    "disc": "theawakening",
+                    "text": "Reef Map (The Awakening)",
+                    "index": 374
+                },
+                {
+                    "type": "Geode Map",
+                    "disc": "theawakening",
+                    "text": "Geode Map (The Awakening)",
+                    "index": 375
+                },
+                {
+                    "type": "Mud Geyser Map",
+                    "disc": "theawakening",
+                    "text": "Mud Geyser Map (The Awakening)",
+                    "index": 376
+                },
+                {
+                    "type": "Museum Map",
+                    "disc": "theawakening",
+                    "text": "Museum Map (The Awakening)",
+                    "index": 377
+                },
+                {
+                    "type": "Arena Map",
+                    "disc": "theawakening",
+                    "text": "Arena Map (The Awakening)",
+                    "index": 378
+                },
+                {
+                    "type": "Overgrown Shrine Map",
+                    "disc": "theawakening",
+                    "text": "Overgrown Shrine Map (The Awakening)",
+                    "index": 379
+                },
+                {
+                    "type": "Crystal Ore Map",
+                    "disc": "theawakening",
+                    "text": "Crystal Ore Map (The Awakening)",
+                    "index": 380
+                },
+                {
+                    "type": "Shore Map",
+                    "disc": "theawakening",
+                    "text": "Shore Map (The Awakening)",
+                    "index": 381
+                },
+                {
+                    "type": "Spider Forest Map",
+                    "disc": "theawakening",
+                    "text": "Spider Forest Map (The Awakening)",
+                    "index": 382
+                },
+                {
+                    "type": "Promenade Map",
+                    "disc": "theawakening",
+                    "text": "Promenade Map (The Awakening)",
+                    "index": 383
+                },
+                {
+                    "type": "Phantasmagoria Map",
+                    "disc": "theawakening",
+                    "text": "Phantasmagoria Map (The Awakening)",
+                    "index": 384
+                },
+                {
+                    "type": "Underground River Map",
+                    "disc": "theawakening",
+                    "text": "Underground River Map (The Awakening)",
+                    "index": 385
+                },
+                {
+                    "type": "Pier Map",
+                    "disc": "theawakening",
+                    "text": "Pier Map (The Awakening)",
+                    "index": 386
+                },
+                {
+                    "type": "Bog Map",
+                    "disc": "theawakening",
+                    "text": "Bog Map (The Awakening)",
+                    "index": 387
+                },
+                {
+                    "type": "Graveyard Map",
+                    "disc": "theawakening",
+                    "text": "Graveyard Map (The Awakening)",
+                    "index": 388
+                },
+                {
+                    "type": "Coves Map",
+                    "disc": "theawakening",
+                    "text": "Coves Map (The Awakening)",
+                    "index": 389
+                },
+                {
+                    "type": "Villa Map",
+                    "disc": "theawakening",
+                    "text": "Villa Map (The Awakening)",
+                    "index": 390
+                },
+                {
+                    "type": "Temple Map",
+                    "disc": "theawakening",
+                    "text": "Temple Map (The Awakening)",
+                    "index": 391
+                },
+                {
+                    "type": "Arachnid Nest Map",
+                    "disc": "theawakening",
+                    "text": "Arachnid Nest Map (The Awakening)",
+                    "index": 392
+                },
+                {
+                    "type": "Strand Map",
+                    "disc": "theawakening",
+                    "text": "Strand Map (The Awakening)",
+                    "index": 393
+                },
+                {
+                    "type": "Ashen Wood Map",
+                    "disc": "theawakening",
+                    "text": "Ashen Wood Map (The Awakening)",
+                    "index": 394
+                },
+                {
+                    "type": "Colonnade Map",
+                    "disc": "theawakening",
+                    "text": "Colonnade Map (The Awakening)",
+                    "index": 395
+                },
+                {
+                    "type": "Bone Crypt Map",
+                    "disc": "theawakening",
+                    "text": "Bone Crypt Map (The Awakening)",
+                    "index": 396
+                },
+                {
+                    "type": "Waste Pool Map",
+                    "disc": "theawakening",
+                    "text": "Waste Pool Map (The Awakening)",
+                    "index": 398
+                },
+                {
+                    "type": "Flooded Mine Map",
+                    "disc": "theawakening",
+                    "text": "Flooded Mine Map (The Awakening)",
+                    "index": 399
+                },
+                {
+                    "type": "Jungle Valley Map",
+                    "disc": "theawakening",
+                    "text": "Jungle Valley Map (The Awakening)",
+                    "index": 400
+                },
+                {
+                    "type": "Gardens Map",
+                    "disc": "theawakening",
+                    "text": "Gardens Map (The Awakening)",
+                    "index": 401
+                },
+                {
+                    "type": "Cells Map",
+                    "disc": "theawakening",
+                    "text": "Cells Map (The Awakening)",
+                    "index": 402
+                },
+                {
+                    "type": "Canyon Map",
+                    "disc": "theawakening",
+                    "text": "Canyon Map (The Awakening)",
+                    "index": 403
+                },
+                {
+                    "type": "Dark Forest Map",
+                    "disc": "theawakening",
+                    "text": "Dark Forest Map (The Awakening)",
+                    "index": 404
+                },
+                {
+                    "type": "Peninsula Map",
+                    "disc": "theawakening",
+                    "text": "Peninsula Map (The Awakening)",
+                    "index": 405
+                },
+                {
+                    "type": "Orchard Map",
+                    "disc": "theawakening",
+                    "text": "Orchard Map (The Awakening)",
+                    "index": 406
+                },
+                {
+                    "type": "Underground Sea Map",
+                    "disc": "theawakening",
+                    "text": "Underground Sea Map (The Awakening)",
+                    "index": 407
+                },
+                {
+                    "type": "Arid Lake Map",
+                    "disc": "theawakening",
+                    "text": "Arid Lake Map (The Awakening)",
+                    "index": 408
+                },
+                {
+                    "type": "Glacier Map",
+                    "disc": "theawakening",
+                    "text": "Glacier Map (The Awakening)",
+                    "index": 409
+                },
+                {
+                    "type": "Residence Map",
+                    "disc": "theawakening",
+                    "text": "Residence Map (The Awakening)",
+                    "index": 410
+                },
+                {
+                    "type": "Malformation Map",
+                    "disc": "theawakening",
+                    "text": "Malformation Map (The Awakening)",
+                    "index": 411
+                },
+                {
+                    "type": "Necropolis Map",
+                    "disc": "original",
+                    "text": "Necropolis Map (Legacy)",
+                    "index": 412
+                },
+                {
+                    "type": "Plateau Map",
+                    "disc": "original",
+                    "text": "Plateau Map (Legacy)",
+                    "index": 413
+                },
+                {
+                    "type": "Bazaar Map",
+                    "disc": "original",
+                    "text": "Bazaar Map (Legacy)",
+                    "index": 414
+                },
+                {
+                    "type": "Cursed Crypt Map",
+                    "disc": "original",
+                    "text": "Cursed Crypt Map (Legacy)",
+                    "index": 415
+                },
+                {
+                    "type": "Lava Chamber Map",
+                    "disc": "original",
+                    "text": "Lava Chamber Map (Legacy)",
+                    "index": 416
+                },
+                {
+                    "type": "Precinct Map",
+                    "disc": "original",
+                    "text": "Precinct Map (Legacy)",
+                    "index": 417
+                },
+                {
+                    "type": "Academy Map",
+                    "disc": "original",
+                    "text": "Academy Map (Legacy)",
+                    "index": 418
+                },
+                {
+                    "type": "Dungeon Map",
+                    "disc": "original",
+                    "text": "Dungeon Map (Legacy)",
+                    "index": 419
+                },
+                {
+                    "type": "Shipyard Map",
+                    "disc": "original",
+                    "text": "Shipyard Map (Legacy)",
+                    "index": 420
+                },
+                {
+                    "type": "Shrine Map",
+                    "disc": "original",
+                    "text": "Shrine Map (Legacy)",
+                    "index": 421
+                },
+                {
+                    "type": "Grotto Map",
+                    "disc": "original",
+                    "text": "Grotto Map (Legacy)",
+                    "index": 422
+                },
+                {
+                    "type": "Palace Map",
+                    "disc": "original",
+                    "text": "Palace Map (Legacy)",
+                    "index": 423
+                },
+                {
+                    "type": "Courtyard Map",
+                    "disc": "original",
+                    "text": "Courtyard Map (Legacy)",
+                    "index": 424
+                },
+                {
+                    "type": "Overgrown Ruin Map",
+                    "disc": "original",
+                    "text": "Overgrown Ruin Map (Legacy)",
+                    "index": 425
+                },
+                {
+                    "type": "Vaal Temple Map",
+                    "disc": "original",
+                    "text": "Vaal Temple Map (Legacy)",
+                    "index": 426
+                },
+                {
+                    "type": "Dunes Map",
+                    "disc": "original",
+                    "text": "Dunes Map (Legacy)",
+                    "index": 427
+                },
+                {
+                    "type": "Arid Lake Map",
+                    "disc": "original",
+                    "text": "Arid Lake Map (Legacy)",
+                    "index": 428
+                },
+                {
+                    "type": "Tropical Island Map",
+                    "disc": "original",
+                    "text": "Tropical Island Map (Legacy)",
+                    "index": 429
+                },
+                {
+                    "type": "Orchard Map",
+                    "disc": "original",
+                    "text": "Orchard Map (Legacy)",
+                    "index": 430
+                },
+                {
+                    "type": "Wharf Map",
+                    "disc": "original",
+                    "text": "Wharf Map (Legacy)",
+                    "index": 431
+                },
+                {
+                    "type": "Arsenal Map",
+                    "disc": "original",
+                    "text": "Arsenal Map (Legacy)",
+                    "index": 432
+                },
+                {
+                    "type": "Thicket Map",
+                    "disc": "original",
+                    "text": "Thicket Map (Legacy)",
+                    "index": 433
+                },
+                {
+                    "type": "Cemetery Map",
+                    "disc": "original",
+                    "text": "Cemetery Map (Legacy)",
+                    "index": 435
+                },
+                {
+                    "type": "Toxic Sewer Map",
+                    "disc": "original",
+                    "text": "Toxic Sewer Map (Legacy)",
+                    "index": 436
+                },
+                {
+                    "type": "Arcade Map",
+                    "disc": "original",
+                    "text": "Arcade Map (Legacy)",
+                    "index": 437
+                },
+                {
+                    "type": "Ghetto Map",
+                    "disc": "original",
+                    "text": "Ghetto Map (Legacy)",
+                    "index": 438
+                },
+                {
+                    "type": "Spider Lair Map",
+                    "disc": "original",
+                    "text": "Spider Lair Map (Legacy)",
+                    "index": 439
+                },
+                {
+                    "type": "Reef Map",
+                    "disc": "original",
+                    "text": "Reef Map (Legacy)",
+                    "index": 441
+                },
+                {
+                    "type": "Fungal Hollow Map",
+                    "disc": "original",
+                    "text": "Fungal Hollow Map (Legacy)",
+                    "index": 442
+                },
+                {
+                    "type": "Mud Geyser Map",
+                    "disc": "original",
+                    "text": "Mud Geyser Map (Legacy)",
+                    "index": 443
+                },
+                {
+                    "type": "Museum Map",
+                    "disc": "original",
+                    "text": "Museum Map (Legacy)",
+                    "index": 444
+                },
+                {
+                    "type": "Bone Crypt Map",
+                    "disc": "original",
+                    "text": "Bone Crypt Map (Legacy)",
+                    "index": 445
+                },
+                {
+                    "type": "Overgrown Shrine Map",
+                    "disc": "original",
+                    "text": "Overgrown Shrine Map (Legacy)",
+                    "index": 446
+                },
+                {
+                    "type": "Crystal Ore Map",
+                    "disc": "original",
+                    "text": "Crystal Ore Map (Legacy)",
+                    "index": 447
+                },
+                {
+                    "type": "Shore Map",
+                    "disc": "original",
+                    "text": "Shore Map (Legacy)",
+                    "index": 448
+                },
+                {
+                    "type": "Spider Forest Map",
+                    "disc": "original",
+                    "text": "Spider Forest Map (Legacy)",
+                    "index": 449
+                },
+                {
+                    "type": "Promenade Map",
+                    "disc": "original",
+                    "text": "Promenade Map (Legacy)",
+                    "index": 450
+                },
+                {
+                    "type": "Underground River Map",
+                    "disc": "original",
+                    "text": "Underground River Map (Legacy)",
+                    "index": 451
+                },
+                {
+                    "type": "Pier Map",
+                    "disc": "original",
+                    "text": "Pier Map (Legacy)",
+                    "index": 452
+                },
+                {
+                    "type": "Bog Map",
+                    "disc": "original",
+                    "text": "Bog Map (Legacy)",
+                    "index": 453
+                },
+                {
+                    "type": "Graveyard Map",
+                    "disc": "original",
+                    "text": "Graveyard Map (Legacy)",
+                    "index": 454
+                },
+                {
+                    "type": "Coves Map",
+                    "disc": "original",
+                    "text": "Coves Map (Legacy)",
+                    "index": 455
+                },
+                {
+                    "type": "Villa Map",
+                    "disc": "original",
+                    "text": "Villa Map (Legacy)",
+                    "index": 456
+                },
+               
+                {
+                    "type": "Arachnid Nest Map",
+                    "disc": "original",
+                    "text": "Arachnid Nest Map (Legacy)",
+                    "index": 458
+                },
+                {
+                    "type": "Ashen Wood Map",
+                    "disc": "original",
+                    "text": "Ashen Wood Map (Legacy)",
+                    "index": 460
+                },
+                {
+                    "type": "Colonnade Map",
+                    "disc": "original",
+                    "text": "Colonnade Map (Legacy)",
+                    "index": 461
+                },
+                {
+                    "type": "Primordial Blocks Map",
+                    "disc": "original",
+                    "text": "Primordial Blocks Map (Legacy)",
+                    "index": 462
+                },
+                {
+                    "type": "Waste Pool Map",
+                    "disc": "original",
+                    "text": "Waste Pool Map (Legacy)",
+                    "index": 463
+                },
+                {
+                    "type": "Flooded Mine Map",
+                    "disc": "original",
+                    "text": "Flooded Mine Map (Legacy)",
+                    "index": 464
+                },
+                {
+                    "type": "Jungle Valley Map",
+                    "disc": "original",
+                    "text": "Jungle Valley Map (Legacy)",
+                    "index": 465
+                },
+                {
+                    "type": "Gardens Map",
+                    "disc": "original",
+                    "text": "Gardens Map (Legacy)",
+                    "index": 466
+                },
+                {
+                    "type": "Cells Map",
+                    "disc": "original",
+                    "text": "Cells Map (Legacy)",
+                    "index": 467
+                },
+                {
+                    "type": "Canyon Map",
+                    "disc": "original",
+                    "text": "Canyon Map (Legacy)",
+                    "index": 468
+                },
+                {
+                    "type": "Dark Forest Map",
+                    "disc": "original",
+                    "text": "Dark Forest Map (Legacy)",
+                    "index": 469
+                },
+                {
+                    "type": "Peninsula Map",
+                    "disc": "original",
+                    "text": "Peninsula Map (Legacy)",
+                    "index": 470
+                },
+                {
+                    "type": "Underground Sea Map",
+                    "disc": "original",
+                    "text": "Underground Sea Map (Legacy)",
+                    "index": 471
+                },
+                {
+                    "type": "Glacier Map",
+                    "disc": "original",
+                    "text": "Glacier Map (Legacy)",
+                    "index": 473
+                },
+                {
+                    "type": "Residence Map",
+                    "disc": "original",
+                    "text": "Residence Map (Legacy)",
+                    "index": 474
+                },
+
+                Monster
+                {
+                    "type": "Marrowcrush",
+                    "text": "Marrowcrush",
+                    "index": 36
+                },
+                {
+                    "type": "Strange Frog",
+                    "text": "Strange Frog",
+                    "index": 132
+                },
+                {
+                    "type": "Alpha Paradisae",
+                    "text": "Alpha Paradisae",
+                    "index": 146
+                },
+                {
+                    "type": "Blood Stasis ",
+                    "text": "Blood Stasis ",
+                    "index": 289
+                },
+                {
+                    "type": "Blood Morpher",
+                    "text": "Blood Morpher",
+                    "index": 290
+                },
+                {
+                    "type": "Lola, the Fierce",
+                    "text": "Lola, the Fierce",
+                    "index": 322
+                },
+                {
+                    "type": "Rocco, the Bloodthirsty",
+                    "text": "Rocco, the Bloodthirsty",
+                    "index": 323
+                },
+                {
+                    "type": "The Cadaver Bull",
+                    "text": "The Cadaver Bull",
+                    "index": 335
+                },
+                {
+                    "type": "Zombie Rhoa",
+                    "text": "Zombie Rhoa",
+                    "index": 340
+                },
+                {
+                    "type": "Ghostram",
+                    "text": "Ghostram",
+                    "index": 341
+                },
+                {
+                    "type": "Shivershell",
+                    "text": "Shivershell",
+                    "index": 405
+                },
+                {
+                    "type": "Maligaro's Inspiration",
+                    "text": "Maligaro's Inspiration",
+                    "index": 459
+                },
+                {
+                    "type": "Corrupted Spitter",
+                    "text": "Corrupted Spitter",
+                    "index": 464
+                },
+                {
+                    "type": "Aidan the Frenzied",
+                    "text": "Aidan the Frenzied",
+                    "index": 278
+                },
+                {
+                    "type": "Primitive Ape",
+                    "text": "Primitive Ape",
+                    "index": 282
+                },
+                {
+                    "type": "Echo of the Verdant",
+                    "text": "Echo of the Verdant",
+                    "index": 283
+                },
+                {
+                    "type": "Deadly Tarantula",
+                    "text": "Deadly Tarantula",
+                    "index": 475
+                },
+                {
+                    "type": "Junglemare",
+                    "text": "Junglemare",
+                    "index": 55
+                },
+                {
+                    "type": "Crazed Chieftain",
+                    "text": "Crazed Chieftain",
+                    "index": 56
+                },
+                {
+                    "type": "K'aj Q'ura",
+                    "text": "K'aj Q'ura",
+                    "index": 88
+                },
+                {
+                    "type": "Blue Frog",
+                    "text": "Blue Frog",
+                    "index": 127
+                },
+                {
+                    "type": "Common Frog",
+                    "text": "Common Frog",
+                    "index": 128
+                },
+                {
+                    "type": "Carrion Minion",
+                    "text": "Carrion Minion",
+                    "index": 191
+                },
+                {
+                    "type": "Rabid Minion",
+                    "text": "Rabid Minion",
+                    "index": 199
+                },
+                {
+                    "type": "Dire Wolf",
+                    "text": "Dire Wolf",
+                    "index": 256
+                },
+                {
+                    "type": "Spirit of Aidan",
+                    "text": "Spirit of Aidan",
+                    "index": 274
+                },
+                {
+                    "type": "Spirit of Nadia",
+                    "text": "Spirit of Nadia",
+                    "index": 275
+                },
+                {
+                    "type": "The Encephelophage",
+                    "text": "The Encephelophage",
+                    "index": 289
+                },
+
+
+
+                watchstones
+                 {
+                    "type": "Crimson Watchstone",
+                    "text": "Crimson Watchstone",
+                    "index": 1
+                },
+                {
+                    "type": "Cobalt Watchstone",
+                    "text": "Cobalt Watchstone",
+                    "index": 2
+                },
+                {
+                    "type": "Viridian Watchstone",
+                    "text": "Viridian Watchstone",
+                    "index": 3
+                },
+                {
+                    "type": "Golden Watchstone",
+                    "text": "Golden Watchstone",
+                    "index": 4
+                },
+
+                {Leaguestones}
+
+
+
+                

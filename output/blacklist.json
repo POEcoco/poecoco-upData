@@ -1,3 +1,36 @@
 {
-    
+    "GB-TW01":"GB多了一個 Golden Bracers (index:177) 在護甲類",
+    "GB-TW02":"GB多了一個 Cured Quiver (index:416) 在護甲類",
+    "GB-TW03":"
+    {
+                    "type": "Ornate Quiver",
+                    "text": "Ornate Quiver",
+                    "index": 420
+                },
+                {
+                    "type": "Rugged Quiver",
+                    "text": "Rugged Quiver",
+                    "index": 421
+                },
+                {
+                    "type": "Conductive Quiver",
+                    "text": "Conductive Quiver",
+                    "index": 422
+                },
+                {
+                    "type": "Heavy Quiver",
+                    "text": "Heavy Quiver",
+                    "index": 423
+                },
+                {
+                    "type": "Light Quiver",
+                    "text": "Light Quiver",
+                    "index": 424
+                },
+                {
+                    "type": "Serrated Arrow Quiver",
+                    "text": "Serrated Arrow Quiver",
+                    "index": 425
+                },
+    "
 }
