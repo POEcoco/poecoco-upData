@@ -1,11 +1,11 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.GetAllNewData = void 0;
+exports.FetchAllDataFromOffical = void 0;
 const fs_1 = require("fs");
 const cli_1 = require("../utility/cli");
 const content_1 = require("../content");
-const targetPath = './output/old/';
-async function GetAllNewData() {
+const targetPath = './output/fetch/';
+async function FetchAllDataFromOffical() {
     const list = (0, content_1.GetLanguageKeys)();
     for (const lang of list) {
         const host = (0, content_1.GetItemsURL)(lang);
@@ -61,5 +61,5 @@ async function GetAllNewData() {
     }
     console.log('Get All File From Offical Website');
 }
-exports.GetAllNewData = GetAllNewData;
-//# sourceMappingURL=module.js.map
+exports.FetchAllDataFromOffical = FetchAllDataFromOffical;
+//# sourceMappingURL=fetchdata.js.map

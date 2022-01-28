@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "장신구",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "방어도",
+            "entries": []
+        },
+        {
+            "id": "cards",
+            "label": "카드",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "화폐",
+            "entries": []
+        },
+        {
+            "id": "flasks",
+            "label": "플라스크",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "젬",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "주얼",
+            "entries": []
+        },
+        {
+            "id": "maps",
+            "label": "지도",
+            "entries": []
+        },
+        {
+            "id": "weapons",
+            "label": "무기",
+            "entries": []
+        },
+        {
+            "id": "leaguestones",
+            "label": "리그스톤",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "예언",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "아이템화된 몬스터",
+            "entries": []
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}

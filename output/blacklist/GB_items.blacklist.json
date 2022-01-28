@@ -1,0 +1,94 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "Accessories",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "Armour",
+            "entries": [
+                {
+                    "name": "Reckless Defence",
+                    "type": "Lacquered Garb",
+                    "text": "Reckless Defence Lacquered Garb",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 272
+                }
+            ]
+        },
+        {
+            "id": "cards",
+            "label": "Cards",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "Currency",
+            "entries": []
+        },
+        {
+            "id": "flasks",
+            "label": "Flasks",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "Gems",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "Jewels",
+            "entries": []
+        },
+        {
+            "id": "maps",
+            "label": "Maps",
+            "entries": []
+        },
+        {
+            "id": "weapons",
+            "label": "Weapons",
+            "entries": []
+        },
+        {
+            "id": "leaguestones",
+            "label": "Leaguestones",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "Prophecies",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "Itemised Monsters",
+            "entries": []
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}

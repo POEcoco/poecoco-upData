@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "Бижутерия",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "Броня",
+            "entries": []
+        },
+        {
+            "id": "cards",
+            "label": "Гадальные карты",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "Валюта",
+            "entries": []
+        },
+        {
+            "id": "flasks",
+            "label": "Флаконы",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "Камни",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "Самоцветы",
+            "entries": []
+        },
+        {
+            "id": "maps",
+            "label": "Карты",
+            "entries": []
+        },
+        {
+            "id": "weapons",
+            "label": "Оружие",
+            "entries": []
+        },
+        {
+            "id": "leaguestones",
+            "label": "Камни лиги",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "Пророчества",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "Запечатанные монстры",
+            "entries": []
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}
