@@ -1,15 +1,15 @@
-import {FetchAllDataFromOffical} from './module/fetchdata';
-import {GenerateBlackList} from './module/items';
-import {CheckLength} from './module/stats';
+import {DefaultProcess} from './module/module';
+import * as core from '@actions/core';
 
-const FetchNewData = false;
 async function main() {
-  //Get all source data
-  if (FetchNewData) {
-    await FetchAllDataFromOffical();
+  try {
+    //主要流程
+    await DefaultProcess();
+  } catch (err) {
+    //Failed the process;
+    const msg = JSON.stringify(err);
+    core.setFailed(msg);
   }
-  //Check file has been edit or not
-
-  await GenerateBlackList();
+  core.info('更新完成!!');
 }
 main();

@@ -1,66 +1,21 @@
-import {GetLanguageKeys} from '../content';
+import {GetItemsURL, GetLanguageKeys} from '../content';
 import {readFileSync, writeFileSync} from 'fs';
-import {FetchAllDataFromOffical} from './fetchdata';
-const ActivePath = './output/items/';
-const list = GetLanguageKeys();
+import exec from '../utility/cli';
 
-export async function GenerateBlackList() {
-  //更新網路新資料
-  //await FetchAllDataFromOffical();
+const FetchPath = './output/fetch/';
+const LocalPath = './output/stats/';
 
-  const Rawcollection: any = {};
-  for (const lang of list) {
-    const str = await readFileSync(
-      './output/fetch/' + `${lang}_item.json`,
-      'utf8'
-    );
-    const rawJSON = JSON.parse(str);
-    Rawcollection[lang] = rawJSON;
-  }
-
-  //獲取本地原始檔案
-  const collection = await GetAllLocalItemJson();
-
-  //篩選黑名單
-  for (const lang of list) {
-    //剔除已經具有的項目
-    const keyJSON = collection[lang];
-    const newJSON = Rawcollection[lang];
-    const resultJSON: any = {
-      result: [],
-    };
-    for (const i in keyJSON['result']) {
-      if (keyJSON['result'][i]['id'] !== newJSON['result'][i]['id']) {
-        throw new Error(`錯誤:項目"${keyJSON['result'][i]['id']}"無法對上`);
-      }
-      let enty: any = {};
-      enty = JSON.stringify(keyJSON['result'][i]);
-      enty = JSON.parse(enty);
-      enty['entries'] = [];
-      //開始剔除
-      for (const key of newJSON['result'][i]['entries']) {
-        //檢查是不是已有的資料
-        const checktxt = key['text'];
-        if (!isContain(checktxt, keyJSON['result'][i]['entries'])) {
-          enty['entries'].push(key);
-        }
-      }
-      resultJSON['result'].push(enty);
-    }
-
-    //更新檔案
-    await writeFileSync(
-      `./output/blacklist/${lang}_items.blacklist.json`,
-      JSON.stringify(resultJSON, null, 4)
-    );
-  }
-  console.log('結束完成黑名單生成');
-}
-function isContain(text: string, entries: any[]): boolean {
-  let result = false;
-  for (const entry of entries) {
-    if (entry['text'] === text) {
-      result = true;
+/**
+ * 是否在陣列中包含
+ * @param text 輸入完整名稱
+ * @param entries 要搜尋的陣列
+ * @returns 布林值
+ */
+function isContain(text: string, entries: any[]): number {
+  let result = -1;
+  for (let i = 0; i < entries.length; i++) {
+    if (entries[i]['text'] === text) {
+      result = i;
       break;
     }
   }
@@ -68,19 +23,9 @@ function isContain(text: string, entries: any[]): boolean {
 }
 
 /**
- * 獲取本地的物品JSON
- *  @param lang Language KEY
- *  @returns JSON
- **/
-export async function GetLocalItemJson(lang: string): Promise<any> {
-  let result = {};
-  const str = await readFileSync(ActivePath + `${lang}_item.json`, 'utf8');
-  result = JSON.parse(str);
-  return result;
-}
-/**
  * 寫入本地的物品JSON
  *  @param lang Language KEY
+ *  @param data content
  *  @returns JSON
  **/
 export async function WriteItemJsonToLocal(
@@ -88,26 +33,147 @@ export async function WriteItemJsonToLocal(
   data: any
 ): Promise<any> {
   await writeFileSync(
-    ActivePath + `${lang}_item.json`,
+    LocalPath + `${lang}_item.json`,
     JSON.stringify(data, null, 4)
   );
 }
+
 /**
- * 獲取本地的物品JSON集合
+ * 讀取新獲取的本地物品JSON
+ *  @param lang Language KEY
+ *  @returns JSON
+ **/
+export async function LoadLocalItemJson(lang: string): Promise<any> {
+  let result = {};
+  const str = await readFileSync(FetchPath + `${lang}_item.json`, 'utf8');
+  result = JSON.parse(str);
+  return result;
+}
+/**
+ * 讀取新獲取的本地物品JSON集合
  *  @returns JSON{
- *  GB:{},
- *  TW:{},
- *  CN:{},
- *  KR:{},.....
+ *  GB:{"result":{}},
+ *  TW:{"result":{}},
+ *  CN:{"result":{}},
+ *  KR:{"result":{}},.....
  * }
  **/
-//獲取本地的物品JSON集合
-export async function GetAllLocalItemJson(): Promise<any> {
+export async function LoadAllLocalItemJson(input_p: string): Promise<any> {
+  const list = GetLanguageKeys();
   const collection: any = {};
   for (const lang of list) {
-    const str = await readFileSync(ActivePath + `${lang}_item.json`, 'utf8');
+    const str = await readFileSync(input_p + `${lang}_item.json`, 'utf8');
     const rawJSON = JSON.parse(str);
     collection[lang] = rawJSON;
   }
   return collection;
 }
+
+/**
+ * 從官網拉取JSON
+ *  @returns JSON{
+ *  result:[],
+ * }
+ **/
+export async function FetchNewItemJson(lang: string): Promise<any> {
+  let result: any = {};
+  const host = GetItemsURL(lang);
+  const [out] = await exec('curl', [host]);
+
+  result = JSON.parse(out);
+  return result;
+}
+
+export async function GeneratedNewData() {
+  const list = GetLanguageKeys();
+  const newcollection = await LoadAllLocalItemJson('./output/fetch');
+  const oldcollection = await LoadAllLocalItemJson('./output/items');
+  const blackCollection = await LoadAllLocalItemJson('./output/blacklist');
+
+  /*
+    標註: 要考慮到可能會有新增的集合，或是新資料有沒有正確比對到舊集合
+  */
+
+  const [idlength, IDs] = filterIDs(newcollection['GB']);
+  for (const lang of list) {
+    const [idlengthtemp] = filterIDs(newcollection[lang]);
+    if (idlengthtemp !== idlength) {
+      throw new Error('各個新資料之間，大分類資料長度不同');
+    }
+  }
+
+  for (const id of IDs) {
+    //
+  }
+
+  //刪除黑名單
+  for (const lang of list) {
+    for (const element of newcollection[lang]['result']) {
+      for (const i in element['entries']) {
+        const bkword = blackCollection[lang]['result'][i]['text'];
+        const index = isContain(bkword, element['entries']);
+        if (index !== -1) {
+          delete element['entries'][index];
+        }
+      }
+    }
+  }
+  //刪除已有名單
+  for (const lang of list) {
+    for (const element of newcollection[lang]['result']) {
+      for (const i in element['entries']) {
+        const bkword = oldcollection[lang]['result'][i]['text'];
+        const index = isContain(bkword, element['entries']);
+        if (index !== -1) {
+          delete element['entries'][index];
+        }
+      }
+    }
+  }
+  //合併新舊名單
+
+  //檢查長度是否不一樣
+  let slength = 0;
+  for (const lang of list) {
+    for (const element of newcollection[lang]['result']) {
+      if (element['entries'].length !== slength) {
+        throw new Error(
+          `新資料的資料長度與舊資料不同: ${element['entries']['text']}`
+        );
+      } else {
+        slength = element['entries'].length;
+      }
+    }
+  }
+}
+
+//#region  ---combine toolkit ---
+/**
+ * 獲取ID的列表以及數量
+ * @param elements 大分類的陣列
+ * @returns [number, IDs] 獲取ID列表以及數量
+ */
+function filterIDs(elements: any[]): [number, string[]] {
+  const result: string[] = [];
+  for (const entry of elements) {
+    result.push(entry['id']);
+  }
+  return [result.length, result];
+}
+/**
+ * 用ID獲取大分類
+ * @param elements 大分類的集合
+ * @param id 大分類的標籤
+ * @returns JSON 大分類
+ */
+function filterElementByIDs(elements: any[], id: string): any {
+  let result: any = {};
+  for (const entry of elements) {
+    if (entry['id'] === id) {
+      result = entry;
+      break;
+    }
+  }
+  return result;
+}
+//#endregion

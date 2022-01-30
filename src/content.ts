@@ -2,7 +2,6 @@ const GETSTATIC = '/api/trade/data/static'; //GET urrency data list
 const GETSTATS = '/api/trade/data/stats'; //GET Mods list
 const GETITEMS = '/api/trade/data/items'; //GET Items list
 
-const PASSIVETREEPATH = 'https://www.pathofexile.com/passive-skill-tree'; //TO GET PASSIVETREE
 const SourceList = [
   {
     KEY: 'GB',

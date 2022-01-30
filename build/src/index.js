@@ -1,15 +1,18 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const fetchdata_1 = require("./module/fetchdata");
-const items_1 = require("./module/items");
-const FetchNewData = false;
+const module_1 = require("./module/module");
+const core = require("@actions/core");
 async function main() {
-    //Get all source data
-    if (FetchNewData) {
-        await (0, fetchdata_1.FetchAllDataFromOffical)();
+    try {
+        //主要流程
+        await module_1.DefaultProcess();
     }
-    //Check file has been edit or not
-    await (0, items_1.GenerateBlackList)();
+    catch (err) {
+        //Failed the process;
+        const msg = JSON.stringify(err);
+        core.setFailed(msg);
+    }
+    core.info('更新完成!!');
 }
 main();
 //# sourceMappingURL=index.js.map
