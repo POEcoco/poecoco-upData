@@ -5,7 +5,7 @@ import * as stats from './stats';
 /**基礎的流程(拉取新資料 → 比對翻譯資料 → 寫入output以供poecoco使用) */
 export async function DefaultProcess() {
   //拉取新資料
-  await FetchAllDataFromOffical();
+  //await FetchAllDataFromOffical();
   //生成新資料
   await items.GeneratedNewData();
   await stats.GeneratedNewData();

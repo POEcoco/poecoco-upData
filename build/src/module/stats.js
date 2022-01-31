@@ -28,7 +28,7 @@ const LocalPath = './output/stats/';
  *  @returns JSON
  **/
 async function WriteStatsJsonToLocal(lang, data) {
-    await fs_1.writeFileSync(LocalPath + `${lang}_stats.json`, JSON.stringify(data, null, 4));
+    await (0, fs_1.writeFileSync)(LocalPath + `${lang}_stats.json`, JSON.stringify(data, null, 4));
 }
 exports.WriteStatsJsonToLocal = WriteStatsJsonToLocal;
 /**
@@ -38,7 +38,7 @@ exports.WriteStatsJsonToLocal = WriteStatsJsonToLocal;
  **/
 async function LoadLocalStatsJson(lang) {
     let result = {};
-    const str = await fs_1.readFileSync(FetchPath + `${lang}_stats.json`, 'utf8');
+    const str = await (0, fs_1.readFileSync)(FetchPath + `${lang}_stats.json`, 'utf8');
     result = JSON.parse(str);
     return result;
 }
@@ -54,9 +54,9 @@ exports.LoadLocalStatsJson = LoadLocalStatsJson;
  **/
 async function LoadAllLocalStatsJson() {
     const collection = {};
-    const list = content_1.GetLanguageKeys();
+    const list = (0, content_1.GetLanguageKeys)();
     for (const lang of list) {
-        const str = await fs_1.readFileSync(FetchPath + `${lang}_stats.json`, 'utf8');
+        const str = await (0, fs_1.readFileSync)(FetchPath + `${lang}_stats.json`, 'utf8');
         const rawJSON = JSON.parse(str);
         collection[lang] = rawJSON;
     }
@@ -71,8 +71,8 @@ exports.LoadAllLocalStatsJson = LoadAllLocalStatsJson;
  **/
 async function FetchNewStatsJson(lang) {
     let result = {};
-    const host = content_1.GetStatsURL(lang);
-    const [out] = await cli_1.default('curl', [host]);
+    const host = (0, content_1.GetStatsURL)(lang);
+    const [out] = await (0, cli_1.default)('curl', [host]);
     result = JSON.parse(out);
     return result;
 }

@@ -5,7 +5,7 @@ const core = require("@actions/core");
 async function main() {
     try {
         //主要流程
-        await module_1.DefaultProcess();
+        await (0, module_1.DefaultProcess)();
     }
     catch (err) {
         //Failed the process;

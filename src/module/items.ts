@@ -86,65 +86,85 @@ export async function FetchNewItemJson(lang: string): Promise<any> {
 
 export async function GeneratedNewData() {
   const list = GetLanguageKeys();
-  const newcollection = await LoadAllLocalItemJson('./output/fetch');
-  const oldcollection = await LoadAllLocalItemJson('./output/items');
-  const blackCollection = await LoadAllLocalItemJson('./output/blacklist');
+  const newcollection = await LoadAllLocalItemJson('./output/fetch/');
+  const oldcollection = await LoadAllLocalItemJson('./output/items/');
+  const blackCollection = await LoadAllLocalItemJson('./output/blacklist/');
 
   /*
     標註: 要考慮到可能會有新增的集合，或是新資料有沒有正確比對到舊集合
   */
 
-  const [idlength, IDs] = filterIDs(newcollection['GB']);
+  const [idlength, IDs] = filterIDs(newcollection['GB']['result']);
   for (const lang of list) {
-    const [idlengthtemp] = filterIDs(newcollection[lang]);
+    const [idlengthtemp] = filterIDs(newcollection[lang]['result']);
+    if (idlengthtemp !== idlength) {
+      throw new Error('新獲取的資料之間，大分類資料長度不同');
+    }
+  }
+  for (const lang of list) {
+    for (const id of IDs) {
+      //
+      let elements = newcollection[lang]['result'];
+      const [targetElement, targetindex] = filterElementByIDs(elements, id);
+      elements = blackCollection[lang]['result'];
+      const [blackElement] = filterElementByIDs(elements, id);
+      elements = oldcollection[lang]['result'];
+      const [oldElement] = filterElementByIDs(elements, id);
+      //element['entries']
+      const templist = [];
+      for (const index in targetElement['entries']) {
+        //刪除黑名單
+        let erase = isContain(
+          targetElement['entries'][index]['text'],
+          blackElement['entries']
+        );
+        if (erase !== -1) {
+          continue;
+        }
+        //刪除舊檔案
+        erase = isContain(
+          targetElement['entries'][index]['text'],
+          oldElement['entries']
+        );
+        if (erase !== -1) {
+          continue;
+        }
+        templist.push(targetElement['entries'][index]);
+      }
+      newcollection[lang]['result'][targetindex]['entries'] = templist;
+      //
+    }
+  }
+
+  //檢查新資料長度是否不一樣
+  for (const lang of list) {
+    const [idlengthtemp] = filterIDs(newcollection[lang]['result']);
     if (idlengthtemp !== idlength) {
       throw new Error('各個新資料之間，大分類資料長度不同');
     }
   }
-
-  for (const id of IDs) {
-    //
-  }
-
-  //刪除黑名單
-  for (const lang of list) {
-    for (const element of newcollection[lang]['result']) {
-      for (const i in element['entries']) {
-        const bkword = blackCollection[lang]['result'][i]['text'];
-        const index = isContain(bkword, element['entries']);
-        if (index !== -1) {
-          delete element['entries'][index];
-        }
-      }
-    }
-  }
-  //刪除已有名單
-  for (const lang of list) {
-    for (const element of newcollection[lang]['result']) {
-      for (const i in element['entries']) {
-        const bkword = oldcollection[lang]['result'][i]['text'];
-        const index = isContain(bkword, element['entries']);
-        if (index !== -1) {
-          delete element['entries'][index];
-        }
-      }
-    }
-  }
   //合併新舊名單
-
-  //檢查長度是否不一樣
-  let slength = 0;
   for (const lang of list) {
-    for (const element of newcollection[lang]['result']) {
-      if (element['entries'].length !== slength) {
-        throw new Error(
-          `新資料的資料長度與舊資料不同: ${element['entries']['text']}`
-        );
-      } else {
-        slength = element['entries'].length;
+    for (const id of IDs) {
+      let elements = newcollection[lang]['result'];
+      const [targetElement] = filterElementByIDs(elements, id);
+      elements = oldcollection[lang]['result'];
+      const [oldElement] = filterElementByIDs(elements, id);
+      //element['entries']
+      for (const index in targetElement['entries']) {
+        oldElement['entries'].push(targetElement['entries'][index]);
       }
     }
   }
+  //為所有資料編號?
+  //生成供poecoco使用的資料
+
+  //寫入本地檔案
+  for (const lang of list) {
+    await WriteItemJsonToLocal(lang, oldcollection[lang]);
+  }
+
+  console.log('');
 }
 
 //#region  ---combine toolkit ---
@@ -166,14 +186,19 @@ function filterIDs(elements: any[]): [number, string[]] {
  * @param id 大分類的標籤
  * @returns JSON 大分類
  */
-function filterElementByIDs(elements: any[], id: string): any {
+function filterElementByIDs(elements: any[], id: string): [any, number] {
   let result: any = {};
-  for (const entry of elements) {
-    if (entry['id'] === id) {
-      result = entry;
+  let index = -1;
+  for (let i = 0; i < elements.length; i++) {
+    if (elements[i]['id'] === id) {
+      result = elements[i];
+      index = i;
       break;
     }
   }
-  return result;
+  //make a copy
+  const str = JSON.stringify(result);
+  result = JSON.parse(str);
+  return [result, index];
 }
 //#endregion

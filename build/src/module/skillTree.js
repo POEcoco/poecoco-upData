@@ -11,7 +11,7 @@ const ActivePath = './output/skilltree';
  **/
 async function LoadLocalSkillTreeJson() {
     let result = {};
-    const str = await fs_1.readFileSync(ActivePath + 'skillTree.json', 'utf8');
+    const str = await (0, fs_1.readFileSync)(ActivePath + 'skillTree.json', 'utf8');
     result = JSON.parse(str);
     return result;
 }
@@ -22,7 +22,7 @@ exports.LoadLocalSkillTreeJson = LoadLocalSkillTreeJson;
  *  @returns JSON
  **/
 async function WriteSkillTreeJsonToLocal(data) {
-    await fs_1.writeFileSync(ActivePath + 'skillTree.json', JSON.stringify(data, null, 4));
+    await (0, fs_1.writeFileSync)(ActivePath + 'skillTree.json', JSON.stringify(data, null, 4));
 }
 exports.WriteSkillTreeJsonToLocal = WriteSkillTreeJsonToLocal;
 /**
@@ -34,7 +34,7 @@ async function FetchNewSkillTree() {
     //獲取位置
     const host = PASSIVETREEPATH;
     //HTML本體
-    const [out] = await cli_1.default('curl', [host]);
+    const [out] = await (0, cli_1.default)('curl', [host]);
     //關鍵字位置
     const key = 'var passiveSkillTreeData = {';
     const pos = out.indexOf(key);

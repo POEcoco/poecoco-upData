@@ -1,10 +1,4 @@
 /**
- * 是否在陣列中包含
- * @param text 輸入完整名稱
- * @param entries 要搜尋的陣列
- * @returns 布林值
- */
-/**
  * 寫入本地的物品JSON
  *  @param lang Language KEY
  *  @param data content
