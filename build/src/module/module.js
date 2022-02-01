@@ -29,7 +29,7 @@ async function DefaultProcess() {
     catch (error) {
         err.push(error);
     }
-    //更新技能樹JSON
+    //更新技能樹
     try {
         await skillTree.GeneratedNewData();
     }
@@ -37,7 +37,7 @@ async function DefaultProcess() {
         err.push(error);
     }
     if (err.length > 0) {
-        throw new Error(JSON.stringify(err));
+        throw new Error(err.toString());
     }
 }
 exports.DefaultProcess = DefaultProcess;

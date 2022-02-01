@@ -58,7 +58,7 @@ export async function LoadLocalItemJson(lang: string): Promise<any> {
   return result;
 }
 /**
- * 讀取新獲取的本地物品JSON集合
+ *  依照條件讀取新獲取的本地物品JSON集合
  *  @returns JSON{
  *  GB:{"result":[]},
  *  TW:{"result":[]},
@@ -69,11 +69,35 @@ export async function LoadLocalItemJson(lang: string): Promise<any> {
 export async function LoadAllLocalItemJson(input_p: string): Promise<any> {
   const list = GetLanguageKeys();
   const collection: any = {};
+  //獲取基準，只獲取國際版擁有的大類別*/
+  const str = await readFileSync(input_p + 'GB_item.json', 'utf8');
+  const staJSON = JSON.parse(str);
+  const [leg, ids] = filterIDs(staJSON['result']);
+
+  //套用
   for (const lang of list) {
     const str = await readFileSync(input_p + `${lang}_item.json`, 'utf8');
     const rawJSON = JSON.parse(str);
-    collection[lang] = rawJSON;
+
+    const temp = {
+      result: [] as any,
+    };
+    let adds = false;
+    for (const id of ids) {
+      const [jso, pos] = filterElementByIDs(rawJSON['result'], id);
+      if (pos !== -1) {
+        adds = true;
+      }
+      //如果包含
+      if (adds) {
+        temp['result'].push(jso);
+      } else {
+        continue;
+      }
+    }
+    collection[lang] = temp;
   }
+
   return collection;
 }
 
@@ -99,7 +123,7 @@ export async function GeneratedNewData() {
   const blackCollection = await LoadAllLocalItemJson('./output/blacklist/');
 
   /*
-    標註: 要考慮到可能會有新增的集合，或是新資料有沒有正確比對到舊集合
+    標註: 要考慮到可能會有新增的集合或刪除的集合，或是新資料有沒有正確比對到舊集合
   */
 
   const [idlength, IDs] = filterIDs(newcollection['GB']['result']);
@@ -121,7 +145,7 @@ export async function GeneratedNewData() {
     }
   }
 
-  //剔除名單
+  //剔除黑名單的成員以及已有的成員
   for (const lang of list) {
     for (const id of IDs) {
       //
@@ -193,16 +217,21 @@ export async function GeneratedNewData() {
       }
     }
   }
-  //檢查舊資料
-  for (const id of IDs) {
-    const [olength, _] = filterElementByIDs(oldcollection['GB']['result'], id);
-    for (const lang of list) {
-      const [ele] = filterElementByIDs(oldcollection[lang]['result'], id);
-      if (ele['entries'].length !== olength['entries'].length) {
-        throw new Error('舊資料之間，細部的資料長度不同');
+  //移除已經被刪除的集合
+  const newIDs = IDs;
+  const [e_num, oldIDs] = filterIDs(oldcollection['GB']['result']);
+  const lostIDs = oldIDs.filter(item => newIDs.indexOf(item) < 0);
+
+  for (const lang of list) {
+    for (const id of lostIDs) {
+      const elements = oldcollection[lang]['result'];
+      const [targetElement, pos] = filterElementByIDs(elements, id);
+      if (targetElement !== {} && pos > -1) {
+        elements.splice(pos, 1);
       }
     }
   }
+
   //為所有資料編號
   for (const lang of list) {
     let counter = 1;
@@ -243,21 +272,21 @@ function filterIDs(elements: any[]): [number, string[]] {
  * 用ID獲取大分類
  * @param elements 大分類的集合
  * @param id 大分類的標籤
- * @returns JSON 大分類
+ * @returns [any, number]，如果沒有找到返回{}以及-1
  */
 function filterElementByIDs(elements: any[], id: string): [any, number] {
   let result: any = {};
-  let index = -1;
+  let pos = -1;
   for (let i = 0; i < elements.length; i++) {
     if (elements[i]['id'] === id) {
       result = elements[i];
-      index = i;
+      pos = i;
       break;
     }
   }
   //make a copy
   const str = JSON.stringify(result);
   result = JSON.parse(str);
-  return [result, index];
+  return [result, pos];
 }
 //#endregion

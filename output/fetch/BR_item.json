@@ -69,6 +69,14 @@
                     }
                 },
                 {
+                    "name": "Cinzas das Estrelas",
+                    "type": "Amuleto de Ônix",
+                    "text": "Cinzas das Estrelas Amuleto de Ônix",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Projetor Astral",
                     "type": "Anel de Topázio",
                     "text": "Projetor Astral Anel de Topázio",
@@ -336,6 +344,14 @@
                     "name": "Legado do Covarde",
                     "type": "Cinto de Corrente",
                     "text": "Legado do Covarde Cinto de Corrente",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Onisciência Cristalizada",
+                    "type": "Amuleto de Ônix",
+                    "text": "Onisciência Cristalizada Amuleto de Ônix",
                     "flags": {
                         "unique": true
                     }
@@ -861,6 +877,14 @@
                     }
                 },
                 {
+                    "name": "Devastação Polar",
+                    "type": "Anel de Opala",
+                    "text": "Devastação Polar Anel de Opala",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Praxis",
                     "type": "Anel de Paua",
                     "text": "Praxis Anel de Paua",
@@ -1069,7 +1093,7 @@
                     }
                 },
                 {
-                    "name": "R��plica: Corrente Espiritual",
+                    "name": "Réplica: Corrente Espiritual",
                     "type": "Cinto de Pano",
                     "text": "Réplica: Corrente Espiritual Cinto de Pano",
                     "flags": {
@@ -2255,6 +2279,14 @@
                     }
                 },
                 {
+                    "name": "Ira da Asphyxia",
+                    "type": "Aljava de Flechas com Plumas",
+                    "text": "Ira da Asphyxia Aljava de Flechas com Plumas",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Assailum",
                     "type": "Pecador Tricorne",
                     "text": "Assailum Pecador Tricorne",
@@ -2367,9 +2399,25 @@
                     }
                 },
                 {
+                    "name": "Brilho-Negro",
+                    "type": "Aljava de Flechas Ardentes",
+                    "text": "Brilho-Negro Aljava de Flechas Ardentes",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Crista do Sol Negro",
                     "type": "Elmo Laqueado",
                     "text": "Crista do Sol Negro Elmo Laqueado",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Zenith Negro",
+                    "type": "Luvas de Seda sem Dedos",
+                    "text": "Zenith Negro Luvas de Seda sem Dedos",
                     "flags": {
                         "unique": true
                     }
@@ -2490,6 +2538,14 @@
                     "name": "Jaqueta de Carcaça",
                     "type": "Casaco Envernizado",
                     "text": "Jaqueta de Carcaça Casaco Envernizado",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Banquete Sem Fim",
+                    "type": "Luvas de Espinhos",
+                    "text": "Banquete Sem Fim Luvas de Espinhos",
                     "flags": {
                         "unique": true
                     }
@@ -2770,6 +2826,14 @@
                     "name": "Vetores do Raio Sombrio",
                     "type": "Botas de Escamas de Dragão",
                     "text": "Vetores do Raio Sombrio Botas de Escamas de Dragão",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Rompe-amanhecer",
+                    "type": "Escudo Torre Colossal",
+                    "text": "Rompe-amanhecer Escudo Torre Colossal",
                     "flags": {
                         "unique": true
                     }
@@ -3183,7 +3247,7 @@
                     }
                 },
                 {
-                    "name": "Vis��o Flamejante",
+                    "name": "Visão Flamejante",
                     "type": "Tiara de Solaris",
                     "text": "Visão Flamejante Tiara de Solaris",
                     "flags": {
@@ -3559,6 +3623,14 @@
                     }
                 },
                 {
+                    "name": "Destino Inextricável",
+                    "type": "Botas do Fugitivo",
+                    "text": "Destino Inextricável Botas do Fugitivo",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Manto Infernal",
                     "type": "Vestes do Ocultista",
                     "text": "Manto Infernal Vestes do Ocultista",
@@ -3898,6 +3970,14 @@
                     "name": "Cair da Noite de Maloney",
                     "type": "Aljava de Flechas Cegas",
                     "text": "Cair da Noite de Maloney Aljava de Flechas Cegas",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Cair da Noite de Maloney",
+                    "type": "Aljava de Flechas Vís",
+                    "text": "Cair da Noite de Maloney Aljava de Flechas Vís",
                     "flags": {
                         "unique": true
                     }
@@ -4247,6 +4327,14 @@
                     }
                 },
                 {
+                    "name": "Retaguarda",
+                    "type": "Aljava de Flechas Cegas",
+                    "text": "Retaguarda Aljava de Flechas Cegas",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Defesa Imprudente",
                     "type": "Traje Laqueado",
                     "text": "Defesa Imprudente Traje Laqueado",
@@ -4583,6 +4671,14 @@
                     }
                 },
                 {
+                    "name": "Presente de Saemus",
+                    "type": "Aljava de Flechas com Plumas",
+                    "text": "Presente de Saemus Aljava de Flechas com Plumas",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Quadro de Saffell",
                     "type": "Escudo Triangular Marcado",
                     "text": "Quadro de Saffell Escudo Triangular Marcado",
@@ -4634,6 +4730,14 @@
                     "name": "Chamado do Escorpião",
                     "type": "Aljava de Flechas de Ponta Larga",
                     "text": "Chamado do Escorpião Aljava de Flechas de Ponta Larga",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Chamado do Escorpião",
+                    "type": "Aljava de Flechas Pesadas",
+                    "text": "Chamado do Escorpião Aljava de Flechas Pesadas",
                     "flags": {
                         "unique": true
                     }
@@ -4906,6 +5010,14 @@
                     "name": "Presente da Tempestade",
                     "type": "Luvas do Assassino",
                     "text": "Presente da Tempestade Luvas do Assassino",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Amanhecer Repentino",
+                    "type": "Tiara de Aço",
+                    "text": "Amanhecer Repentino Tiara de Aço",
                     "flags": {
                         "unique": true
                     }
@@ -5255,6 +5367,14 @@
                     }
                 },
                 {
+                    "name": "O Fogo Sinalizador",
+                    "type": "Aljava de Flechas Ardentes",
+                    "text": "O Fogo Sinalizador Aljava de Flechas Ardentes",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Graça do Nevoeiro",
                     "type": "Couraça Coronal",
                     "text": "Graça do Nevoeiro Couraça Coronal",
@@ -5546,6 +5666,14 @@
                     "name": "Atirador do Vazio",
                     "type": "Aljava de Flechas Penetrantes",
                     "text": "Atirador do Vazio Aljava de Flechas Penetrantes",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Atirador do Vazio",
+                    "type": "Aljava de Flechas Primitivas",
+                    "text": "Atirador do Vazio Aljava de Flechas Primitivas",
                     "flags": {
                         "unique": true
                     }
@@ -7469,6 +7597,30 @@
                 {
                     "type": "Aljava da Flecha Serrada",
                     "text": "Aljava da Flecha Serrada"
+                },
+                {
+                    "type": "Aljava de Flechas Vís",
+                    "text": "Aljava de Flechas Vís"
+                },
+                {
+                    "type": "Aljava de Flechas Pesadas",
+                    "text": "Aljava de Flechas Pesadas"
+                },
+                {
+                    "type": "Aljava de Flechas Primitivas",
+                    "text": "Aljava de Flechas Primitivas"
+                },
+                {
+                    "type": "Aljava de Flechas Flamejantes",
+                    "text": "Aljava de Flechas Flamejantes"
+                },
+                {
+                    "type": "Aljava de Flechas com Plumas",
+                    "text": "Aljava de Flechas com Plumas"
+                },
+                {
+                    "type": "Aljava de Flechas Ardentes",
+                    "text": "Aljava de Flechas Ardentes"
                 }
             ]
         },
@@ -7559,6 +7711,10 @@
                 {
                     "type": "Beleza Através da Morte",
                     "text": "Beleza Através da Morte"
+                },
+                {
+                    "type": "Bijuterias",
+                    "text": "Bijuterias"
                 },
                 {
                     "type": "O Nascimento dos Três",
@@ -7709,6 +7865,10 @@
                     "text": "Coberto por Sonhos"
                 },
                 {
+                    "type": "Dualidade",
+                    "text": "Dualidade"
+                },
+                {
                     "type": "Agonia Mortal",
                     "text": "Agonia Mortal"
                 },
@@ -7821,12 +7981,24 @@
                     "text": "Determinação Imortal"
                 },
                 {
+                    "type": "Memórias Imperfeitas",
+                    "text": "Memórias Imperfeitas"
+                },
+                {
                     "type": "Legado Imperial",
                     "text": "Legado Imperial"
                 },
                 {
                     "type": "A Caixa de Surpresa",
                     "text": "A Caixa de Surpresa"
+                },
+                {
+                    "type": "Vozes Julgadoras",
+                    "text": "Vozes Julgadoras"
+                },
+                {
+                    "type": "Ambição Justificada",
+                    "text": "Ambição Justificada"
                 },
                 {
                     "type": "Corrupção do Guardião",
@@ -7885,6 +8057,10 @@
                     "text": "Descanso de Lysah"
                 },
                 {
+                    "type": "Magnum Opus",
+                    "text": "Magnum Opus"
+                },
+                {
                     "type": "Mawr Blaidd",
                     "text": "Mawr Blaidd"
                 },
@@ -7895,6 +8071,10 @@
                 {
                     "type": "Querer é Poder",
                     "text": "Querer é Poder"
+                },
+                {
+                    "type": "Angústia na Escuridão",
+                    "text": "Angústia na Escuridão"
                 },
                 {
                     "type": "Luvas",
@@ -7915,6 +8095,10 @@
                 {
                     "type": "Sem Vestígios",
                     "text": "Sem Vestígios"
+                },
+                {
+                    "type": "Passageiros Parasitas",
+                    "text": "Passageiros Parasitas"
                 },
                 {
                     "type": "Momentos Pacíficos",
@@ -7987,6 +8171,10 @@
                 {
                     "type": "Fragmento do Destino",
                     "text": "Fragmento do Destino"
+                },
+                {
+                    "type": "Silêncio Gélido",
+                    "text": "Silêncio Gélido"
                 },
                 {
                     "type": "Remorso da Sociedade",
@@ -8509,6 +8697,10 @@
                     "text": "O Rei Louco"
                 },
                 {
+                    "type": "O Caranguejo de Magma",
+                    "text": "O Caranguejo de Magma"
+                },
+                {
                     "type": "O Mestre",
                     "text": "O Mestre"
                 },
@@ -8563,6 +8755,10 @@
                 {
                     "type": "O Velho",
                     "text": "O Velho"
+                },
+                {
+                    "type": "Aquele Que Fugiu",
+                    "text": "Aquele Que Fugiu"
                 },
                 {
                     "type": "O Le Heup com Tudo",
@@ -8785,12 +8981,20 @@
                     "text": "A Mesa do Funileiro"
                 },
                 {
+                    "type": "O Extrator Inquieto",
+                    "text": "O Extrator Inquieto"
+                },
+                {
                     "type": "A Torre",
                     "text": "A Torre"
                 },
                 {
                     "type": "O Traidor",
                     "text": "O Traidor"
+                },
+                {
+                    "type": "A Transformação",
+                    "text": "A Transformação"
                 },
                 {
                     "type": "A Provação",
@@ -9303,10 +9507,6 @@
                     "text": "Orbe Delirante Kalguuran"
                 },
                 {
-                    "type": "Orbe Delirante Potente",
-                    "text": "Orbe Delirante Potente"
-                },
-                {
                     "type": "Orbe Delirante Rastejante",
                     "text": "Orbe Delirante Rastejante"
                 },
@@ -9377,6 +9577,10 @@
                 {
                     "type": "Bênção de Uul-Netol",
                     "text": "Bênção de Uul-Netol"
+                },
+                {
+                    "type": "Orbe do Conflito",
+                    "text": "Orbe do Conflito"
                 },
                 {
                     "type": "Orbe do Expurgo",
@@ -9497,6 +9701,50 @@
                 {
                     "type": "Fragmento do Espelho",
                     "text": "Fragmento do Espelho"
+                },
+                {
+                    "type": "Orbe Ancestral Exaltado",
+                    "text": "Orbe Ancestral Exaltado"
+                },
+                {
+                    "type": "Brasa Ancestral Menor",
+                    "text": "Brasa Ancestral Menor"
+                },
+                {
+                    "type": "Brasa Ancestral Maior",
+                    "text": "Brasa Ancestral Maior"
+                },
+                {
+                    "type": "Brasa Ancestral Distinta",
+                    "text": "Brasa Ancestral Distinta"
+                },
+                {
+                    "type": "Brasa Ancestral Excepcional",
+                    "text": "Brasa Ancestral Excepcional"
+                },
+                {
+                    "type": "Fluido Ancestral Menor",
+                    "text": "Fluido Ancestral Menor"
+                },
+                {
+                    "type": "Fluido Ancestral Maior",
+                    "text": "Fluido Ancestral Maior"
+                },
+                {
+                    "type": "Fluido Ancestral Distinto",
+                    "text": "Fluido Ancestral Distinto"
+                },
+                {
+                    "type": "Fluido Ancestral Excepcional",
+                    "text": "Fluido Ancestral Excepcional"
+                },
+                {
+                    "type": "Orbe Ancestral da Anulação",
+                    "text": "Orbe Ancestral da Anulação"
+                },
+                {
+                    "type": "Orbe Ancestral do Caos",
+                    "text": "Orbe Ancestral do Caos"
                 },
                 {
                     "type": "Orbe Incandescente",
@@ -9771,7 +10019,7 @@
                     "text": "Essência do Desprezo Ensurdecedora"
                 },
                 {
-                    "type": "Ess��ncia da Mágoa Murmurante",
+                    "type": "Essência da Mágoa Murmurante",
                     "text": "Essência da Mágoa Murmurante"
                 },
                 {
@@ -9917,6 +10165,10 @@
                 {
                     "type": "Essência do Zelo Ensurdecedora",
                     "text": "Essência do Zelo Ensurdecedora"
+                },
+                {
+                    "type": "Extrator de Óleo",
+                    "text": "Extrator de Óleo"
                 },
                 {
                     "type": "Bugiganga do Vidreiro",
@@ -10175,6 +10427,14 @@
                     "text": "Orbe do Bestiário"
                 },
                 {
+                    "type": "Bússola Energizada",
+                    "text": "Bússola Energizada"
+                },
+                {
+                    "type": "Bússola do Pesquisador",
+                    "text": "Bússola do Pesquisador"
+                },
+                {
                     "type": "Catalisador Abrasivo",
                     "text": "Catalisador Abrasivo"
                 },
@@ -10391,8 +10651,8 @@
                     "text": "Fragmento do Engenheiro"
                 },
                 {
-                    "type": "Orbe de Maven",
-                    "text": "Orbe de Maven"
+                    "type": "Orbe do Domínio",
+                    "text": "Orbe do Domínio"
                 },
                 {
                     "type": "Orbe Real",
@@ -10499,6 +10759,42 @@
                     "text": "Óleo Contaminado"
                 },
                 {
+                    "type": "Relatório de Patrulha Infestada",
+                    "text": "Relatório de Patrulha Infestada"
+                },
+                {
+                    "type": "Relatório de Patrulha Sobrenatural",
+                    "text": "Relatório de Patrulha Sobrenatural"
+                },
+                {
+                    "type": "Relatório de Patrulha Vaal",
+                    "text": "Relatório de Patrulha Vaal"
+                },
+                {
+                    "type": "Relatório de Patrulha Delirante",
+                    "text": "Relatório de Patrulha Delirante"
+                },
+                {
+                    "type": "Relatório de Patrulha Exploradora",
+                    "text": "Relatório de Patrulha Exploradora"
+                },
+                {
+                    "type": "Relatório de Patrulha Influenciada",
+                    "text": "Relatório de Patrulha Influenciada"
+                },
+                {
+                    "type": "Relatório de Patrulha Operativa",
+                    "text": "Relatório de Patrulha Operativa"
+                },
+                {
+                    "type": "Relatório de Patrulha Abrangente",
+                    "text": "Relatório de Patrulha Abrangente"
+                },
+                {
+                    "type": "Relatório de Patrulha Singular",
+                    "text": "Relatório de Patrulha Singular"
+                },
+                {
                     "type": "Ressonador Caótico Primitivo",
                     "text": "Ressonador Caótico Primitivo"
                 },
@@ -10535,68 +10831,68 @@
                     "text": "Deck Empilhado"
                 },
                 {
-                    "type": "Artefato Menor do Círculo Quebrado",
-                    "text": "Artefato Menor do Círculo Quebrado"
+                    "type": "Artefato do Círculo Quebrado Menor",
+                    "text": "Artefato do Círculo Quebrado Menor"
                 },
                 {
-                    "type": "Artefato Comum do Círculo Quebrado",
-                    "text": "Artefato Comum do Círculo Quebrado"
+                    "type": "Artefato do Círculo Quebrado Maior",
+                    "text": "Artefato do Círculo Quebrado Maior"
                 },
                 {
-                    "type": "Artefato Maior do Círculo Quebrado",
-                    "text": "Artefato Maior do Círculo Quebrado"
+                    "type": "Artefato do Círculo Quebrado Distinto",
+                    "text": "Artefato do Círculo Quebrado Distinto"
                 },
                 {
-                    "type": "Grande Artefato do Círculo Quebrado",
-                    "text": "Grande Artefato do Círculo Quebrado"
+                    "type": "Artefato do Círculo Quebrado Excepcional",
+                    "text": "Artefato do Círculo Quebrado Excepcional"
                 },
                 {
-                    "type": "Artefato Menor da Foice Negra",
-                    "text": "Artefato Menor da Foice Negra"
+                    "type": "Artefato da Foice Negra Menor ",
+                    "text": "Artefato da Foice Negra Menor "
                 },
                 {
-                    "type": "Artefato Comum da Foice Negra",
-                    "text": "Artefato Comum da Foice Negra"
+                    "type": "Artefato da Foice Negra Maior",
+                    "text": "Artefato da Foice Negra Maior"
                 },
                 {
-                    "type": "Artefato Maior da Foice Negra",
-                    "text": "Artefato Maior da Foice Negra"
+                    "type": "Artefato da Foice Negra Distinto",
+                    "text": "Artefato da Foice Negra Distinto"
                 },
                 {
-                    "type": "Grande Artefato da Foice Negra",
-                    "text": "Grande Artefato da Foice Negra"
+                    "type": "Grande da Foice Negra Excepcional",
+                    "text": "Grande da Foice Negra Excepcional"
                 },
                 {
-                    "type": "Artefato Menor da Ordem",
-                    "text": "Artefato Menor da Ordem"
+                    "type": "Artefato da Ordem Menor ",
+                    "text": "Artefato da Ordem Menor "
                 },
                 {
-                    "type": "Artefato Comum da Ordem",
-                    "text": "Artefato Comum da Ordem"
+                    "type": "Artefato da Ordem Maior",
+                    "text": "Artefato da Ordem Maior"
                 },
                 {
-                    "type": "Artefato Maior da Ordem",
-                    "text": "Artefato Maior da Ordem"
+                    "type": "Artefato da Ordem Distinto",
+                    "text": "Artefato da Ordem Distinto"
                 },
                 {
-                    "type": "Grande Artefato da Ordem",
-                    "text": "Grande Artefato da Ordem"
+                    "type": "Artefato da Ordem Excepcional",
+                    "text": "Artefato da Ordem Excepcional"
                 },
                 {
-                    "type": "Artefato Menor do Sol",
-                    "text": "Artefato Menor do Sol"
+                    "type": "Artefato do Sol Menor",
+                    "text": "Artefato do Sol Menor"
                 },
                 {
-                    "type": "Artefato Comum do Sol",
-                    "text": "Artefato Comum do Sol"
+                    "type": "Artefato do Sol Maior",
+                    "text": "Artefato do Sol Maior"
                 },
                 {
-                    "type": "Artefato Maior do Sol",
-                    "text": "Artefato Maior do Sol"
+                    "type": "Artefato do Sol Distinto",
+                    "text": "Artefato do Sol Distinto"
                 },
                 {
-                    "type": "Grande Artefato do Sol",
-                    "text": "Grande Artefato do Sol"
+                    "type": "Artefato do Sol Excepcional",
+                    "text": "Artefato do Sol Excepcional"
                 },
                 {
                     "type": "Insígnia do Renegado",
@@ -10799,16 +11095,16 @@
                     "text": "Alma Capturada de Mephod, Abrasador da Terra"
                 },
                 {
-                    "type": "Alma Capturada da Fiandeira da Falsa Esperança",
-                    "text": "Alma Capturada da Fiandeira da Falsa Esperança"
+                    "type": "Alma Capturada de Murgeth Bogsong",
+                    "text": "Alma Capturada de Murgeth Bogsong"
                 },
                 {
-                    "type": "Alma Capturada de Nassar, Leão dos Mares",
-                    "text": "Alma Capturada de Nassar, Leão dos Mares"
+                    "type": "Alma Capturada do Choque e Horror",
+                    "text": "Alma Capturada do Choque e Horror"
                 },
                 {
-                    "type": "Alma Capturada de Litanius, Orador Sombrio",
-                    "text": "Alma Capturada de Litanius, Orador Sombrio"
+                    "type": "Alma Capturada de Puruna, o Desafiador",
+                    "text": "Alma Capturada de Puruna, o Desafiador"
                 },
                 {
                     "type": "Alma Capturada da Espreitadora das Dunas Intermináveis",
@@ -11991,8 +12287,8 @@
                     "text": "Armadilha Císmica"
                 },
                 {
-                    "type": "Portador da Praga",
-                    "text": "Portador da Praga"
+                    "type": "Portador da Infestação",
+                    "text": "Portador da Infestação"
                 },
                 {
                     "type": "Marca do Larápio",
@@ -12779,6 +13075,10 @@
                     "text": "Suporte: Decadência"
                 },
                 {
+                    "type": "Suporte: Bênção Divina",
+                    "text": "Suporte: Bênção Divina"
+                },
+                {
                     "type": "Suporte: Devastador",
                     "text": "Suporte: Devastador"
                 },
@@ -12809,6 +13109,10 @@
                 {
                     "type": "Suporte: Dreno de Energia",
                     "text": "Suporte: Dreno de Energia"
+                },
+                {
+                    "type": "Suporte: Bênção Eterna",
+                    "text": "Suporte: Bênção Eterna"
                 },
                 {
                     "type": "Suporte: Ataques Acelerados",
@@ -12993,6 +13297,10 @@
                 {
                     "type": "Suporte: Dreno de Mana",
                     "text": "Suporte: Dreno de Mana"
+                },
+                {
+                    "type": "Suporte: Marcar ao Acertar",
+                    "text": "Suporte: Marcar ao Acertar"
                 },
                 {
                     "type": "Suporte: Escudo de Carne",
@@ -13509,9 +13817,25 @@
                     }
                 },
                 {
+                    "name": "Dissolução da Carne",
+                    "type": "Joia Carmesim",
+                    "text": "Dissolução da Carne Joia Carmesim",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Fúria Fulminante",
                     "type": "Joia Viridiana",
                     "text": "Fúria Fulminante Joia Viridiana",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Inferno Divino",
+                    "type": "Joia Carmesim",
+                    "text": "Inferno Divino Joia Carmesim",
                     "flags": {
                         "unique": true
                     }
@@ -13640,6 +13964,22 @@
                     "name": "Movimento Fluido",
                     "type": "Joia Viridiana",
                     "text": "Movimento Fluido Joia Viridiana",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Chama Proibida",
+                    "type": "Joia Carmesim",
+                    "text": "Chama Proibida Joia Carmesim",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Carne Proibida",
+                    "type": "Joia Cobalto",
+                    "text": "Carne Proibida Joia Cobalto",
                     "flags": {
                         "unique": true
                     }
@@ -13880,6 +14220,14 @@
                     "name": "Megalomaníaco",
                     "type": "Joia do Grupo Médio",
                     "text": "Megalomaníaco Joia do Grupo Médio",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "União da Carne",
+                    "type": "Joia Cobalto",
+                    "text": "União da Carne Joia Cobalto",
                     "flags": {
                         "unique": true
                     }
@@ -14637,6 +14985,15 @@
                     }
                 },
                 {
+                    "name": "Memória Distante Alterada",
+                    "type": "Mapa: Sintetizado",
+                    "disc": "warfortheatlas",
+                    "text": "Memória Distante Alterada Mapa: Sintetizado",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Memória Distante Aumentada",
                     "type": "Mapa: Corte",
                     "disc": "warfortheatlas",
@@ -14655,6 +15012,15 @@
                     }
                 },
                 {
+                    "name": "Memória Distante Aumentada",
+                    "type": "Mapa: Sintetizado",
+                    "disc": "warfortheatlas",
+                    "text": "Memória Distante Aumentada Mapa: Sintetizado",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Caer Blaidd, Toca dos Lobos",
                     "type": "Mapa: Rio Subterrâneo",
                     "disc": "warfortheatlas",
@@ -14668,6 +15034,15 @@
                     "type": "Mapa: Câmaras de Relíquias",
                     "disc": "warfortheatlas",
                     "text": "Córtex Mapa: Câmaras de Relíquias",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Córtex",
+                    "type": "Mapa: Sintetizado",
+                    "disc": "warfortheatlas",
+                    "text": "Córtex Mapa: Sintetizado",
                     "flags": {
                         "unique": true
                     }
@@ -14790,6 +15165,15 @@
                     }
                 },
                 {
+                    "name": "Réplica: Córtex",
+                    "type": "Mapa: Sintetizado",
+                    "disc": "warfortheatlas",
+                    "text": "Réplica: Córtex Mapa: Sintetizado",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Réplica: Pilares de Arun",
                     "type": "Mapa: Dunas",
                     "disc": "warfortheatlas",
@@ -14812,6 +15196,15 @@
                     "type": "Mapa: Basílica",
                     "disc": "warfortheatlas",
                     "text": "Memória Distante Reescrita Mapa: Basílica",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Memória Distante Reescrita",
+                    "type": "Mapa: Sintetizado",
+                    "disc": "warfortheatlas",
+                    "text": "Memória Distante Reescrita Mapa: Sintetizado",
                     "flags": {
                         "unique": true
                     }
@@ -14875,6 +15268,15 @@
                     "type": "Mapa: Parque",
                     "disc": "warfortheatlas",
                     "text": "Memória Distante Distorcida Mapa: Parque",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Memória Distante Distorcida",
+                    "type": "Mapa: Sintetizado",
+                    "disc": "warfortheatlas",
+                    "text": "Memória Distante Distorcida Mapa: Sintetizado",
                     "flags": {
                         "unique": true
                     }
@@ -15556,6 +15958,11 @@
                     "type": "Mapa: Cidade Afundada",
                     "disc": "warfortheatlas",
                     "text": "Mapa: Cidade Afundada"
+                },
+                {
+                    "type": "Mapa: Sintetizado",
+                    "disc": "warfortheatlas",
+                    "text": "Mapa: Sintetizado"
                 },
                 {
                     "type": "Mapa: Templo",
@@ -17878,6 +18285,22 @@
                     "text": "Fragmento da Hidra"
                 },
                 {
+                    "type": "Coroa de Al-Hezmin",
+                    "text": "Coroa de Al-Hezmin"
+                },
+                {
+                    "type": "Coroa de Baran",
+                    "text": "Coroa de Baran"
+                },
+                {
+                    "type": "Coroa de Drox",
+                    "text": "Coroa de Drox"
+                },
+                {
+                    "type": "Coroa de Veritania",
+                    "text": "Coroa de Veritania"
+                },
+                {
                     "type": "Fragmento do Terror",
                     "text": "Fragmento do Terror"
                 },
@@ -17924,6 +18347,10 @@
                 {
                     "type": "Pesar Mortal",
                     "text": "Pesar Mortal"
+                },
+                {
+                    "type": "Convite da Maven: O Atlas",
+                    "text": "Convite da Maven: O Atlas"
                 },
                 {
                     "type": "Convite de Maven: Marcos de Glennach",
@@ -17976,6 +18403,26 @@
                 {
                     "type": "Convite de Maven: Os Temidos",
                     "text": "Convite de Maven: Os Temidos"
+                },
+                {
+                    "type": "Convite de Maven: Os Matadores do Ancião",
+                    "text": "Convite de Maven: Os Matadores do Ancião"
+                },
+                {
+                    "type": "Convite Incandescente",
+                    "text": "Convite Incandescente"
+                },
+                {
+                    "type": "Convite Polarizado",
+                    "text": "Convite Polarizado"
+                },
+                {
+                    "type": "Convite Gritante",
+                    "text": "Convite Gritante"
+                },
+                {
+                    "type": "Convite Contorcido",
+                    "text": "Convite Contorcido"
                 },
                 {
                     "type": "Recipiente Cheio de Sangue",
@@ -20100,6 +20547,14 @@
                     }
                 },
                 {
+                    "name": "A Luz Aniquiladora",
+                    "type": "Bastão de Ferro",
+                    "text": "A Luz Aniquiladora Bastão de Ferro",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "O Bastão Negro",
                     "type": "Cetro Real",
                     "text": "O Bastão Negro Cetro Real",
@@ -20183,6 +20638,14 @@
                     "name": "O Fulcro",
                     "type": "Cajado Ezomita",
                     "text": "O Fulcro Cajado Ezomita",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "A Maré da Gula",
+                    "type": "Arco da Cidadela",
+                    "text": "A Maré da Gula Arco da Cidadela",
                     "flags": {
                         "unique": true
                     }
@@ -22132,1977 +22595,6 @@
             ]
         },
         {
-            "id": "prophecies",
-            "label": "Profecias",
-            "entries": [
-                {
-                    "name": "O Alquimista",
-                    "type": "Profecia",
-                    "text": "O Alquimista Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fim da Anarquia I",
-                    "type": "Profecia",
-                    "text": "Fim da Anarquia I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fim da Anarquia II",
-                    "type": "Profecia",
-                    "text": "Fim da Anarquia II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fim da Anarquia III",
-                    "type": "Profecia",
-                    "text": "Fim da Anarquia III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fim da Anarquia IV",
-                    "type": "Profecia",
-                    "text": "Fim da Anarquia IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Ancestral I",
-                    "type": "Profecia",
-                    "text": "Rivalidade Ancestral I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Ancestral II",
-                    "type": "Profecia",
-                    "text": "Rivalidade Ancestral II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Ancestral III",
-                    "type": "Profecia",
-                    "text": "Rivalidade Ancestral III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Ancestral IV",
-                    "type": "Profecia",
-                    "text": "Rivalidade Ancestral IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Gêmeos",
-                    "type": "Profecia",
-                    "text": "Os Gêmeos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Inimigo Possuído",
-                    "type": "Profecia",
-                    "text": "Inimigo Possuído Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Invasor ",
-                    "type": "Profecia",
-                    "text": "O Invasor  Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Visões dos Afogados",
-                    "type": "Profecia",
-                    "text": "Visões dos Afogados Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Tesouro Monstruoso",
-                    "type": "Profecia",
-                    "text": "Tesouro Monstruoso Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Invasão Vaal",
-                    "type": "Profecia",
-                    "text": "Invasão Vaal Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Enxame Faminto",
-                    "type": "Profecia",
-                    "text": "O Enxame Faminto Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Terra que Treme",
-                    "type": "Profecia",
-                    "text": "A Terra que Treme Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Coro Amaldiçoado",
-                    "type": "Profecia",
-                    "text": "O Coro Amaldiçoado Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Solo, Minhocas e Sangue",
-                    "type": "Profecia",
-                    "text": "Solo, Minhocas e Sangue Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Toque do Joalheiro",
-                    "type": "Profecia",
-                    "text": "O Toque do Joalheiro Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Guarnição Esquecida",
-                    "type": "Profecia",
-                    "text": "A Guarnição Esquecida Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Música dos Sekhema",
-                    "type": "Profecia",
-                    "text": "Música dos Sekhema Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Cofres da Rainha",
-                    "type": "Profecia",
-                    "text": "Os Cofres da Rainha Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Sacrifício da Rainha",
-                    "type": "Profecia",
-                    "text": "O Sacrifício da Rainha Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Além da Visão I",
-                    "type": "Profecia",
-                    "text": "Além da Visão I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Além da Visão II",
-                    "type": "Profecia",
-                    "text": "Além da Visão II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Além da Visão III",
-                    "type": "Profecia",
-                    "text": "Além da Visão III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Além da Visão IV",
-                    "type": "Profecia",
-                    "text": "Além da Visão IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fúria a Sangue Frio",
-                    "type": "Profecia",
-                    "text": "Fúria a Sangue Frio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Laços Refeitos",
-                    "type": "Profecia",
-                    "text": "Laços Refeitos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Último dos Homens Selvagens",
-                    "type": "Profecia",
-                    "text": "Último dos Homens Selvagens Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ganância Fria",
-                    "type": "Profecia",
-                    "text": "Ganância Fria Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Combinação Valiosa",
-                    "type": "Profecia",
-                    "text": "Uma Combinação Valiosa Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Coleção do Adivinho",
-                    "type": "Profecia",
-                    "text": "A Coleção do Adivinho Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Criança de Lunaris",
-                    "type": "Profecia",
-                    "text": "A Criança de Lunaris Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fé Exumada",
-                    "type": "Profecia",
-                    "text": "Fé Exumada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Encantado Duplamente",
-                    "type": "Profecia",
-                    "text": "Encantado Duplamente Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dia de Sacrifício I",
-                    "type": "Profecia",
-                    "text": "Dia de Sacrifício I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dia de Sacrifício II",
-                    "type": "Profecia",
-                    "text": "Dia de Sacrifício II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dia de Sacrifício III",
-                    "type": "Profecia",
-                    "text": "Dia de Sacrifício III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dia de Sacrifício IV",
-                    "type": "Profecia",
-                    "text": "Dia de Sacrifício IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Mortal I",
-                    "type": "Profecia",
-                    "text": "Rivalidade Mortal I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Mortal II",
-                    "type": "Profecia",
-                    "text": "Rivalidade Mortal II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Mortal III",
-                    "type": "Profecia",
-                    "text": "Rivalidade Mortal III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Mortal IV",
-                    "type": "Profecia",
-                    "text": "Rivalidade Mortal IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rivalidade Mortal V",
-                    "type": "Profecia",
-                    "text": "Rivalidade Mortal V Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Bruxa Malevolente",
-                    "type": "Profecia",
-                    "text": "A Bruxa Malevolente Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Pavor Ardente",
-                    "type": "Profecia",
-                    "text": "Pavor Ardente Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Agonia ao Amanhecer",
-                    "type": "Profecia",
-                    "text": "Agonia ao Amanhecer Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Luz Cegante",
-                    "type": "Profecia",
-                    "text": "Luz Cegante Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Exilado Rico",
-                    "type": "Profecia",
-                    "text": "O Exilado Rico Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Batedor",
-                    "type": "Profecia",
-                    "text": "O Batedor Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Finalmente Pousio",
-                    "type": "Profecia",
-                    "text": "Finalmente Pousio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Aprisionado na Torre",
-                    "type": "Profecia",
-                    "text": "Aprisionado na Torre Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Instintos Sombrios",
-                    "type": "Profecia",
-                    "text": "Instintos Sombrios Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Praga dos Sapos",
-                    "type": "Profecia",
-                    "text": "Praga dos Sapos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Devoção Negra",
-                    "type": "Profecia",
-                    "text": "Devoção Negra Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Legado do Bispo",
-                    "type": "Profecia",
-                    "text": "O Legado do Bispo Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Piscinas de Riqueza",
-                    "type": "Profecia",
-                    "text": "Piscinas de Riqueza Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Tonalidade Carmesim",
-                    "type": "Profecia",
-                    "text": "Tonalidade Carmesim Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Visão de Gelo e Fogo",
-                    "type": "Profecia",
-                    "text": "Uma Visão de Gelo e Fogo Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Ferreiro",
-                    "type": "Profecia",
-                    "text": "O Ferreiro Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Morte Desonrada",
-                    "type": "Profecia",
-                    "text": "Uma Morte Desonrada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fim da Luz",
-                    "type": "Profecia",
-                    "text": "Fim da Luz Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Nêmesis da Ganância",
-                    "type": "Profecia",
-                    "text": "Nêmesis da Ganância Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Endurecido pela Batalha",
-                    "type": "Profecia",
-                    "text": "Endurecido pela Batalha Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Do Lixo Ao Tesouro",
-                    "type": "Profecia",
-                    "text": "Do Lixo Ao Tesouro Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Tesouro do Imperador",
-                    "type": "Profecia",
-                    "text": "O Tesouro do Imperador Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Caminho da Traição",
-                    "type": "Profecia",
-                    "text": "Caminho da Traição Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Do Vazio",
-                    "type": "Profecia",
-                    "text": "Do Vazio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rainha Mal Entendida",
-                    "type": "Profecia",
-                    "text": "A Rainha Mal Entendida Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Resiliência da Natureza",
-                    "type": "Profecia",
-                    "text": "Resiliência da Natureza Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Chama Extinta",
-                    "type": "Profecia",
-                    "text": "A Chama Extinta Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Rei e os Espinheiros",
-                    "type": "Profecia",
-                    "text": "O Rei e os Espinheiros Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Boca dos Horrores",
-                    "type": "Profecia",
-                    "text": "Boca dos Horrores Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Coração do Servo",
-                    "type": "Profecia",
-                    "text": "O Coração do Servo Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rebelião Karui",
-                    "type": "Profecia",
-                    "text": "A Rebelião Karui Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Ressurreição das Flores Sangrentas",
-                    "type": "Profecia",
-                    "text": "A Ressurreição das Flores Sangrentas Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Início e o Fim",
-                    "type": "Profecia",
-                    "text": "O Início e o Fim Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Golpes Pesados",
-                    "type": "Profecia",
-                    "text": "Golpes Pesados Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Choro de Morte",
-                    "type": "Profecia",
-                    "text": "Choro de Morte Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fogo e Gelo",
-                    "type": "Profecia",
-                    "text": "Fogo e Gelo Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Membros Cortas",
-                    "type": "Profecia",
-                    "text": "Os Membros Cortas Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fogo e Enxofre",
-                    "type": "Profecia",
-                    "text": "Fogo e Enxofre Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Predador do Ápice",
-                    "type": "Profecia",
-                    "text": "O Predador do Ápice Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Madeira Prateada",
-                    "type": "Profecia",
-                    "text": "A Madeira Prateada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Caminho do Rei",
-                    "type": "Profecia",
-                    "text": "O Caminho do Rei Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Reforços Escondidos",
-                    "type": "Profecia",
-                    "text": "Reforços Escondidos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Música das Cordas do Arco",
-                    "type": "Profecia",
-                    "text": "A Música das Cordas do Arco Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Renascimento",
-                    "type": "Profecia",
-                    "text": "Renascimento Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Lupa do Poder",
-                    "type": "Profecia",
-                    "text": "Lupa do Poder Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dourado por Dentro",
-                    "type": "Profecia",
-                    "text": "Dourado por Dentro Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Finalizando o Tormento",
-                    "type": "Profecia",
-                    "text": "Finalizando o Tormento Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Lição do Caçador",
-                    "type": "Profecia",
-                    "text": "Lição do Caçador Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Prazer e Dor",
-                    "type": "Profecia",
-                    "text": "Prazer e Dor Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Fluxo de Energia",
-                    "type": "Profecia",
-                    "text": "O Fluxo de Energia Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Melodias Fúnebres do Inverno",
-                    "type": "Profecia",
-                    "text": "Melodias Fúnebres do Inverno Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Floresta e Falsos Ídolos",
-                    "type": "Profecia",
-                    "text": "Uma Floresta e Falsos Ídolos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Apagado da Memória",
-                    "type": "Profecia",
-                    "text": "Apagado da Memória Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Destruição Ancestral",
-                    "type": "Profecia",
-                    "text": "Destruição Ancestral Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Pesadelo Desperta",
-                    "type": "Profecia",
-                    "text": "O Pesadelo Desperta Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Sonho do Sonhador",
-                    "type": "Profecia",
-                    "text": "O Sonho do Sonhador Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Provação do Sonho",
-                    "type": "Profecia",
-                    "text": "A Provação do Sonho Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Caminhos Ocultos dos Vaal",
-                    "type": "Profecia",
-                    "text": "Caminhos Ocultos dos Vaal Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ecos do Amor Perdido",
-                    "type": "Profecia",
-                    "text": "Ecos do Amor Perdido Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ecos de Bruxaria",
-                    "type": "Profecia",
-                    "text": "Ecos de Bruxaria Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Mestre Busca Ajuda",
-                    "type": "Profecia",
-                    "disc": "alva",
-                    "text": "Um Mestre Busca Ajuda Profecia (Alva)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Mestre Busca Ajuda",
-                    "type": "Profecia",
-                    "disc": "einhar",
-                    "text": "Um Mestre Busca Ajuda Profecia (EInhar)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Mestre Busca Ajuda",
-                    "type": "Profecia",
-                    "disc": "niko",
-                    "text": "Um Mestre Busca Ajuda Profecia (Niko)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Mestre Busca Ajuda",
-                    "type": "Profecia",
-                    "disc": "jun",
-                    "text": "Um Mestre Busca Ajuda Profecia (Jun)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Armadilhas Caridosas",
-                    "type": "Profecia",
-                    "text": "Armadilhas Caridosas Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Mestre Busca Ajuda",
-                    "type": "Profecia",
-                    "disc": "zana",
-                    "text": "Um Mestre Busca Ajuda Profecia (Zana)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Deus do Azar",
-                    "type": "Profecia",
-                    "text": "O Deus do Azar Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Irmãos em Armas",
-                    "type": "Profecia",
-                    "text": "Irmãos em Armas Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ecos da Mutação",
-                    "type": "Profecia",
-                    "text": "Ecos da Mutação Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Espírito do Esteta",
-                    "type": "Profecia",
-                    "text": "O Espírito do Esteta Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Brutos Mortos-Vivos",
-                    "type": "Profecia",
-                    "text": "Os Brutos Mortos-Vivos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Quatro Exilados Selvagens",
-                    "type": "Profecia",
-                    "text": "Os Quatro Exilados Selvagens Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ventos Vaal",
-                    "type": "Profecia",
-                    "text": "Ventos Vaal Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fogo do Céu",
-                    "type": "Profecia",
-                    "text": "Fogo do Céu Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Gelo de Cima",
-                    "type": "Profecia",
-                    "text": "Gelo de Cima Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Queda do Raio",
-                    "type": "Profecia",
-                    "text": "A Queda do Raio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Nevasca Esmagadora",
-                    "type": "Profecia",
-                    "text": "Nevasca Esmagadora Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Tempestade Morta-Viva",
-                    "type": "Profecia",
-                    "text": "A Tempestade Morta-Viva Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Gêmeos Mortais",
-                    "type": "Profecia",
-                    "text": "Gêmeos Mortais Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Mestre Gracioso",
-                    "type": "Profecia",
-                    "text": "Um Mestre Gracioso Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Mentor",
-                    "type": "Profecia",
-                    "text": "O Mentor Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Riquezas Exuberantes",
-                    "type": "Profecia",
-                    "text": "Riquezas Exuberantes Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Invasores Misteriosos",
-                    "type": "Profecia",
-                    "text": "Invasores Misteriosos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "História Taumatúrgica I",
-                    "type": "Profecia",
-                    "text": "História Taumatúrgica I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "História Taumatúrgica II",
-                    "type": "Profecia",
-                    "text": "História Taumatúrgica II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "História Taumatúrgica III",
-                    "type": "Profecia",
-                    "text": "História Taumatúrgica III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "História Taumatúrgica IV",
-                    "type": "Profecia",
-                    "text": "História Taumatúrgica IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Exorcismo Violento",
-                    "type": "Profecia",
-                    "text": "Exorcismo Violento Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Queda do Império",
-                    "type": "Profecia",
-                    "text": "A Queda do Império Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Última Vigília",
-                    "type": "Profecia",
-                    "text": "A Última Vigília Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Besta sem Alma",
-                    "type": "Profecia",
-                    "text": "A Besta sem Alma Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Guardiões do Silêncio",
-                    "type": "Profecia",
-                    "text": "Guardiões do Silêncio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Guarda da Prisão",
-                    "type": "Profecia",
-                    "text": "O Guarda da Prisão Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Chave da Prisão",
-                    "type": "Profecia",
-                    "text": "A Chave da Prisão Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Proteção do Protetor",
-                    "type": "Profecia",
-                    "text": "A Proteção do Protetor Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Dama de Preto",
-                    "type": "Profecia",
-                    "text": "A Dama de Preto Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Executor Brutal",
-                    "type": "Profecia",
-                    "text": "O Executor Brutal Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Carne da Besta",
-                    "type": "Profecia",
-                    "text": "Carne da Besta Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Tempestade no Horizonte",
-                    "type": "Profecia",
-                    "text": "Tempestade no Horizonte Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Ninho",
-                    "type": "Profecia",
-                    "text": "O Ninho Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Esplendor Anormal",
-                    "type": "Profecia",
-                    "text": "Esplendor Anormal Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fogo, Madeira e Pedra",
-                    "type": "Profecia",
-                    "text": "Fogo, Madeira e Pedra Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Batizado pela Morte",
-                    "type": "Profecia",
-                    "text": "Batizado pela Morte Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Vasto Alcance do Medo",
-                    "type": "Profecia",
-                    "text": "O Vasto Alcance do Medo Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Contra a Maré",
-                    "type": "Profecia",
-                    "text": "Contra a Maré Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Da Morte Floresce a Vida",
-                    "type": "Profecia",
-                    "text": "Da Morte Floresce a Vida Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Chorando a Morte",
-                    "type": "Profecia",
-                    "text": "Chorando a Morte Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Tormenta no Recife",
-                    "type": "Profecia",
-                    "text": "Tormenta no Recife Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Forte como um Touro",
-                    "type": "Profecia",
-                    "text": "Forte como um Touro Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Chamas Graciosas",
-                    "type": "Profecia",
-                    "text": "Chamas Graciosas Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Oração Sussurrada",
-                    "type": "Profecia",
-                    "text": "Uma Oração Sussurrada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Vento e Trovão",
-                    "type": "Profecia",
-                    "text": "Vento e Trovão Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Homem Esfolado",
-                    "type": "Profecia",
-                    "text": "O Homem Esfolado Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sangue dos Traídos",
-                    "type": "Profecia",
-                    "text": "Sangue dos Traídos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Maculado no Cetro",
-                    "type": "Profecia",
-                    "text": "Maculado no Cetro Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Paixão do Rei da Espada",
-                    "type": "Profecia",
-                    "text": "A Paixão do Rei da Espada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sangue nos Olhos",
-                    "type": "Profecia",
-                    "text": "Sangue nos Olhos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sangue Ressucitado",
-                    "type": "Profecia",
-                    "text": "Sangue Ressucitado Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Pranto da Águia",
-                    "type": "Profecia",
-                    "text": "O Pranto da Águia Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Legado de Roth",
-                    "type": "Profecia",
-                    "text": "Legado de Roth Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Petrificado",
-                    "type": "Profecia",
-                    "text": "O Petrificado Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Carne Entalhada",
-                    "type": "Profecia",
-                    "text": "Carne Entalhada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Montanha Andante",
-                    "type": "Profecia",
-                    "text": "A Montanha Andante Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Base Segura",
-                    "type": "Profecia",
-                    "text": "Uma Base Segura Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Pedra do Pecador",
-                    "type": "Profecia",
-                    "text": "A Pedra do Pecador Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Imortais Perdidos",
-                    "type": "Profecia",
-                    "text": "Os Imortais Perdidos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Mão Prodígio",
-                    "type": "Profecia",
-                    "text": "Uma Mão Prodígio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Chamado no Vazio",
-                    "type": "Profecia",
-                    "text": "Um Chamado no Vazio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Testemunho Vazio",
-                    "type": "Profecia",
-                    "text": "O Testemunho Vazio Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Perdido nas Páginas",
-                    "type": "Profecia",
-                    "text": "Perdido nas Páginas Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Purificação dos Pecados",
-                    "type": "Profecia",
-                    "text": "Purificação dos Pecados Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Coração Flamejante",
-                    "type": "Profecia",
-                    "text": "Coração Flamejante Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Vanguarda",
-                    "type": "Profecia",
-                    "text": "A Vanguarda Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Vigia do Vigia",
-                    "type": "Profecia",
-                    "text": "O Vigia do Vigia Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Praga de Ratos",
-                    "type": "Profecia",
-                    "text": "Praga de Ratos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Impressões Persistentes",
-                    "type": "Profecia",
-                    "text": "Impressões Persistentes Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Arte de Kalandra",
-                    "type": "Profecia",
-                    "text": "Arte de Kalandra Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Rhoa Temeroso",
-                    "type": "Profecia",
-                    "text": "O Rhoa Temeroso Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Conexões Predestinadas",
-                    "type": "Profecia",
-                    "text": "Conexões Predestinadas Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Morte Real",
-                    "type": "Profecia",
-                    "text": "Uma Morte Real Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Presente Misterioso",
-                    "type": "Profecia",
-                    "text": "O Presente Misterioso Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Presente de Erasmus",
-                    "type": "Profecia",
-                    "text": "Presente de Erasmus Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Irmãos da Necromancia",
-                    "type": "Profecia",
-                    "text": "Os Irmãos da Necromancia Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Um Risco Inesperado",
-                    "type": "Profecia",
-                    "text": "Um Risco Inesperado Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Aguardando na Emboscada",
-                    "type": "Profecia",
-                    "text": "Aguardando na Emboscada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Punição Solar",
-                    "type": "Profecia",
-                    "text": "Punição Solar Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Bandido Ambicioso I",
-                    "type": "Profecia",
-                    "text": "O Bandido Ambicioso I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Bandido Ambicioso II",
-                    "type": "Profecia",
-                    "text": "O Bandido Ambicioso II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Bandido Ambicioso III",
-                    "type": "Profecia",
-                    "text": "O Bandido Ambicioso III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dança do Aço",
-                    "type": "Profecia",
-                    "text": "Dança do Aço Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Lorde Selvagem I",
-                    "type": "Profecia",
-                    "text": "O Lorde Selvagem I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Lorde Selvagem II",
-                    "type": "Profecia",
-                    "text": "O Lorde Selvagem II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Lorde Selvagem III",
-                    "type": "Profecia",
-                    "text": "O Lorde Selvagem III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Lorde Selvagem IV",
-                    "type": "Profecia",
-                    "text": "O Lorde Selvagem IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Lorde Selvagem V",
-                    "type": "Profecia",
-                    "text": "O Lorde Selvagem V Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fé Cega",
-                    "type": "Profecia",
-                    "text": "Fé Cega Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Grande Mente do Norte",
-                    "type": "Profecia",
-                    "text": "A Grande Mente do Norte Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Grande Líder do Norte",
-                    "type": "Profecia",
-                    "text": "O Grande Líder do Norte Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Mandíbula da Praga I",
-                    "type": "Profecia",
-                    "text": "A Mandíbula da Praga I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Mandíbula da Praga II",
-                    "type": "Profecia",
-                    "text": "A Mandíbula da Praga II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Mandíbula da Praga III",
-                    "type": "Profecia",
-                    "text": "A Mandíbula da Praga III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Mandíbula da Praga IV",
-                    "type": "Profecia",
-                    "text": "A Mandíbula da Praga IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Mandíbula da Praga V",
-                    "type": "Profecia",
-                    "text": "A Mandíbula da Praga V Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Armazenador",
-                    "type": "Profecia",
-                    "text": "O Armazenador Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Pináculo da Tempestade",
-                    "type": "Profecia",
-                    "text": "O Pináculo da Tempestade Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rainha Que Não Respira I",
-                    "type": "Profecia",
-                    "text": "A Rainha Que Não Respira I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rainha Que Não Respira II",
-                    "type": "Profecia",
-                    "text": "A Rainha Que Não Respira II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rainha Que Não Respira III",
-                    "type": "Profecia",
-                    "text": "A Rainha Que Não Respira III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rainha Que Não Respira IV",
-                    "type": "Profecia",
-                    "text": "A Rainha Que Não Respira IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rainha Que Não Respira V",
-                    "type": "Profecia",
-                    "text": "A Rainha Que Não Respira V Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Incitadores da Guerra I",
-                    "type": "Profecia",
-                    "text": "Os Incitadores da Guerra I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Incitadores da Guerra II",
-                    "type": "Profecia",
-                    "text": "Os Incitadores da Guerra II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Incitadores da Guerra III",
-                    "type": "Profecia",
-                    "text": "Os Incitadores da Guerra III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Incitadores da Guerra IV",
-                    "type": "Profecia",
-                    "text": "Os Incitadores da Guerra IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Mapas Perdidos",
-                    "type": "Profecia",
-                    "text": "Os Mapas Perdidos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Uma Brecha no Tempo",
-                    "type": "Profecia",
-                    "text": "Uma Brecha no Tempo Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Espírito Singular",
-                    "type": "Profecia",
-                    "text": "O Espírito Singular Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Tocado pelo Vento",
-                    "type": "Profecia",
-                    "text": "Tocado pelo Vento Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Resistente à Mudança",
-                    "type": "Profecia",
-                    "text": "Resistente à Mudança Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Tentáculos Amaciadores",
-                    "type": "Profecia",
-                    "text": "Tentáculos Amaciadores Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Transformação Vital",
-                    "type": "Profecia",
-                    "text": "Transformação Vital Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Toque Dourado",
-                    "type": "Profecia",
-                    "text": "Toque Dourado Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Segurando a Ponte",
-                    "type": "Profecia",
-                    "text": "Segurando a Ponte Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sussurros Insuportáveis I",
-                    "type": "Profecia",
-                    "text": "Sussurros Insuportáveis I Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sussurros Insuportáveis II",
-                    "type": "Profecia",
-                    "text": "Sussurros Insuportáveis II Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sussurros Insuportáveis III",
-                    "type": "Profecia",
-                    "text": "Sussurros Insuportáveis III Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sussurros Insuportáveis IV",
-                    "type": "Profecia",
-                    "text": "Sussurros Insuportáveis IV Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sussurros Insuportáveis V",
-                    "type": "Profecia",
-                    "text": "Sussurros Insuportáveis V Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Mortos se Levantando",
-                    "type": "Profecia",
-                    "text": "Mortos se Levantando Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fogos Vivos",
-                    "type": "Profecia",
-                    "text": "Fogos Vivos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Energia Anormal",
-                    "type": "Profecia",
-                    "text": "Energia Anormal Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "No Aperto da Corrupção",
-                    "type": "Profecia",
-                    "text": "No Aperto da Corrupção Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Armadura Endurecida",
-                    "type": "Profecia",
-                    "text": "A Armadura Endurecida Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Guia Bonito",
-                    "type": "Profecia",
-                    "text": "O Guia Bonito Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Lâmina Afiada",
-                    "type": "Profecia",
-                    "text": "A Lâmina Afiada Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "O Corrupto",
-                    "type": "Profecia",
-                    "text": "O Corrupto Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Os Soldados Esquecidos",
-                    "type": "Profecia",
-                    "text": "Os Soldados Esquecidos Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Grito da Língua Sombria",
-                    "type": "Profecia",
-                    "text": "Grito da Língua Sombria Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Loucura da Ganância",
-                    "type": "Profecia",
-                    "text": "Loucura da Ganância Profecia",
-                    "flags": {
-                        "prophecy": true
-                    }
-                }
-            ]
-        },
-        {
             "id": "monsters",
             "label": "Monstros Itemizados",
             "entries": [
@@ -25120,7 +23612,7 @@
                 },
                 {
                     "type": "Fenumal Plagued Arachnid",
-                    "text": "Aracnídeo da Praga Fenumal"
+                    "text": "Aracnídeo Infestado Fenumal"
                 },
                 {
                     "type": "Fenumal Hybrid Arachnid",
@@ -26309,280 +24801,6 @@
                 {
                     "type": "Tolman, the Exhumer",
                     "text": "Tolman, o Exumador"
-                }
-            ]
-        },
-        {
-            "id": "watchstones",
-            "label": "",
-            "entries": [
-                {
-                    "name": "No Topo do Atlas",
-                    "type": "Pedra Sentinela de Platina de Lex Ejoris",
-                    "text": "No Topo do Atlas Pedra Sentinela de Platina de Lex Ejoris",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "No Topo do Atlas",
-                    "type": "Pedra Sentinela de Platina de Descanso de Valdo",
-                    "text": "No Topo do Atlas Pedra Sentinela de Platina de Descanso de Valdo",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "População em Expansão",
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "População em Expansão Pedra Sentinela de Marfim",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Tentação Irresistível",
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "Tentação Irresistível Pedra Sentinela de Marfim",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Informações Falsas",
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "Informações Falsas Pedra Sentinela de Marfim",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Ciclos Inquietos",
-                    "type": "Pedra Sentinela de Platina de Descanso de Valdo",
-                    "text": "Ciclos Inquietos Pedra Sentinela de Platina de Descanso de Valdo",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Defensores de Stalwart",
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "Defensores de Stalwart Pedra Sentinela de Marfim",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Territórios Desconhecidos",
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "Territórios Desconhecidos Pedra Sentinela de Marfim",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Terror",
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "Terror Pedra Sentinela de Marfim",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "O Construtor",
-                    "type": "Pedra Sentinela de Platina de Marcos de Glennach",
-                    "text": "O Construtor Pedra Sentinela de Platina de Marcos de Glennach",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "A Pretensão",
-                    "type": "Pedra Sentinela de Platina de Vila de Haewark",
-                    "text": "A Pretensão Pedra Sentinela de Platina de Vila de Haewark",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "A Pretensão",
-                    "type": "Pedra Sentinela de Platina de Fim de Tirn",
-                    "text": "A Pretensão Pedra Sentinela de Platina de Fim de Tirn",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "O Pico Próximo",
-                    "type": "Pedra Sentinela de Platina de Lex Proxima",
-                    "text": "O Pico Próximo Pedra Sentinela de Platina de Lex Proxima",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "O Pico Próximo",
-                    "type": "Pedra Sentinela de Platina de Marcos de Glennach",
-                    "text": "O Pico Próximo Pedra Sentinela de Platina de Marcos de Glennach",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "A Falsa Esperança",
-                    "type": "Pedra Sentinela de Platina de Lira Arthain",
-                    "text": "A Falsa Esperança Pedra Sentinela de Platina de Lira Arthain",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "O Vasto Horizonte",
-                    "type": "Pedra Sentinela de Platina de Nova Vastir",
-                    "text": "O Vasto Horizonte Pedra Sentinela de Platina de Nova Vastir",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "O Vasto Horizonte",
-                    "type": "Pedra Sentinela de Platina de Lira Arthain",
-                    "text": "O Vasto Horizonte Pedra Sentinela de Platina de Lira Arthain",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "As Paredes",
-                    "type": "Pedra Sentinela de Platina de Vila de Haewark",
-                    "text": "As Paredes Pedra Sentinela de Platina de Vila de Haewark",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Guerra Entre as Estrelas",
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "Guerra Entre as Estrelas Pedra Sentinela de Marfim",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Pedra Sentinela Carmesim",
-                    "text": "Pedra Sentinela Carmesim"
-                },
-                {
-                    "type": "Pedra Sentinela de Cobalto",
-                    "text": "Pedra Sentinela de Cobalto"
-                },
-                {
-                    "type": "Pedra Sentinela Viridiana",
-                    "text": "Pedra Sentinela Viridiana"
-                },
-                {
-                    "type": "Pedra Sentinela Dourada",
-                    "text": "Pedra Sentinela Dourada"
-                },
-                {
-                    "type": "Pedra Sentinela de Marfim",
-                    "text": "Pedra Sentinela de Marfim"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Vila de Haewark",
-                    "text": "Pedra Sentinela Cromada de Vila de Haewark"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Fim de Tirn",
-                    "text": "Pedra Sentinela Cromada de Fim de Tirn"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Lex Proxima",
-                    "text": "Pedra Sentinela Cromada de Lex Proxima"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Lex Ejoris",
-                    "text": "Pedra Sentinela Cromada de Lex Ejoris"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Nova Vastir",
-                    "text": "Pedra Sentinela Cromada de Nova Vastir"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Marcos de Glennach",
-                    "text": "Pedra Sentinela Cromada de Marcos de Glennach"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Descanso de Valdo",
-                    "text": "Pedra Sentinela Cromada de Descanso de Valdo"
-                },
-                {
-                    "type": "Pedra Sentinela Cromada de Lira Arthain",
-                    "text": "Pedra Sentinela Cromada de Lira Arthain"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Vila de Haewark",
-                    "text": "Pedra Sentinela de Platina de Vila de Haewark"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Fim de Tirn",
-                    "text": "Pedra Sentinela de Platina de Fim de Tirn"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Lex Proxima",
-                    "text": "Pedra Sentinela de Platina de Lex Proxima"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Lex Ejoris",
-                    "text": "Pedra Sentinela de Platina de Lex Ejoris"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Nova Vastir",
-                    "text": "Pedra Sentinela de Platina de Nova Vastir"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Marcos de Glennach",
-                    "text": "Pedra Sentinela de Platina de Marcos de Glennach"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Descanso de Valdo",
-                    "text": "Pedra Sentinela de Platina de Descanso de Valdo"
-                },
-                {
-                    "type": "Pedra Sentinela de Platina de Lira Arthain",
-                    "text": "Pedra Sentinela de Platina de Lira Arthain"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Vila de Haewark",
-                    "text": "Pedra Sentinela de Titânio de Vila de Haewark"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Fim de Tirn",
-                    "text": "Pedra Sentinela de Titânio de Fim de Tirn"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Lex Proxima",
-                    "text": "Pedra Sentinela de Titânio de Lex Proxima"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Lex Ejoris",
-                    "text": "Pedra Sentinela de Titânio de Lex Ejoris"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Nova Vastir",
-                    "text": "Pedra Sentinela de Titânio de Nova Vastir"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Marcos de Glennach",
-                    "text": "Pedra Sentinela de Titânio de Marcos de Glennach"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Descanso de Valdo",
-                    "text": "Pedra Sentinela de Titânio de Descanso de Valdo"
-                },
-                {
-                    "type": "Pedra Sentinela de Titânio de Lira Arthain",
-                    "text": "Pedra Sentinela de Titânio de Lira Arthain"
                 }
             ]
         },

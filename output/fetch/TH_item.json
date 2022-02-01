@@ -69,6 +69,14 @@
                     }
                 },
                 {
+                    "name": "Ashes of the Stars",
+                    "type": "Onyx Amulet",
+                    "text": "Ashes of the Stars Onyx Amulet",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Astral Projector",
                     "type": "Topaz Ring",
                     "text": "Astral Projector Topaz Ring",
@@ -336,6 +344,14 @@
                     "name": "Coward's Legacy",
                     "type": "Chain Belt",
                     "text": "Coward's Legacy Chain Belt",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Crystallised Omniscience",
+                    "type": "Onyx Amulet",
+                    "text": "Crystallised Omniscience Onyx Amulet",
                     "flags": {
                         "unique": true
                     }
@@ -856,6 +872,14 @@
                     "name": "Perseverance",
                     "type": "Vanguard Belt",
                     "text": "Perseverance Vanguard Belt",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Polaric Devastation",
+                    "type": "Opal Ring",
+                    "text": "Polaric Devastation Opal Ring",
                     "flags": {
                         "unique": true
                     }
@@ -2255,6 +2279,14 @@
                     }
                 },
                 {
+                    "name": "Asphyxia's Wrath",
+                    "type": "Feathered Arrow Quiver",
+                    "text": "Asphyxia's Wrath Feathered Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Assailum",
                     "type": "Sinner Tricorne",
                     "text": "Assailum Sinner Tricorne",
@@ -2367,9 +2399,25 @@
                     }
                 },
                 {
+                    "name": "Blackgleam",
+                    "type": "Blazing Arrow Quiver",
+                    "text": "Blackgleam Blazing Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Black Sun Crest",
                     "type": "Lacquered Helmet",
                     "text": "Black Sun Crest Lacquered Helmet",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Black Zenith",
+                    "type": "Fingerless Silk Gloves",
+                    "text": "Black Zenith Fingerless Silk Gloves",
                     "flags": {
                         "unique": true
                     }
@@ -2490,6 +2538,14 @@
                     "name": "Carcass Jack",
                     "type": "Varnished Coat",
                     "text": "Carcass Jack Varnished Coat",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Ceaseless Feast",
+                    "type": "Spiked Gloves",
+                    "text": "Ceaseless Feast Spiked Gloves",
                     "flags": {
                         "unique": true
                     }
@@ -2770,6 +2826,14 @@
                     "name": "Darkray Vectors",
                     "type": "Dragonscale Boots",
                     "text": "Darkray Vectors Dragonscale Boots",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Dawnbreaker",
+                    "type": "Colossal Tower Shield",
+                    "text": "Dawnbreaker Colossal Tower Shield",
                     "flags": {
                         "unique": true
                     }
@@ -3559,6 +3623,14 @@
                     }
                 },
                 {
+                    "name": "Inextricable Fate",
+                    "type": "Fugitive Boots",
+                    "text": "Inextricable Fate Fugitive Boots",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Infernal Mantle",
                     "type": "Occultist's Vestment",
                     "text": "Infernal Mantle Occultist's Vestment",
@@ -3898,6 +3970,14 @@
                     "name": "Maloney's Nightfall",
                     "type": "Blunt Arrow Quiver",
                     "text": "Maloney's Nightfall Blunt Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Maloney's Nightfall",
+                    "type": "Vile Arrow Quiver",
+                    "text": "Maloney's Nightfall Vile Arrow Quiver",
                     "flags": {
                         "unique": true
                     }
@@ -4247,6 +4327,14 @@
                     }
                 },
                 {
+                    "name": "Rearguard",
+                    "type": "Blunt Arrow Quiver",
+                    "text": "Rearguard Blunt Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Reckless Defence",
                     "type": "Lacquered Garb",
                     "text": "Reckless Defence Lacquered Garb",
@@ -4583,6 +4671,14 @@
                     }
                 },
                 {
+                    "name": "Saemus' Gift",
+                    "type": "Feathered Arrow Quiver",
+                    "text": "Saemus' Gift Feathered Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Saffell's Frame",
                     "type": "Branded Kite Shield",
                     "text": "Saffell's Frame Branded Kite Shield",
@@ -4634,6 +4730,14 @@
                     "name": "Scorpion's Call",
                     "type": "Broadhead Arrow Quiver",
                     "text": "Scorpion's Call Broadhead Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Scorpion's Call",
+                    "type": "Heavy Arrow Quiver",
+                    "text": "Scorpion's Call Heavy Arrow Quiver",
                     "flags": {
                         "unique": true
                     }
@@ -4906,6 +5010,14 @@
                     "name": "Storm's Gift",
                     "type": "Assassin's Mitts",
                     "text": "Storm's Gift Assassin's Mitts",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Sudden Dawn",
+                    "type": "Steel Circlet",
+                    "text": "Sudden Dawn Steel Circlet",
                     "flags": {
                         "unique": true
                     }
@@ -5255,6 +5367,14 @@
                     }
                 },
                 {
+                    "name": "The Signal Fire",
+                    "type": "Blazing Arrow Quiver",
+                    "text": "The Signal Fire Blazing Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "The Snowblind Grace",
                     "type": "Coronal Leather",
                     "text": "The Snowblind Grace Coronal Leather",
@@ -5546,6 +5666,14 @@
                     "name": "Voidfletcher",
                     "type": "Penetrating Arrow Quiver",
                     "text": "Voidfletcher Penetrating Arrow Quiver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Voidfletcher",
+                    "type": "Primal Arrow Quiver",
+                    "text": "Voidfletcher Primal Arrow Quiver",
                     "flags": {
                         "unique": true
                     }
@@ -7465,6 +7593,26 @@
                 {
                     "type": "Artillery Quiver",
                     "text": "Artillery Quiver"
+                },
+                {
+                    "type": "Vile Arrow Quiver",
+                    "text": "Vile Arrow Quiver"
+                },
+                {
+                    "type": "Heavy Arrow Quiver",
+                    "text": "Heavy Arrow Quiver"
+                },
+                {
+                    "type": "Primal Arrow Quiver",
+                    "text": "Primal Arrow Quiver"
+                },
+                {
+                    "type": "Feathered Arrow Quiver",
+                    "text": "Feathered Arrow Quiver"
+                },
+                {
+                    "type": "Blazing Arrow Quiver",
+                    "text": "Blazing Arrow Quiver"
                 }
             ]
         },
@@ -7555,6 +7703,10 @@
                 {
                     "type": "Beauty Through Death",
                     "text": "Beauty Through Death"
+                },
+                {
+                    "type": "Bijoux",
+                    "text": "Bijoux"
                 },
                 {
                     "type": "Birth of the Three",
@@ -7705,6 +7857,10 @@
                     "text": "Draped in Dreams"
                 },
                 {
+                    "type": "Duality",
+                    "text": "Duality"
+                },
+                {
                     "type": "Dying Anguish",
                     "text": "Dying Anguish"
                 },
@@ -7817,12 +7973,24 @@
                     "text": "Immortal Resolve"
                 },
                 {
+                    "type": "Imperfect Memories",
+                    "text": "Imperfect Memories"
+                },
+                {
                     "type": "Imperial Legacy",
                     "text": "Imperial Legacy"
                 },
                 {
                     "type": "Jack in the Box",
                     "text": "Jack in the Box"
+                },
+                {
+                    "type": "Judging Voices",
+                    "text": "Judging Voices"
+                },
+                {
+                    "type": "Justified Ambition",
+                    "text": "Justified Ambition"
                 },
                 {
                     "type": "Keeper's Corruption",
@@ -7881,6 +8049,10 @@
                     "text": "Lysah's Respite"
                 },
                 {
+                    "type": "Magnum Opus",
+                    "text": "Magnum Opus"
+                },
+                {
                     "type": "Mawr Blaidd",
                     "text": "Mawr Blaidd"
                 },
@@ -7891,6 +8063,10 @@
                 {
                     "type": "Might is Right",
                     "text": "Might is Right"
+                },
+                {
+                    "type": "Misery in Darkness",
+                    "text": "Misery in Darkness"
                 },
                 {
                     "type": "Mitts",
@@ -7911,6 +8087,10 @@
                 {
                     "type": "No Traces",
                     "text": "No Traces"
+                },
+                {
+                    "type": "Parasitic Passengers",
+                    "text": "Parasitic Passengers"
                 },
                 {
                     "type": "Peaceful Moments",
@@ -7983,6 +8163,10 @@
                 {
                     "type": "Shard of Fate",
                     "text": "Shard of Fate"
+                },
+                {
+                    "type": "Silence and Frost",
+                    "text": "Silence and Frost"
                 },
                 {
                     "type": "Society's Remorse",
@@ -8509,6 +8693,10 @@
                     "text": "The Mad King"
                 },
                 {
+                    "type": "The Magma Crab",
+                    "text": "The Magma Crab"
+                },
+                {
                     "type": "The Master",
                     "text": "The Master"
                 },
@@ -8563,6 +8751,10 @@
                 {
                     "type": "The Old Man",
                     "text": "The Old Man"
+                },
+                {
+                    "type": "The One That Got Away",
+                    "text": "The One That Got Away"
                 },
                 {
                     "type": "The One With All",
@@ -8785,12 +8977,20 @@
                     "text": "The Tinkerer's Table"
                 },
                 {
+                    "type": "The Tireless Extractor",
+                    "text": "The Tireless Extractor"
+                },
+                {
                     "type": "The Tower",
                     "text": "The Tower"
                 },
                 {
                     "type": "The Traitor",
                     "text": "The Traitor"
+                },
+                {
+                    "type": "The Transformation",
+                    "text": "The Transformation"
                 },
                 {
                     "type": "The Trial",
@@ -9000,144 +9200,144 @@
             "entries": [
                 {
                     "name": "First Piece of the Arcane",
-                    "type": "Legion Sword Piece",
-                    "text": "First Piece of the Arcane Legion Sword Piece",
+                    "type": "ชิ้นส่วน Legion Sword",
+                    "text": "First Piece of the Arcane ชิ้นส่วน Legion Sword",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "First Piece of Brutality",
-                    "type": "Imperial Staff Piece",
-                    "text": "First Piece of Brutality Imperial Staff Piece",
+                    "type": "ชิ้นส่วน Imperial Staff",
+                    "text": "First Piece of Brutality ชิ้นส่วน Imperial Staff",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "First Piece of Directions",
-                    "type": "Blunt Arrow Quiver Piece",
-                    "text": "First Piece of Directions Blunt Arrow Quiver Piece",
+                    "type": "ชิ้นส่วน Blunt Arrow Quiver",
+                    "text": "First Piece of Directions ชิ้นส่วน Blunt Arrow Quiver",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "First Piece of Focus",
-                    "type": "Archon Kite Shield Piece",
-                    "text": "First Piece of Focus Archon Kite Shield Piece",
+                    "type": "ชิ้นส่วน Archon Kite Shield",
+                    "text": "First Piece of Focus ชิ้นส่วน Archon Kite Shield",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "First Piece of Storms",
-                    "type": "Callous Mask Piece",
-                    "text": "First Piece of Storms Callous Mask Piece",
+                    "type": "ชิ้นส่วน Callous Mask",
+                    "text": "First Piece of Storms ชิ้นส่วน Callous Mask",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "First Piece of Time",
-                    "type": "Cloth Belt Piece",
-                    "text": "First Piece of Time Cloth Belt Piece",
+                    "type": "ชิ้นส่วน Cloth Belt",
+                    "text": "First Piece of Time ชิ้นส่วน Cloth Belt",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Fourth Piece of Focus",
-                    "type": "Archon Kite Shield Piece",
-                    "text": "Fourth Piece of Focus Archon Kite Shield Piece",
+                    "type": "ชิ้นส่วน Archon Kite Shield",
+                    "text": "Fourth Piece of Focus ชิ้นส่วน Archon Kite Shield",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Second Piece of the Arcane",
-                    "type": "Legion Sword Piece",
-                    "text": "Second Piece of the Arcane Legion Sword Piece",
+                    "type": "ชิ้นส่วน Legion Sword",
+                    "text": "Second Piece of the Arcane ชิ้นส่วน Legion Sword",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Second Piece of Brutality",
-                    "type": "Imperial Staff Piece",
-                    "text": "Second Piece of Brutality Imperial Staff Piece",
+                    "type": "ชิ้นส่วน Imperial Staff",
+                    "text": "Second Piece of Brutality ชิ้นส่วน Imperial Staff",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Second Piece of Directions",
-                    "type": "Blunt Arrow Quiver Piece",
-                    "text": "Second Piece of Directions Blunt Arrow Quiver Piece",
+                    "type": "ชิ้นส่วน Blunt Arrow Quiver",
+                    "text": "Second Piece of Directions ชิ้นส่วน Blunt Arrow Quiver",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Second Piece of Focus",
-                    "type": "Archon Kite Shield Piece",
-                    "text": "Second Piece of Focus Archon Kite Shield Piece",
+                    "type": "ชิ้นส่วน Archon Kite Shield",
+                    "text": "Second Piece of Focus ชิ้นส่วน Archon Kite Shield",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Second Piece of Storms",
-                    "type": "Callous Mask Piece",
-                    "text": "Second Piece of Storms Callous Mask Piece",
+                    "type": "ชิ้นส่วน Callous Mask",
+                    "text": "Second Piece of Storms ชิ้นส่วน Callous Mask",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Second Piece of Time",
-                    "type": "Cloth Belt Piece",
-                    "text": "Second Piece of Time Cloth Belt Piece",
+                    "type": "ชิ้นส่วน Cloth Belt",
+                    "text": "Second Piece of Time ชิ้นส่วน Cloth Belt",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Third Piece of the Arcane",
-                    "type": "Legion Sword Piece",
-                    "text": "Third Piece of the Arcane Legion Sword Piece",
+                    "type": "ชิ้นส่วน Legion Sword",
+                    "text": "Third Piece of the Arcane ชิ้นส่วน Legion Sword",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Third Piece of Brutality",
-                    "type": "Imperial Staff Piece",
-                    "text": "Third Piece of Brutality Imperial Staff Piece",
+                    "type": "ชิ้นส่วน Imperial Staff",
+                    "text": "Third Piece of Brutality ชิ้นส่วน Imperial Staff",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Third Piece of Directions",
-                    "type": "Blunt Arrow Quiver Piece",
-                    "text": "Third Piece of Directions Blunt Arrow Quiver Piece",
+                    "type": "ชิ้นส่วน Blunt Arrow Quiver",
+                    "text": "Third Piece of Directions ชิ้นส่วน Blunt Arrow Quiver",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Third Piece of Focus",
-                    "type": "Archon Kite Shield Piece",
-                    "text": "Third Piece of Focus Archon Kite Shield Piece",
+                    "type": "ชิ้นส่วน Archon Kite Shield",
+                    "text": "Third Piece of Focus ชิ้นส่วน Archon Kite Shield",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "name": "Third Piece of Storms",
-                    "type": "Callous Mask Piece",
-                    "text": "Third Piece of Storms Callous Mask Piece",
+                    "type": "ชิ้นส่วน Callous Mask",
+                    "text": "Third Piece of Storms ชิ้นส่วน Callous Mask",
                     "flags": {
                         "unique": true
                     }
@@ -9207,20 +9407,20 @@
                     "text": "Strong Steel Net"
                 },
                 {
-                    "type": "Simple Sextant",
-                    "text": "Simple Sextant"
+                    "type": "เครื่องวัดแดดเรียบง่าย",
+                    "text": "เครื่องวัดแดดเรียบง่าย"
                 },
                 {
-                    "type": "Awakened Sextant",
-                    "text": "Awakened Sextant"
+                    "type": "เครื่องวัดแดดจุติ",
+                    "text": "เครื่องวัดแดดจุติ"
                 },
                 {
-                    "type": "Elevanted Sextant",
-                    "text": "Elevanted Sextant"
+                    "type": "เครื่องวัด��ดดอันสูงส่ง",
+                    "text": "เครื่องวัดแดดอันสูงส่ง"
                 },
                 {
-                    "type": "Prime Sextant",
-                    "text": "Prime Sextant"
+                    "type": "เครื่องวัดแดดชั้นสูง",
+                    "text": "เครื่องวัดแดดชั้นสูง"
                 },
                 {
                     "type": "Facetor's Lens",
@@ -9239,92 +9439,88 @@
                     "text": "ชิ้นส่วน Exalted"
                 },
                 {
-                    "type": "Abyssal Delirium Orb",
-                    "text": "Abyssal Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมเบื้องลึก",
+                    "text": "ลูกแก้วเดลิเรียมเบื้องลึก"
                 },
                 {
-                    "type": "Armoursmith's Delirium Orb",
-                    "text": "Armoursmith's Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมช่างตีเกราะ",
+                    "text": "ลูกแก้วเดลิเรียมช่างตีเกราะ"
                 },
                 {
-                    "type": "Blighted Delirium Orb",
-                    "text": "Blighted Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมเชื้อราร้าย",
+                    "text": "ลูกแก้วเดลิเรียมเชื้อราร้าย"
                 },
                 {
-                    "type": "Obscured Delirium Orb",
-                    "text": "Obscured Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมมืดมัว",
+                    "text": "ลูกแก้วเดลิเรียมมืดมัว"
                 },
                 {
-                    "type": "Fine Delirium Orb",
-                    "text": "Fine Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมประณีต",
+                    "text": "ลูกแก้วเดลิเรียมประณีต"
                 },
                 {
-                    "type": "Diviner's Delirium Orb",
-                    "text": "Diviner's Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมนักพยากรณ์",
+                    "text": "ลูกแก้วเดลิเรียมนักพยากรณ์"
                 },
                 {
-                    "type": "Whispering Delirium Orb",
-                    "text": "Whispering Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมพร่ำกระซิบ",
+                    "text": "ลูกแก้วเดลิเรียมพร่ำกระซิบ"
                 },
                 {
-                    "type": "Fossilised Delirium Orb",
-                    "text": "Fossilised Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมฟอสซิล",
+                    "text": "ลูกแก้วเดลิเรียมฟอสซิล"
                 },
                 {
-                    "type": "Fragmented Delirium Orb",
-                    "text": "Fragmented Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมแยกส่วน",
+                    "text": "ลูกแก้วเดลิเรียมแยกส่วน"
                 },
                 {
-                    "type": "Thaumaturge's Delirium Orb",
-                    "text": "Thaumaturge's Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมจอมเวทมณี",
+                    "text": "ลูกแก้วเดลิเรียมจอมเวทมณี"
                 },
                 {
-                    "type": "Foreboding Delirium Orb",
-                    "text": "Foreboding Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมอันเป็นลาง",
+                    "text": "ลูกแก้วเดลิเรียมอันเป็นลาง"
                 },
                 {
-                    "type": "Timeless Delirium Orb",
-                    "text": "Timeless Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมเหนือกาลเวลา",
+                    "text": "ลูกแก้วเดลิเรียมเหนือกาลเวลา"
                 },
                 {
-                    "type": "Imperial Delirium Orb",
-                    "text": "Imperial Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมจักรพรรดิ์",
+                    "text": "ลูกแก้วเดลิเรียมจักรพรรดิ์"
                 },
                 {
-                    "type": "Cartographer's Delirium Orb",
-                    "text": "Cartographer's Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมนักเขียนแผนที่",
+                    "text": "ลูกแก้วเดลิเรียมนักเขียนแผนที่"
                 },
                 {
-                    "type": "Amorphous Delirium Orb",
-                    "text": "Amorphous Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมไร้รูปร่าง",
+                    "text": "ลูกแก้วเดลิเรียมไร้รูปร่าง"
                 },
                 {
-                    "type": "Kalguuran Delirium Orb",
-                    "text": "Kalguuran Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมคาลเกอร์",
+                    "text": "ลูกแก้วเดลิเรียมคาลเกอร์"
                 },
                 {
-                    "type": "Portentous Delirium Orb",
-                    "text": "Portentous Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมเสียงแมลง",
+                    "text": "ลูกแก้วเดลิเรียมเสียงแมลง"
                 },
                 {
-                    "type": "Skittering Delirium Orb",
-                    "text": "Skittering Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมแต่ดั้งเดิม",
+                    "text": "ลูกแก้วเดลิเรียมแต่ดั้งเดิม"
                 },
                 {
-                    "type": "Primal Delirium Orb",
-                    "text": "Primal Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมช่างอัญมณี",
+                    "text": "ลูกแก้วเดลิเรียมช่างอัญมณี"
                 },
                 {
-                    "type": "Jeweller's Delirium Orb",
-                    "text": "Jeweller's Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมเอกเทศ",
+                    "text": "ลูกแก้วเดลิเรียมเอกเทศ"
                 },
                 {
-                    "type": "Singular Delirium Orb",
-                    "text": "Singular Delirium Orb"
-                },
-                {
-                    "type": "Blacksmith's Delirium Orb",
-                    "text": "Blacksmith's Delirium Orb"
+                    "type": "ลูกแก้วเดลิเรียมช่างตีเหล็ก",
+                    "text": "ลูกแก้วเดล���เรียมช่างตีเหล็ก"
                 },
                 {
                     "type": "ชิ้นส่วนเมืองจำแลง",
@@ -9339,24 +9535,24 @@
                     "text": "Orb of Unmaking"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งชายูล่า",
-                    "text": "ชิ้นส่วนแห่งชายูล่า"
+                    "type": "ชิ้นส่วนชายูล่า",
+                    "text": "ชิ้นส่วนชายูล่า"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งทุล",
-                    "text": "ชิ้นส่วนแห่งทุล"
+                    "type": "ชิ้นส่วนทุล",
+                    "text": "ชิ้นส่วนทุล"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งซอปห์",
-                    "text": "ชิ้นส่วนแห่งซอปห์"
+                    "type": "ชิ้นส่วนซอปห์",
+                    "text": "ชิ้นส่วนซอปห์"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งเอ็ช",
-                    "text": "ชิ้นส่วนแห่งเอ็ช"
+                    "type": "ชิ้นส่วนเอ็ช",
+                    "text": "ชิ้นส่วนเอ็ช"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งอูล-เนโทล",
-                    "text": "ชิ้นส่วนแห่งอูล-เนโทล"
+                    "type": "ชิ้นส่วนอูล-เนโทล",
+                    "text": "ชิ้นส่วนอูล-เนโทล"
                 },
                 {
                     "type": "พรแห่งชายูล่า",
@@ -9377,6 +9573,10 @@
                 {
                     "type": "พรแห่งอูล-เนโทล",
                     "text": "พรแห่งอูล-เนโทล"
+                },
+                {
+                    "type": "ลูกแก้วปรปักษ์",
+                    "text": "ลูกแก้วปรปักษ์"
                 },
                 {
                     "type": "Orb of Scouring",
@@ -9497,6 +9697,50 @@
                 {
                     "type": "ชิ้นส่วน Mirror",
                     "text": "ชิ้นส่วน Mirror"
+                },
+                {
+                    "type": "Eldritch Exalted Orb",
+                    "text": "Eldritch Exalted Orb"
+                },
+                {
+                    "type": "เถ้าถ่านผิดธรรมชาติชั้นต่ำ",
+                    "text": "เถ้าถ่านผิดธรรมชาติชั้นต่ำ"
+                },
+                {
+                    "type": "เถ้าถ่านผิดธรรมชาติชั้นสูง",
+                    "text": "เถ้าถ่านผิดธรรมชาติชั้นสูง"
+                },
+                {
+                    "type": "เถ้าถ่านผิดธรรมชาติชั้นเลิศ",
+                    "text": "เถ้าถ่านผิดธรรมชาติชั้นเลิศ"
+                },
+                {
+                    "type": "เถ้าถ่านผิดธรรมชาติชั้นยอด",
+                    "text": "เถ้าถ่านผิดธรรมชาติชั้นยอด"
+                },
+                {
+                    "type": "น้ำหนองผิดธรรมชาติชั้นต่ำ",
+                    "text": "น้ำหนองผิดธรรมชาติชั้นต่ำ"
+                },
+                {
+                    "type": "น้ำหนองผิดธรรมชาติชั้นสูง",
+                    "text": "น้ำหนองผิดธรรมชาติชั้นสูง"
+                },
+                {
+                    "type": "น้ำหนองผ��ดธรรมชาติชั้นเลิศ",
+                    "text": "น้ำหนองผิดธรรมชาติชั้นเลิศ"
+                },
+                {
+                    "type": "น้ำหนองผิดธรรมชาติชั้นยอด",
+                    "text": "น้ำหนองผิดธรรมชาติชั้นยอด"
+                },
+                {
+                    "type": "Eldritch Orb of Annulment",
+                    "text": "Eldritch Orb of Annulment"
+                },
+                {
+                    "type": "Eldritch Chaos Orb",
+                    "text": "Eldritch Chaos Orb"
                 },
                 {
                     "type": "Enkindling Orb",
@@ -9919,6 +10163,10 @@
                     "text": "Deafening Essence of Zeal"
                 },
                 {
+                    "type": "ตัวสกัดน้ำมัน",
+                    "text": "ตัวสกัดน้ำมัน"
+                },
+                {
                     "type": "Glassblower's Bauble",
                     "text": "Glassblower's Bauble"
                 },
@@ -10011,124 +10259,124 @@
                     "text": "Eternal Orb"
                 },
                 {
-                    "type": "Abyssal Incubator",
-                    "text": "Abyssal Incubator"
+                    "type": "ตัวบ่มฟักเบื้องลึก",
+                    "text": "ตัวบ่มฟักเบื้องลึก"
                 },
                 {
-                    "type": "Geomancer's Incubator",
-                    "text": "Geomancer's Incubator"
+                    "type": "ตัวบ่มฟักนักทำนายโลกา",
+                    "text": "ตัวบ่มฟักนักทำนายโลกา"
                 },
                 {
-                    "type": "Celestial Armoursmith's Incubator",
-                    "text": "Celestial Armoursmith's Incubator"
+                    "type": "ตัวบ่มฟักช่างตีเกราะดวงดาว",
+                    "text": "ตัวบ่มฟักช่างตีเกราะดวงดาว"
                 },
                 {
-                    "type": "Feral Incubator",
-                    "text": "Feral Incubator"
+                    "type": "ตัวบ่มฟักดุร้าย",
+                    "text": "ตัวบ่มฟักดุร้าย"
                 },
                 {
-                    "type": "Blighted Incubator",
-                    "text": "Blighted Incubator"
+                    "type": "ตัวบ่มฟักเชื้อราร้าย",
+                    "text": "ตัวบ่มฟักเชื้อราร้าย"
                 },
                 {
-                    "type": "Obscured Incubator",
-                    "text": "Obscured Incubator"
+                    "type": "ตัวบ่มฟักมืดมัว",
+                    "text": "ตัวบ่มฟักมืดมัว"
                 },
                 {
-                    "type": "Fine Incubator",
-                    "text": "Fine Incubator"
+                    "type": "ตัวบ่มฟักประณีต",
+                    "text": "ตัวบ่มฟักประณีต"
                 },
                 {
-                    "type": "Ornate Incubator",
-                    "text": "Ornate Incubator"
+                    "type": "ตัวบ่มฟักหรูหรา",
+                    "text": "ตัวบ่มฟักหรูหรา"
                 },
                 {
-                    "type": "Maddening Incubator",
-                    "text": "Maddening Incubator"
+                    "type": "ตัวบ่มฟักบ้าคลั่ง",
+                    "text": "ตัวบ่มฟักบ้าคลั่ง"
                 },
                 {
-                    "type": "Diviner's Incubator",
-                    "text": "Diviner's Incubator"
+                    "type": "ตัวบ่มฟักนักพยากรณ์",
+                    "text": "ตัวบ่มฟักนักพยากรณ์"
                 },
                 {
-                    "type": "Whispering Incubator",
-                    "text": "Whispering Incubator"
+                    "type": "ตัวบ่มฟักพร่ำกระซิบ",
+                    "text": "ตัวบ่มฟักพร่ำกระซิบ"
                 },
                 {
-                    "type": "Infused Incubator",
-                    "text": "Infused Incubator"
+                    "type": "ตัวบ่มฟักอาบพลัง",
+                    "text": "ตัวบ่มฟักอาบพลัง"
                 },
                 {
-                    "type": "Fossilised Incubator",
-                    "text": "Fossilised Incubator"
+                    "type": "ตัวบ่มฟักฟอสซิล",
+                    "text": "ตัวบ่มฟักฟอสซิล"
                 },
                 {
-                    "type": "Fragmented Incubator",
-                    "text": "Fragmented Incubator"
+                    "type": "ตัวบ่มฟักแยกส่วน",
+                    "text": "ตัวบ่มฟักแยกส่วน"
                 },
                 {
-                    "type": "Thaumaturge's Incubator",
-                    "text": "Thaumaturge's Incubator"
+                    "type": "ตัวบ่มฟักจอมเวทมณี",
+                    "text": "ตัวบ่มฟักจอมเวทมณี"
                 },
                 {
-                    "type": "Gemcutter's Incubator",
-                    "text": "Gemcutter's Incubator"
+                    "type": "ตัวบ่มฟักช่างเจียระไน",
+                    "text": "ตัวบ่มฟักช่างเจียระไน"
                 },
                 {
-                    "type": "Mysterious Incubator",
-                    "text": "Mysterious Incubator"
+                    "type": "ตัวบ่มฟักลึกลับ",
+                    "text": "ตัวบ่มฟักลึกลับ"
                 },
                 {
-                    "type": "Foreboding Incubator",
-                    "text": "Foreboding Incubator"
+                    "type": "ตัวบ่มฟักอันเป็นลาง",
+                    "text": "ตัวบ่มฟักอันเป็นลาง"
                 },
                 {
-                    "type": "Enchanted Incubator",
-                    "text": "Enchanted Incubator"
+                    "type": "ตัวบ่มฟักลงเสน่ห์",
+                    "text": "ตัวบ่มฟักลงเสน่ห์"
                 },
                 {
-                    "type": "Eldritch Incubator",
-                    "text": "Eldritch Incubator"
+                    "type": "ตัวบ่มฟักผิดธรรมชาติ",
+                    "text": "ตัวบ่มฟักผิดธรรมชาติ"
                 },
                 {
-                    "type": "Cartographer's Incubator",
-                    "text": "Cartographer's Incubator"
+                    "type": "ตัวบ่มฟักนักเขียนแผนที่",
+                    "text": "ตัวบ่มฟักนักเขียนแผนที่"
                 },
                 {
-                    "type": "Morphing Incubator",
-                    "text": "Morphing Incubator"
+                    "type": "ตัวบ่มฟักกลายร่าง",
+                    "text": "ตัวบ่มฟักกลายร่าง"
                 },
                 {
-                    "type": "Kalguuran Incubator",
-                    "text": "Kalguuran Incubator"
+                    "type": "ตัวบ่มฟักคาลเกอร์",
+                    "text": "ตัวบ่มฟักคาลเกอร์"
                 },
                 {
-                    "type": "Skittering Incubator",
-                    "text": "Skittering Incubator"
+                    "type": "ตัวบ่มฟักเสียงแมลง",
+                    "text": "ตัวบ่มฟักเสียงแมลง"
                 },
                 {
-                    "type": "Primal Incubator",
-                    "text": "Primal Incubator"
+                    "type": "ตัวบ่มฟักแต่ดั้งเดิม",
+                    "text": "ตัวบ่มฟักแต่ดั้งเดิม"
                 },
                 {
-                    "type": "Celestial Jeweller's Incubator",
-                    "text": "Celestial Jeweller's Incubator"
+                    "type": "ตัวบ่มฟักช่างอัญมณีดวงดาว",
+                    "text": "ตัวบ่มฟักช่างอัญมณีดวงดาว"
                 },
                 {
-                    "type": "Time-Lost Incubator",
-                    "text": "Time-Lost Incubator"
+                    "type": "ตัวบ่มฟักกาลสาปสูญ",
+                    "text": "ตัวบ่มฟักกาลสาปสูญ"
                 },
                 {
-                    "type": "Otherworldly Incubator",
-                    "text": "Otherworldly Incubator"
+                    "type": "ตัวบ่มฟักนอกโลก",
+                    "text": "ตัวบ่มฟักนอกโลก"
                 },
                 {
-                    "type": "Singular Incubator",
-                    "text": "Singular Incubator"
+                    "type": "ตัวบ่มฟักเอกเทศ",
+                    "text": "ตัวบ่มฟักเอกเทศ"
                 },
                 {
-                    "type": "Celestial Blacksmith's Incubator",
-                    "text": "Celestial Blacksmith's Incubator"
+                    "type": "ตัวบ่มฟักช่างตีเหล็กดวงดาว",
+                    "text": "ตัวบ่มฟักช่างตีเหล็กดวงดาว"
                 },
                 {
                     "type": "Vial of Sacrifice",
@@ -10173,6 +10421,14 @@
                 {
                     "type": "Bestiary Orb",
                     "text": "Bestiary Orb"
+                },
+                {
+                    "type": "เข็มทิศเพิ่มพลัง",
+                    "text": "เข็มทิศเพิ่มพลัง"
+                },
+                {
+                    "type": "เข็มทิศนักสำรวจ",
+                    "text": "เข็มทิศนักสำรวจ"
                 },
                 {
                     "type": "Abrasive Catalyst",
@@ -10260,7 +10516,7 @@
                 },
                 {
                     "type": "เหรียญจากต่างแดน",
-                    "text": "เหรียญจากต่างแดน"
+                    "text": "��หรียญจากต่างแดน"
                 },
                 {
                     "type": "เศษโลหะ",
@@ -10375,7 +10631,7 @@
                     "text": "Journeyman Cartographer's Seal"
                 },
                 {
-                    "type": "เห��ียญเงิน",
+                    "type": "เหรียญเงิน",
                     "text": "เหรียญเงิน"
                 },
                 {
@@ -10391,8 +10647,8 @@
                     "text": "ชิ้นส่วน Engineer"
                 },
                 {
-                    "type": "Maven's Orb",
-                    "text": "Maven's Orb"
+                    "type": "ลูกแก้วครอบงำ",
+                    "text": "ลูกแก้วครอบงำ"
                 },
                 {
                     "type": "Regal Orb",
@@ -10499,36 +10755,72 @@
                     "text": "Tainted Oil"
                 },
                 {
-                    "type": "Primitive Chaotic Resonator",
-                    "text": "Primitive Chaotic Resonator"
+                    "type": "รายงานสำรวจเชื้อราร้าย",
+                    "text": "รายงานสำรวจเชื้อราร้าย"
                 },
                 {
-                    "type": "Potent Chaotic Resonator",
-                    "text": "Potent Chaotic Resonator"
+                    "type": "รายงานสำรวจนอกโลก",
+                    "text": "รายงานสำรวจนอกโลก"
                 },
                 {
-                    "type": "Powerful Chaotic Resonator",
-                    "text": "Powerful Chaotic Resonator"
+                    "type": "รายงานสำรวจวาล์",
+                    "text": "ราย��านสำรวจวาล์"
                 },
                 {
-                    "type": "Prime Chaotic Resonator",
-                    "text": "Prime Chaotic Resonator"
+                    "type": "รายงานสำรวจคลุ้มคลั่ง",
+                    "text": "รายงานสำรวจคลุ้มคลั่ง"
                 },
                 {
-                    "type": "Primitive Alchemical Resonator",
-                    "text": "Primitive Alchemical Resonator"
+                    "type": "รายงานสำรวจนักสำรวจ",
+                    "text": "รายงานสำรวจนักสำรวจ"
                 },
                 {
-                    "type": "Potent Alchemical Resonator",
-                    "text": "Potent Alchemical Resonator"
+                    "type": "รายงานสำรวจทรงอิทธิพล",
+                    "text": "รายงานสำรวจทรงอิทธิพล"
                 },
                 {
-                    "type": "Powerful Alchemical Resonator",
-                    "text": "Powerful Alchemical Resonator"
+                    "type": "รายงานสำรวจผู้ปฏิบัติงาน",
+                    "text": "รายงานสำรวจผู้ปฏิบัติงาน"
                 },
                 {
-                    "type": "Prime Alchemical Resonator",
-                    "text": "Prime Alchemical Resonator"
+                    "type": "รายงานสำรวจครอบคลุม",
+                    "text": "รายงานสำรวจครอบคลุม"
+                },
+                {
+                    "type": "รายงานสำรวจเอกเทศ",
+                    "text": "รายงานสำรวจเอกเทศ"
+                },
+                {
+                    "type": "ตัวสั่นพ้องโกลาหลดึกดำบรรพ์",
+                    "text": "ตัวสั่นพ้องโกลาหลดึกดำบรรพ์"
+                },
+                {
+                    "type": "ตัวสั่นพ้องโกลาหลมีศักยภาพ",
+                    "text": "ตัวสั่นพ้องโกลาหลมีศักยภาพ"
+                },
+                {
+                    "type": "ตัวสั่นพ้องโกลาหลทรงพลัง",
+                    "text": "ตัวสั่นพ้องโกลาหลทรงพลัง"
+                },
+                {
+                    "type": "ตัวสั่นพ้องโกลาหลชั้นเลิศ",
+                    "text": "ตัวสั่นพ้องโกลาหลชั้นเลิศ"
+                },
+                {
+                    "type": "ตัวสั่นพ้องแปรธาตุดึกดำบรรพ์",
+                    "text": "ตัวสั่นพ้องแปรธาตุดึกดำบรรพ์"
+                },
+                {
+                    "type": "ตัวสั่นพ้องแปรธาตุมีศักยภาพ",
+                    "text": "ตัวสั่นพ้องแปรธาตุมีศักยภาพ"
+                },
+                {
+                    "type": "ตัวสั่นพ้องแปรธาตุทรงพลัง",
+                    "text": "ตัวสั่นพ้องแปรธาตุทรงพลัง"
+                },
+                {
+                    "type": "ตัวสั่นพ้องแปรธาตุชั้นเลิศ",
+                    "text": "ตัวสั่นพ้องแปรธาตุชั้นเลิศ"
                 },
                 {
                     "type": "สำรับไพ่ปริศนา",
@@ -10539,64 +10831,64 @@
                     "text": "โบราณวัตถุวงขาดชั้นต่ำ"
                 },
                 {
-                    "type": "โบราณวัตถุวงขาดชั้นกลาง",
-                    "text": "โบราณวัตถุวงขาดชั้นกลาง"
-                },
-                {
                     "type": "โบราณวัตถุวงขาดชั้นสูง",
                     "text": "โบราณวัตถุวงขาดชั้นสูง"
                 },
                 {
-                    "type": "โบราณวัตถุวงขาดชั้นสูงส่ง",
-                    "text": "โบราณวัตถุวงขาดชั้นสูงส่ง"
+                    "type": "โบราณวัตถุวงขาดชั้นเลิศ",
+                    "text": "โบราณวัตถุวงขาดชั้นเลิศ"
+                },
+                {
+                    "type": "โบราณวัตถุวงขาดชั้นยอด",
+                    "text": "โบราณวัตถุวงขาดชั้นยอด"
                 },
                 {
                     "type": "โบราณวัตถุเคียวดำชั้นต่ำ",
                     "text": "โบราณวัตถุเคียวดำชั้นต่ำ"
                 },
                 {
-                    "type": "โบราณวัตถุเคียวดำชั้นกลาง",
-                    "text": "โบราณวัตถุเคียวดำชั้นกลาง"
-                },
-                {
                     "type": "โบราณวัตถุเคียวดำชั้นสูง",
                     "text": "โบราณวัตถุเคียวดำชั้นสูง"
                 },
                 {
-                    "type": "โบราณวัตถุเคียวดำชั้นสูงส่ง",
-                    "text": "โบราณวัตถุเคียวดำชั้นสูงส่ง"
+                    "type": "โบราณวัตถุเคียวดำชั้นเลิศ",
+                    "text": "โบราณวัตถุเคียวดำชั้นเลิศ"
+                },
+                {
+                    "type": "โบราณวัตถุเคียวดำชั้นยอด",
+                    "text": "โบราณวัตถุเคียวดำชั้นยอด"
                 },
                 {
                     "type": "โบราณวัตถุภาคีชั้นต่ำ",
                     "text": "โบราณวัตถุภาคีชั้นต่ำ"
                 },
                 {
-                    "type": "โบราณวัตถุภาคีชั้นกลาง",
-                    "text": "โบราณวัตถุภาคีชั้นกลาง"
-                },
-                {
-                    "type": "โบราณวัตถุภาค���ชั้นสูง",
+                    "type": "โบราณวัตถุภาคีชั้นสูง",
                     "text": "โบราณวัตถุภาคีชั้นสูง"
                 },
                 {
-                    "type": "โบราณวัตถุภาคีชั้นสูงส่ง",
-                    "text": "โบราณวัตถุภาคีชั้นสูงส่ง"
+                    "type": "โบราณวัตถุภาคีชั้นเลิศ",
+                    "text": "โบราณวัตถุภาคีชั้นเลิศ"
+                },
+                {
+                    "type": "โบราณวัตถุภาคีชั้นยอด",
+                    "text": "โบราณวัตถุภาคีชั้นยอด"
                 },
                 {
                     "type": "โบราณวัตถุดวงตะวันชั้นต่ำ",
                     "text": "โบราณวัตถุดวงตะวันชั้นต่ำ"
                 },
                 {
-                    "type": "โบราณวัตถุดวงตะวันชั้นกลาง",
-                    "text": "โบราณวัตถุดวงตะวันชั้นกลาง"
-                },
-                {
                     "type": "โบราณวัตถุดวงตะวันชั้นสูง",
                     "text": "โบราณวัตถุดวงตะวันชั้นสูง"
                 },
                 {
-                    "type": "โบราณวัตถุดวงตะวันชั้นสูงส่ง",
-                    "text": "โบราณวัตถุดวงตะวันชั้นสูงส่ง"
+                    "type": "โบราณวัตถุดวงตะวันชั้นเลิศ",
+                    "text": "โบราณวัตถุดวงตะวันชั้นเลิศ"
+                },
+                {
+                    "type": "โบราณวัตถุดวงตะวันชั้นยอด",
+                    "text": "โบราณวัตถุดวงตะวันชั้นยอด"
                 },
                 {
                     "type": "เหรียญกองโจร",
@@ -10700,7 +10992,7 @@
                 },
                 {
                     "type": "ตราสัญลักษณ์แห่งโซลาริส",
-                    "text": "ตราสัญลักษณ์แห่งโซลาริส"
+                    "text": "ตราสัญลักษณ์แห่งโซลาริ���"
                 },
                 {
                     "type": "เทวรูปนาปวตซีทองคำ",
@@ -10735,8 +11027,8 @@
                     "text": "ดาบไร้โบราณ"
                 },
                 {
-                    "type": "ตราประจำตระกูลเอโซเมีย",
-                    "text": "ตราประจำตระกูลเอโซเมีย"
+                    "type": "ตราประจำตระกูลเอโซเมียร์",
+                    "text": "ตราประจำตระกูลเอโซเมียร์"
                 },
                 {
                     "type": "เทวรูปทาสทองคำ",
@@ -10799,19 +11091,19 @@
                     "text": "วิญญาณที่ถูกเก็บของ เมฟ็อด ผู้เผาปฐพี"
                 },
                 {
-                    "type": "วิญญาณที่ถูกเก็บของ ผู้ถักทอความหวังอันลวงหลอก",
-                    "text": "วิญญาณที่ถูกเก็บของ ผู้ถักทอความหวังอันลวงหลอก"
+                    "type": "วิญญาณที่ถูกเก็บของ เมอร์เกธ บ็อกซอง",
+                    "text": "วิญญาณที่ถูกเก็บของ เมอร์เกธ บ็อกซอง"
                 },
                 {
-                    "type": "วิญญาณที่ถูกเก็บของ นาสซาร์ สิงห์แห่งท้องทะเล",
-                    "text": "วิญญาณที่ถูกเก็บของ นาสซาร์ สิงห์แห่งท้องทะเล"
+                    "type": "วิญญาณที่ถูกเก็บของ ภัยช็อคแสนสยอง",
+                    "text": "วิญญาณที่ถูกเก็บของ ภัยช็อคแสนสยอง"
                 },
                 {
-                    "type": "วิญญาณที่ถูกเก็บของ ลิทาเนียส ผู้สวดมืดดำ",
-                    "text": "วิญญาณที่ถูกเก็บของ ลิทาเนียส ผู้สวดมืดดำ"
+                    "type": "วิญญาณที่ถูกเก็บของ พูรูนา ผู้ท้าทาย",
+                    "text": "วิญญาณที่ถูกเก็บของ พูรูนา ผู้ท้าทาย"
                 },
                 {
-                    "type": "วิญญาณที่ถูกเก็บของ ผู้ย่องตามผืนทรายอันไม่สิ้น",
+                    "type": "วิญญาณที่ถูกเก็บของ ผู้ย่องตามผืนทรายอันไม่สิ้��",
                     "text": "วิญญาณที่ถูกเก็บของ ผู้ย่องตามผืนทรายอันไม่สิ้น"
                 },
                 {
@@ -10823,28 +11115,28 @@
                     "text": "วิญญาณที่ถูกเก็บของ เดรค ยอดนักล่า"
                 },
                 {
-                    "type": "Cloth Belt Piece",
-                    "text": "Cloth Belt Piece"
+                    "type": "ชิ้นส่วน Cloth Belt",
+                    "text": "ชิ้นส่วน Cloth Belt"
                 },
                 {
-                    "type": "Callous Mask Piece",
-                    "text": "Callous Mask Piece"
+                    "type": "ชิ้นส่วน Callous Mask",
+                    "text": "ชิ้นส่วน Callous Mask"
                 },
                 {
-                    "type": "Blunt Arrow Quiver Piece",
-                    "text": "Blunt Arrow Quiver Piece"
+                    "type": "ชิ้นส่วน Blunt Arrow Quiver",
+                    "text": "ชิ้นส่วน Blunt Arrow Quiver"
                 },
                 {
-                    "type": "Archon Kite Shield Piece",
-                    "text": "Archon Kite Shield Piece"
+                    "type": "ชิ้นส่วน Archon Kite Shield",
+                    "text": "ชิ้นส่วน Archon Kite Shield"
                 },
                 {
-                    "type": "Imperial Staff Piece",
-                    "text": "Imperial Staff Piece"
+                    "type": "ชิ้นส่วน Imperial Staff",
+                    "text": "ชิ้นส่วน Imperial Staff"
                 },
                 {
-                    "type": "Legion Sword Piece",
-                    "text": "Legion Sword Piece"
+                    "type": "ชิ้นส่วน Legion Sword",
+                    "text": "ชิ้นส่วน Legion Sword"
                 }
             ]
         },
@@ -12779,6 +13071,10 @@
                     "text": "Decay Support"
                 },
                 {
+                    "type": "Divine Blessing Support",
+                    "text": "Divine Blessing Support"
+                },
+                {
                     "type": "Earthbreaker Support",
                     "text": "Earthbreaker Support"
                 },
@@ -12809,6 +13105,10 @@
                 {
                     "type": "Energy Leech Support",
                     "text": "Energy Leech Support"
+                },
+                {
+                    "type": "Eternal Blessing Support",
+                    "text": "Eternal Blessing Support"
                 },
                 {
                     "type": "Faster Attacks Support",
@@ -12993,6 +13293,10 @@
                 {
                     "type": "Mana Leech Support",
                     "text": "Mana Leech Support"
+                },
+                {
+                    "type": "Mark On Hit Support",
+                    "text": "Mark On Hit Support"
                 },
                 {
                     "type": "Meat Shield Support",
@@ -13509,9 +13813,25 @@
                     }
                 },
                 {
+                    "name": "Dissolution of the Flesh",
+                    "type": "Crimson Jewel",
+                    "text": "Dissolution of the Flesh Crimson Jewel",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Seething Fury",
                     "type": "Viridian Jewel",
                     "text": "Seething Fury Viridian Jewel",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Divine Inferno",
+                    "type": "Crimson Jewel",
+                    "text": "Divine Inferno Crimson Jewel",
                     "flags": {
                         "unique": true
                     }
@@ -13640,6 +13960,22 @@
                     "name": "Fluid Motion",
                     "type": "Viridian Jewel",
                     "text": "Fluid Motion Viridian Jewel",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Forbidden Flame",
+                    "type": "Crimson Jewel",
+                    "text": "Forbidden Flame Crimson Jewel",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Forbidden Flesh",
+                    "type": "Cobalt Jewel",
+                    "text": "Forbidden Flesh Cobalt Jewel",
                     "flags": {
                         "unique": true
                     }
@@ -13880,6 +14216,14 @@
                     "name": "Megalomaniac",
                     "type": "Medium Cluster Jewel",
                     "text": "Megalomaniac Medium Cluster Jewel",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Melding of the Flesh",
+                    "type": "Cobalt Jewel",
+                    "text": "Melding of the Flesh Cobalt Jewel",
                     "flags": {
                         "unique": true
                     }
@@ -14637,6 +14981,15 @@
                     }
                 },
                 {
+                    "name": "ความทรงจำที่ห่างไกลที่ถูกแก้ไข",
+                    "type": "Synthesised Map",
+                    "disc": "warfortheatlas",
+                    "text": "ความทรงจำที่ห่างไกลที่ถูกแก้ไข Synthesised Map",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "ความทรงจำที่ห่างไกลที่ถูกแต่งเติม",
                     "type": "Courthouse Map",
                     "disc": "warfortheatlas",
@@ -14655,6 +15008,15 @@
                     }
                 },
                 {
+                    "name": "ความทรงจำที่ห่างไกลที่ถูกแต่งเติม",
+                    "type": "Synthesised Map",
+                    "disc": "warfortheatlas",
+                    "text": "ความทรงจำที่ห่างไกลที่ถูกแต่งเติม Synthesised Map",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Caer Blaidd, Wolfpack's Den",
                     "type": "Underground River Map",
                     "disc": "warfortheatlas",
@@ -14668,6 +15030,15 @@
                     "type": "Relic Chambers Map",
                     "disc": "warfortheatlas",
                     "text": "Cortex Relic Chambers Map",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "Cortex",
+                    "type": "Synthesised Map",
+                    "disc": "warfortheatlas",
+                    "text": "Cortex Synthesised Map",
                     "flags": {
                         "unique": true
                     }
@@ -14790,6 +15161,15 @@
                     }
                 },
                 {
+                    "name": "Replica Cortex",
+                    "type": "Synthesised Map",
+                    "disc": "warfortheatlas",
+                    "text": "Replica Cortex Synthesised Map",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "Replica Pillars of Arun",
                     "type": "Dunes Map",
                     "disc": "warfortheatlas",
@@ -14812,6 +15192,15 @@
                     "type": "Basilica Map",
                     "disc": "warfortheatlas",
                     "text": "ความทรงจำที่ห่างไกลที่ถูกเขียนใหม่ Basilica Map",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "ความทรงจำที่ห่างไกลที่ถูกเขียนใหม่",
+                    "type": "Synthesised Map",
+                    "disc": "warfortheatlas",
+                    "text": "ความทรงจำที่ห่างไกลที่ถูกเขียนใหม่ Synthesised Map",
                     "flags": {
                         "unique": true
                     }
@@ -14875,6 +15264,15 @@
                     "type": "Park Map",
                     "disc": "warfortheatlas",
                     "text": "ความทรงจำที่ห่างไกลที่ถูกบิดเบือน Park Map",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "ความทรงจำที่ห่างไกลที่ถูกบิดเบือน",
+                    "type": "Synthesised Map",
+                    "disc": "warfortheatlas",
+                    "text": "ความทรงจำที่ห่างไกลที่ถูกบิดเบือน Synthesised Map",
                     "flags": {
                         "unique": true
                     }
@@ -15556,6 +15954,11 @@
                     "type": "Sunken City Map",
                     "disc": "warfortheatlas",
                     "text": "Sunken City Map"
+                },
+                {
+                    "type": "Synthesised Map",
+                    "disc": "warfortheatlas",
+                    "text": "Synthesised Map"
                 },
                 {
                     "type": "Temple Map",
@@ -17658,24 +18061,24 @@
                     "text": "กุญแจสถานเก็บวัตถุโบราณคร่ำครึ"
                 },
                 {
-                    "type": "หินบรีชของชายูล่า",
-                    "text": "หินบรีชของชายูล่า"
+                    "type": "หินบรีชแห่งชายูล่า",
+                    "text": "หินบรีชแห่งชายูล่า"
                 },
                 {
-                    "type": "หินบรีชของทุล",
-                    "text": "หินบรีชของทุล"
+                    "type": "หินบรีชแห่งทุล",
+                    "text": "หินบรีชแห่งทุล"
                 },
                 {
-                    "type": "หินบรีชของซอปห์",
-                    "text": "หินบรีชของซอปห์"
+                    "type": "หินบรีชแห่งซอปห์",
+                    "text": "หินบรีชแห่งซอปห์"
                 },
                 {
-                    "type": "หินบรีชของเอ็ช",
-                    "text": "หินบรีชของเอ็ช"
+                    "type": "หินบรีชแห่งเอ็ช",
+                    "text": "หินบรีชแห่งเอ็ช"
                 },
                 {
-                    "type": "หินบรีชของอูล-เนโทล",
-                    "text": "หินบรีชของอูล-เนโทล"
+                    "type": "หินบรีชแห่งอูล-เนโทล",
+                    "text": "หินบรีชแห่งอูล-เนโทล"
                 },
                 {
                     "type": "กุญแจสถานเก็บวัตถุโบราณเก่าแก่",
@@ -17686,100 +18089,100 @@
                     "text": "เมืองจำแลง"
                 },
                 {
-                    "type": "หินบรีชเพิ่มพลังของชายูล่า",
-                    "text": "หินบรีชเพิ่มพลังของชายูล่า"
+                    "type": "หินบรีชเพิ่มพลังแห่งชายูล่า",
+                    "text": "หินบรีชเพิ่มพลังแห่งชายูล่า"
                 },
                 {
-                    "type": "หินบรีชอาบพลังของชายูล่า",
-                    "text": "หินบรีชอาบพลังของชายูล่า"
+                    "type": "หินบรีชอาบพลังแห่งชายูล่า",
+                    "text": "หินบรีชอาบพลังแห่งชายูล่า"
                 },
                 {
-                    "type": "หินบรีชบริสุทธิ์ของชายูล่า",
-                    "text": "หินบรีชบริสุทธิ์ของชายูล่า"
+                    "type": "หินบรีชบริสุทธิ์แห่งชายูล่า",
+                    "text": "หินบรีชบริสุทธิ์แห่งชายูล่า"
                 },
                 {
-                    "type": "หินบรีชไร้ที่ติของชายูล่า",
-                    "text": "หินบรีชไร้ที่ติของชายูล่า"
+                    "type": "หินบรีชไร้ที่ติแห่งชายูล่า",
+                    "text": "หินบรีชไร้ที่ติแห่งชายูล่า"
                 },
                 {
-                    "type": "หินบรีชเพิ่มพลังของทุล",
-                    "text": "หินบรีชเพิ่มพลังของทุล"
+                    "type": "หินบรีชเพิ่มพลังแห่งทุล",
+                    "text": "หินบรีชเพิ่มพลังแห่งทุล"
                 },
                 {
-                    "type": "หินบรีชอาบพลังของทุล",
-                    "text": "หินบรีชอาบพลังของทุล"
+                    "type": "หินบรีชอาบพลังแห่งทุล",
+                    "text": "หินบรีชอาบพลังแห่งทุล"
                 },
                 {
-                    "type": "หินบรีชบริสุทธิ์ของทุล",
-                    "text": "หินบรีชบริสุทธิ์ของทุล"
+                    "type": "หินบรีชบริสุทธิ์แห่งทุล",
+                    "text": "หินบรีชบริสุทธิ์แห่งทุล"
                 },
                 {
-                    "type": "หินบรีชไร้ที่ติของทุล",
-                    "text": "หินบรีชไร้ที่ติของทุล"
+                    "type": "หินบรีชไร้ที่ติแห่งทุล",
+                    "text": "หินบรีชไร้ที่ติแห่งทุล"
                 },
                 {
-                    "type": "หินบรีชเพิ่มพลังของซอปห์",
-                    "text": "หินบรีชเพิ่มพลังของซอปห์"
+                    "type": "หินบรีชเพิ่มพลังแห่งซอปห์",
+                    "text": "หินบรีชเพิ่มพลังแห่งซอปห์"
                 },
                 {
-                    "type": "หินบรีชอาบพลังของซอปห์",
-                    "text": "หินบรีชอาบพลังของซอปห์"
+                    "type": "หินบรีชอาบพลังแห่งซอปห์",
+                    "text": "หินบรีชอาบพลังแห่งซอปห์"
                 },
                 {
-                    "type": "หินบรีชบริสุทธิ์ของซอปห์",
-                    "text": "หินบรีชบริสุทธิ์ของซอปห์"
+                    "type": "หินบรีชบริสุทธิ์แห่งซอปห์",
+                    "text": "หินบรีชบริสุทธิ์แห่งซอปห์"
                 },
                 {
-                    "type": "หินบรีชไร้ที่ติของซอปห์",
-                    "text": "หินบรีชไร้ที่ติของซอปห์"
+                    "type": "หินบรีชไร้ที่ติแห่งซอปห์",
+                    "text": "หินบรีชไร้ที่ติแห่งซอปห์"
                 },
                 {
-                    "type": "หินบรีชเพิ่มพลังของเอ็ช",
-                    "text": "หินบรีชเพิ่มพลังของเอ็ช"
+                    "type": "หินบรีชเพิ่มพลังแห่งเอ็ช",
+                    "text": "หินบรีชเพิ่มพลังแห่งเอ็ช"
                 },
                 {
-                    "type": "หินบรีชอาบพลังของเอ็ช",
-                    "text": "หินบรีชอาบพลังของเอ็ช"
+                    "type": "หินบรีชอาบพลังแห่งเอ็ช",
+                    "text": "หินบรีชอาบพลังแห่งเอ็ช"
                 },
                 {
-                    "type": "หินบรีชบริสุทธิ์ของเอ็ช",
-                    "text": "หินบรีชบริสุทธิ์ของเอ็ช"
+                    "type": "หินบรีชบริสุทธิ์แห่งเอ็ช",
+                    "text": "หินบรีชบริสุทธิ์แห่งเอ็ช"
                 },
                 {
-                    "type": "หินบรีชไร้ที่ติของเอ็ช",
-                    "text": "หินบรีชไร้ที่ติของเอ็ช"
+                    "type": "หินบรีชไร้ที่ติแห่งเอ็ช",
+                    "text": "หินบรีชไร้ที่ติแห่งเอ็ช"
                 },
                 {
-                    "type": "หินบรีชเพิ่มพลังของอูล-เนโทล",
-                    "text": "หินบรีชเพิ่มพลังของอูล-เนโทล"
+                    "type": "หินบรีชเพิ่มพลังแห่งอูล-เนโทล",
+                    "text": "หินบรีชเพิ่มพลังแห่งอูล-เนโทล"
                 },
                 {
-                    "type": "หินบรีชอาบพลังของอูล-เนโทล",
-                    "text": "หินบรีชอาบพลังของอูล-เนโทล"
+                    "type": "หินบรีชอาบพลังแห่งอูล-เนโทล",
+                    "text": "หินบรีชอาบพลังแห่งอูล-เนโทล"
                 },
                 {
-                    "type": "หินบรีชบริสุทธิ์ของอูล-เนโทล",
-                    "text": "หินบรีชบริสุทธิ์ของอูล-เนโทล"
+                    "type": "หินบรีชบริสุทธิ์แห่งอูล-เนโทล",
+                    "text": "หินบรีชบริสุทธิ์แห่งอูล-เนโทล"
                 },
                 {
-                    "type": "หินบรีชไร้ที่ติของอูล-เนโทล",
-                    "text": "หินบรีชไร้ที่ติของอูล-เนโทล"
+                    "type": "หินบรีชไร้ที่ติแห่งอูล-เนโทล",
+                    "text": "หินบรีชไร้ที่ติแห่งอูล-เนโทล"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งฟีนิกซ์",
-                    "text": "ชิ้นส่วนแห่งฟีนิกซ์"
+                    "type": "ชิ้นส่วนกดขี่",
+                    "text": "ชิ้นส่วนกดขี่"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งมิโนทอร์",
-                    "text": "ชิ้นส่วนแห่งมิโนทอร์"
+                    "type": "ชิ้นส่วนขจัด",
+                    "text": "ชิ้นส่วนขจัด"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งคิเมียร่า",
-                    "text": "ชิ้นส่วนแห่งคิเมียร่า"
+                    "type": "ชิ้นส่วนการบีบรัด",
+                    "text": "ชิ้นส่วนการบีบรัด"
                 },
                 {
-                    "type": "ชิ้นส่วนแห่งไฮดร้า",
-                    "text": "ชิ้นส่วนแห่งไฮดร้า"
+                    "type": "ชิ้นส่วนการชำระล้าง",
+                    "text": "ชิ้นส่วนการชำระล้าง"
                 },
                 {
                     "type": "คนโทศักดิ์สิทธิ์",
@@ -17846,52 +18249,104 @@
                     "text": "เครื่องบรรณาการแด่เทพี"
                 },
                 {
-                    "type": "Eber's Key",
-                    "text": "Eber's Key"
+                    "type": "กุญแจอีเบอร์",
+                    "text": "กุญแจอีเบอร์"
                 },
                 {
-                    "type": "Yriel's Key",
-                    "text": "Yriel's Key"
+                    "type": "กุญแจยีเรียล",
+                    "text": "กุญแจยีเรียล"
                 },
                 {
-                    "type": "Inya's Key",
-                    "text": "Inya's Key"
+                    "type": "กุญแจอินยา",
+                    "text": "กุญแจอินยา"
                 },
                 {
-                    "type": "Volkuur's Key",
-                    "text": "Volkuur's Key"
+                    "type": "กุญแจโวลเคอร์",
+                    "text": "กุญแจโวลเคอร์"
                 },
                 {
-                    "type": "Sacrifice at Midnight",
-                    "text": "Sacrifice at Midnight"
+                    "type": "ชิ้นส่วนฟีนิกซ์",
+                    "text": "ชิ้นส่วนฟีนิกซ์"
                 },
                 {
-                    "type": "Sacrifice at Dawn",
-                    "text": "Sacrifice at Dawn"
+                    "type": "ชิ้นส่วนมิโนทอร์",
+                    "text": "ชิ้นส่วนมิโนทอร์"
                 },
                 {
-                    "type": "Sacrifice at Noon",
-                    "text": "Sacrifice at Noon"
+                    "type": "ชิ้นส่วนคิเมียร่า",
+                    "text": "ชิ้นส่วนคิเมียร่า"
                 },
                 {
-                    "type": "Sacrifice at Dusk",
-                    "text": "Sacrifice at Dusk"
+                    "type": "ชิ้นส่วนไฮดร้า",
+                    "text": "ชิ้นส่วนไฮดร้า"
                 },
                 {
-                    "type": "Mortal Rage",
-                    "text": "Mortal Rage"
+                    "type": "ตราของอัล-เฮซมิน",
+                    "text": "ตราของอัล-เฮซมิน"
                 },
                 {
-                    "type": "Mortal Hope",
-                    "text": "Mortal Hope"
+                    "type": "ตราของบาราน",
+                    "text": "ตราของบาราน"
                 },
                 {
-                    "type": "Mortal Ignorance",
-                    "text": "Mortal Ignorance"
+                    "type": "ตราของดร็อกซ์",
+                    "text": "ตราของดร็อกซ์"
                 },
                 {
-                    "type": "Mortal Grief",
-                    "text": "Mortal Grief"
+                    "type": "ตราของเวริทาเนีย",
+                    "text": "ตราของเวริทาเนีย"
+                },
+                {
+                    "type": "ชิ้นส่วนสยองขวัญ",
+                    "text": "ชิ้นส่วนสยองขวัญ"
+                },
+                {
+                    "type": "ชิ้นส่วนว่างเปล่า",
+                    "text": "ชิ้นส่วนว่างเปล่า"
+                },
+                {
+                    "type": "ชิ้นส่วนรูปร่าง",
+                    "text": "ชิ้นส่วนรูปร่าง"
+                },
+                {
+                    "type": "ชิ้นส่วนปัญญา",
+                    "text": "ชิ้นส่วนปัญญา"
+                },
+                {
+                    "type": "สังเวยย่ำสองยาม",
+                    "text": "สังเวยย่ำสองยาม"
+                },
+                {
+                    "type": "สังเวยย่ำอรุณ",
+                    "text": "สังเวยย่ำอรุณ"
+                },
+                {
+                    "type": "สังเวยย่ำเที่ยง",
+                    "text": "สังเวยย่ำเที่ยง"
+                },
+                {
+                    "type": "สังเวยย่ำสายัณห์",
+                    "text": "สังเวยย่ำสายัณห์"
+                },
+                {
+                    "type": "เดือดดาลเยี่ยงมนุษย์",
+                    "text": "เดือดดาลเยี่ยงมนุษย์"
+                },
+                {
+                    "type": "หวังเยี่ยงมนุษย์",
+                    "text": "หวังเยี่ยงมนุษย์"
+                },
+                {
+                    "type": "เขลาเยี่ยงมนุษย์",
+                    "text": "เขลาเยี่ยงมนุษย์"
+                },
+                {
+                    "type": "โศกสลดเยี่ยงมนุษย์",
+                    "text": "โศกสลดเยี่ยงมนุษย์"
+                },
+                {
+                    "type": "คำเชิญของเมเวน: สมุดแผนที่",
+                    "text": "คำเชิญของเมเวน: สมุดแผนที่"
                 },
                 {
                     "type": "คำเชิญของเมเวน: Glennach Cairns",
@@ -17915,7 +18370,7 @@
                 },
                 {
                     "type": "คำเชิญของเมเวน: Lira Arthain",
-                    "text": "คำเชิญของเม���วน: Lira Arthain"
+                    "text": "คำเชิญของเมเวน: Lira Arthain"
                 },
                 {
                     "type": "คำเชิญของเมเวน: Haewark Hamlet",
@@ -17946,8 +18401,32 @@
                     "text": "คำเชิญของเมเวน: The Feared"
                 },
                 {
+                    "type": "คำเชิญของเมเวน: เหล่าผู้สังหารเอลเดอร์",
+                    "text": "คำเชิญของเมเวน: เหล่าผู้สังหารเอลเดอร์"
+                },
+                {
+                    "type": "คำเชิญโชติช่วง",
+                    "text": "คำเชิญโชติช่วง"
+                },
+                {
+                    "type": "คำเชิญขั้วจักรวาล",
+                    "text": "คำเชิญขั้วจักรวาล"
+                },
+                {
+                    "type": "คำเชิญแผดเสียง",
+                    "text": "คำเชิญแผดเสียง"
+                },
+                {
+                    "type": "คำเชิญชักดิ้น",
+                    "text": "คำเชิญชักดิ้น"
+                },
+                {
                     "type": "คนโทท่วมเลือด",
                     "text": "คนโทท่วมเลือด"
+                },
+                {
+                    "type": "ความหวังเยี่ยงมนุษย์",
+                    "text": "ความหวังเยี่ยงมนุษย์"
                 },
                 {
                     "type": "กุญแจสถานเก็บวัตถุโบราณแห่งวาล์",
@@ -17986,20 +18465,20 @@
                     "text": "ซแคแร็บรวมสัตว์ติดปีก"
                 },
                 {
-                    "type": "Farric Lure",
-                    "text": "Farric Lure"
+                    "type": "เหยื่อล่อวงศ์ฟาร์รุล",
+                    "text": "เหยื่อล่อวงศ์ฟาร์รุล"
                 },
                 {
-                    "type": "Saqawine Lure",
-                    "text": "Saqawine Lure"
+                    "type": "เหยื่อล่อวงศ์ซาคาวอล",
+                    "text": "เหยื่อล่อวงศ์ซาคาวอล"
                 },
                 {
-                    "type": "Fenumal Lure",
-                    "text": "Fenumal Lure"
+                    "type": "เหยื่อล่อวงศ์เฟนูมัส",
+                    "text": "เหยื่อล่อวงศ์เฟนูมัส"
                 },
                 {
-                    "type": "Craicic Lure",
-                    "text": "Craicic Lure"
+                    "type": "เหยื่อล่อวงศ์เครเชียนน์",
+                    "text": "เหยื่อล่อวงศ์เครเชียนน์"
                 },
                 {
                     "type": "ซแคแร็บไบล์ทขึ้นสนิม",
@@ -20068,6 +20547,14 @@
                     }
                 },
                 {
+                    "name": "The Annihilating Light",
+                    "type": "Quarterstaff",
+                    "text": "The Annihilating Light Quarterstaff",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "name": "The Black Cane",
                     "type": "Royal Sceptre",
                     "text": "The Black Cane Royal Sceptre",
@@ -20151,6 +20638,14 @@
                     "name": "The Fulcrum",
                     "type": "Ezomyte Staff",
                     "text": "The Fulcrum Ezomyte Staff",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "The Gluttonous Tide",
+                    "type": "Citadel Bow",
+                    "text": "The Gluttonous Tide Citadel Bow",
                     "flags": {
                         "unique": true
                     }
@@ -22027,7 +22522,7 @@
         },
         {
             "id": "leaguestones",
-            "label": "Leaguestones",
+            "label": "หินลีก",
             "entries": [
                 {
                     "type": "หีนลีกกล่องปริศนา",
@@ -22066,8 +22561,8 @@
                     "text": "หินลีกเนเมซิส"
                 },
                 {
-                    "type": "หินลีก Onslaught",
-                    "text": "หินลีก Onslaught"
+                    "type": "หินลีกเร่งราวี",
+                    "text": "หินลีกเร่งราวี"
                 },
                 {
                     "type": "หินลีกเพแรนดัส",
@@ -22096,1977 +22591,6 @@
                 {
                     "type": "หินลีกกองศึก",
                     "text": "หินลีกกองศึก"
-                }
-            ]
-        },
-        {
-            "id": "prophecies",
-            "label": "Prophecies",
-            "entries": [
-                {
-                    "name": "The Alchemist",
-                    "type": "Prophecy",
-                    "text": "The Alchemist Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Anarchy's End I",
-                    "type": "Prophecy",
-                    "text": "Anarchy's End I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Anarchy's End II",
-                    "type": "Prophecy",
-                    "text": "Anarchy's End II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Anarchy's End III",
-                    "type": "Prophecy",
-                    "text": "Anarchy's End III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Anarchy's End IV",
-                    "type": "Prophecy",
-                    "text": "Anarchy's End IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ancient Rivalries I",
-                    "type": "Prophecy",
-                    "text": "Ancient Rivalries I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ancient Rivalries II",
-                    "type": "Prophecy",
-                    "text": "Ancient Rivalries II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ancient Rivalries III",
-                    "type": "Prophecy",
-                    "text": "Ancient Rivalries III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ancient Rivalries IV",
-                    "type": "Prophecy",
-                    "text": "Ancient Rivalries IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Twins",
-                    "type": "Prophecy",
-                    "text": "The Twins Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Possessed Foe",
-                    "type": "Prophecy",
-                    "text": "Possessed Foe Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Invader",
-                    "type": "Prophecy",
-                    "text": "The Invader Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Visions of the Drowned",
-                    "type": "Prophecy",
-                    "text": "Visions of the Drowned Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Monstrous Treasure",
-                    "type": "Prophecy",
-                    "text": "Monstrous Treasure Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Vaal Invasion",
-                    "type": "Prophecy",
-                    "text": "Vaal Invasion Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Hungering Swarm",
-                    "type": "Prophecy",
-                    "text": "The Hungering Swarm Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Trembling Earth",
-                    "type": "Prophecy",
-                    "text": "The Trembling Earth Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Cursed Choir",
-                    "type": "Prophecy",
-                    "text": "The Cursed Choir Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Soil, Worms and Blood",
-                    "type": "Prophecy",
-                    "text": "Soil, Worms and Blood Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Jeweller's Touch",
-                    "type": "Prophecy",
-                    "text": "The Jeweller's Touch Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Forgotten Garrison",
-                    "type": "Prophecy",
-                    "text": "The Forgotten Garrison Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Song of the Sekhema",
-                    "type": "Prophecy",
-                    "text": "Song of the Sekhema Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Queen's Vaults",
-                    "type": "Prophecy",
-                    "text": "The Queen's Vaults Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Queen's Sacrifice",
-                    "type": "Prophecy",
-                    "text": "The Queen's Sacrifice Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Beyond Sight I",
-                    "type": "Prophecy",
-                    "text": "Beyond Sight I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Beyond Sight II",
-                    "type": "Prophecy",
-                    "text": "Beyond Sight II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Beyond Sight III",
-                    "type": "Prophecy",
-                    "text": "Beyond Sight III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Beyond Sight IV",
-                    "type": "Prophecy",
-                    "text": "Beyond Sight IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Cold Blooded Fury",
-                    "type": "Prophecy",
-                    "text": "Cold Blooded Fury Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Reforged Bonds",
-                    "type": "Prophecy",
-                    "text": "Reforged Bonds Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Last of the Wildmen",
-                    "type": "Prophecy",
-                    "text": "Last of the Wildmen Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Cold Greed",
-                    "type": "Prophecy",
-                    "text": "Cold Greed Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Valuable Combination",
-                    "type": "Prophecy",
-                    "text": "A Valuable Combination Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Fortune Teller's Collection",
-                    "type": "Prophecy",
-                    "text": "The Fortune Teller's Collection Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Child of Lunaris",
-                    "type": "Prophecy",
-                    "text": "The Child of Lunaris Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Faith Exhumed",
-                    "type": "Prophecy",
-                    "text": "Faith Exhumed Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Twice Enchanted",
-                    "type": "Prophecy",
-                    "text": "Twice Enchanted Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Day of Sacrifice I",
-                    "type": "Prophecy",
-                    "text": "Day of Sacrifice I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Day of Sacrifice II",
-                    "type": "Prophecy",
-                    "text": "Day of Sacrifice II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Day of Sacrifice III",
-                    "type": "Prophecy",
-                    "text": "Day of Sacrifice III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Day of Sacrifice IV",
-                    "type": "Prophecy",
-                    "text": "Day of Sacrifice IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Deadly Rivalry I",
-                    "type": "Prophecy",
-                    "text": "Deadly Rivalry I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Deadly Rivalry II",
-                    "type": "Prophecy",
-                    "text": "Deadly Rivalry II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Deadly Rivalry III",
-                    "type": "Prophecy",
-                    "text": "Deadly Rivalry III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Deadly Rivalry IV",
-                    "type": "Prophecy",
-                    "text": "Deadly Rivalry IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Deadly Rivalry V",
-                    "type": "Prophecy",
-                    "text": "Deadly Rivalry V Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Malevolent Witch",
-                    "type": "Prophecy",
-                    "text": "The Malevolent Witch Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Burning Dread",
-                    "type": "Prophecy",
-                    "text": "Burning Dread Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Agony at Dusk",
-                    "type": "Prophecy",
-                    "text": "Agony at Dusk Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Blinding Light",
-                    "type": "Prophecy",
-                    "text": "Blinding Light Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Wealthy Exile",
-                    "type": "Prophecy",
-                    "text": "The Wealthy Exile Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Scout",
-                    "type": "Prophecy",
-                    "text": "The Scout Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fallow At Last",
-                    "type": "Prophecy",
-                    "text": "Fallow At Last Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fencoil Fated",
-                    "type": "Prophecy",
-                    "text": "Fencoil Fated Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dark Instincts",
-                    "type": "Prophecy",
-                    "text": "Dark Instincts Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Plague of Frogs",
-                    "type": "Prophecy",
-                    "text": "Plague of Frogs Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Black Devotion",
-                    "type": "Prophecy",
-                    "text": "Black Devotion Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Bishop's Legacy",
-                    "type": "Prophecy",
-                    "text": "The Bishop's Legacy Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Pools of Wealth",
-                    "type": "Prophecy",
-                    "text": "Pools of Wealth Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Crimson Hues",
-                    "type": "Prophecy",
-                    "text": "Crimson Hues Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Vision of Ice and Fire",
-                    "type": "Prophecy",
-                    "text": "A Vision of Ice and Fire Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Blacksmith",
-                    "type": "Prophecy",
-                    "text": "The Blacksmith Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Dishonourable Death",
-                    "type": "Prophecy",
-                    "text": "A Dishonourable Death Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "End of the Light",
-                    "type": "Prophecy",
-                    "text": "End of the Light Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Nemesis of Greed",
-                    "type": "Prophecy",
-                    "text": "Nemesis of Greed Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Battle Hardened",
-                    "type": "Prophecy",
-                    "text": "Battle Hardened Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Trash to Treasure",
-                    "type": "Prophecy",
-                    "text": "Trash to Treasure Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Emperor's Trove",
-                    "type": "Prophecy",
-                    "text": "The Emperor's Trove Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Path of Betrayal",
-                    "type": "Prophecy",
-                    "text": "Path of Betrayal Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "From The Void",
-                    "type": "Prophecy",
-                    "text": "From The Void Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Misunderstood Queen",
-                    "type": "Prophecy",
-                    "text": "The Misunderstood Queen Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Nature's Resilience",
-                    "type": "Prophecy",
-                    "text": "Nature's Resilience Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Snuffed Flame",
-                    "type": "Prophecy",
-                    "text": "The Snuffed Flame Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The King and the Brambles",
-                    "type": "Prophecy",
-                    "text": "The King and the Brambles Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Mouth of Horrors",
-                    "type": "Prophecy",
-                    "text": "Mouth of Horrors Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Servant's Heart",
-                    "type": "Prophecy",
-                    "text": "The Servant's Heart Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Karui Rebellion",
-                    "type": "Prophecy",
-                    "text": "The Karui Rebellion Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Bloody Flowers Redux",
-                    "type": "Prophecy",
-                    "text": "The Bloody Flowers Redux Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Beginning and the End",
-                    "type": "Prophecy",
-                    "text": "The Beginning and the End Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Heavy Blows",
-                    "type": "Prophecy",
-                    "text": "Heavy Blows Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dying Cry",
-                    "type": "Prophecy",
-                    "text": "Dying Cry Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fire and Ice",
-                    "type": "Prophecy",
-                    "text": "Fire and Ice Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Severed Limbs",
-                    "type": "Prophecy",
-                    "text": "Severed Limbs Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fire and Brimstone",
-                    "type": "Prophecy",
-                    "text": "Fire and Brimstone Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Apex Predator",
-                    "type": "Prophecy",
-                    "text": "The Apex Predator Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Silverwood",
-                    "type": "Prophecy",
-                    "text": "The Silverwood Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The King's Path",
-                    "type": "Prophecy",
-                    "text": "The King's Path Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Hidden Reinforcements",
-                    "type": "Prophecy",
-                    "text": "Hidden Reinforcements Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Bowstring's Music",
-                    "type": "Prophecy",
-                    "text": "The Bowstring's Music Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Rebirth",
-                    "type": "Prophecy",
-                    "text": "Rebirth Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Power Magnified",
-                    "type": "Prophecy",
-                    "text": "Power Magnified Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Gilded Within",
-                    "type": "Prophecy",
-                    "text": "Gilded Within Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ending the Torment",
-                    "type": "Prophecy",
-                    "text": "Ending the Torment Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Hunter's Lesson",
-                    "type": "Prophecy",
-                    "text": "Hunter's Lesson Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Pleasure and Pain",
-                    "type": "Prophecy",
-                    "text": "Pleasure and Pain Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Flow of Energy",
-                    "type": "Prophecy",
-                    "text": "The Flow of Energy Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Winter's Mournful Melodies",
-                    "type": "Prophecy",
-                    "text": "Winter's Mournful Melodies Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Forest of False Idols",
-                    "type": "Prophecy",
-                    "text": "A Forest of False Idols Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Erased from Memory",
-                    "type": "Prophecy",
-                    "text": "Erased from Memory Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ancient Doom",
-                    "type": "Prophecy",
-                    "text": "Ancient Doom Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Nightmare Awakens",
-                    "type": "Prophecy",
-                    "text": "The Nightmare Awakens Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Dreamer's Dream",
-                    "type": "Prophecy",
-                    "text": "The Dreamer's Dream Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Dream Trial",
-                    "type": "Prophecy",
-                    "text": "The Dream Trial Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Hidden Vaal Pathways",
-                    "type": "Prophecy",
-                    "text": "Hidden Vaal Pathways Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Echoes of Lost Love",
-                    "type": "Prophecy",
-                    "text": "Echoes of Lost Love Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Echoes of Witchcraft",
-                    "type": "Prophecy",
-                    "text": "Echoes of Witchcraft Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Master Seeks Help",
-                    "type": "Prophecy",
-                    "disc": "alva",
-                    "text": "A Master Seeks Help Prophecy (อัลวา)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Master Seeks Help",
-                    "type": "Prophecy",
-                    "disc": "einhar",
-                    "text": "A Master Seeks Help Prophecy (ไอนาร์)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Master Seeks Help",
-                    "type": "Prophecy",
-                    "disc": "niko",
-                    "text": "A Master Seeks Help Prophecy (นิโค้)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Master Seeks Help",
-                    "type": "Prophecy",
-                    "disc": "jun",
-                    "text": "A Master Seeks Help Prophecy (Jun)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Bountiful Traps",
-                    "type": "Prophecy",
-                    "text": "Bountiful Traps Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Master Seeks Help",
-                    "type": "Prophecy",
-                    "disc": "zana",
-                    "text": "A Master Seeks Help Prophecy (ซานะ)",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The God of Misfortune",
-                    "type": "Prophecy",
-                    "text": "The God of Misfortune Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Brothers in Arms",
-                    "type": "Prophecy",
-                    "text": "Brothers in Arms Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Echoes of Mutation",
-                    "type": "Prophecy",
-                    "text": "Echoes of Mutation Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Aesthete's Spirit",
-                    "type": "Prophecy",
-                    "text": "The Aesthete's Spirit Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Undead Brutes",
-                    "type": "Prophecy",
-                    "text": "The Undead Brutes Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Four Feral Exiles",
-                    "type": "Prophecy",
-                    "text": "The Four Feral Exiles Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Vaal Winds",
-                    "type": "Prophecy",
-                    "text": "Vaal Winds Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fire from the Sky",
-                    "type": "Prophecy",
-                    "text": "Fire from the Sky Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Ice from Above",
-                    "type": "Prophecy",
-                    "text": "Ice from Above Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Lightning Falls",
-                    "type": "Prophecy",
-                    "text": "Lightning Falls Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Crushing Squall",
-                    "type": "Prophecy",
-                    "text": "Crushing Squall Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Undead Storm",
-                    "type": "Prophecy",
-                    "text": "The Undead Storm Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Deadly Twins",
-                    "type": "Prophecy",
-                    "text": "Deadly Twins Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Gracious Master",
-                    "type": "Prophecy",
-                    "text": "A Gracious Master Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Mentor",
-                    "type": "Prophecy",
-                    "text": "The Mentor Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Overflowing Riches",
-                    "type": "Prophecy",
-                    "text": "Overflowing Riches Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Mysterious Invaders",
-                    "type": "Prophecy",
-                    "text": "Mysterious Invaders Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Thaumaturgical History I",
-                    "type": "Prophecy",
-                    "text": "Thaumaturgical History I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Thaumaturgical History II",
-                    "type": "Prophecy",
-                    "text": "Thaumaturgical History II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Thaumaturgical History III",
-                    "type": "Prophecy",
-                    "text": "Thaumaturgical History III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Thaumaturgical History IV",
-                    "type": "Prophecy",
-                    "text": "Thaumaturgical History IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Forceful Exorcism",
-                    "type": "Prophecy",
-                    "text": "Forceful Exorcism Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Quecholli Fated",
-                    "type": "Prophecy",
-                    "text": "Quecholli Fated Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Last Watch",
-                    "type": "Prophecy",
-                    "text": "The Last Watch Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Soulless Beast",
-                    "type": "Prophecy",
-                    "text": "The Soulless Beast Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Custodians of Silence",
-                    "type": "Prophecy",
-                    "text": "Custodians of Silence Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Prison Guard",
-                    "type": "Prophecy",
-                    "text": "The Prison Guard Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Prison Key",
-                    "type": "Prophecy",
-                    "text": "The Prison Key Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Ward's Ward",
-                    "type": "Prophecy",
-                    "text": "The Ward's Ward Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Lady in Black",
-                    "type": "Prophecy",
-                    "text": "The Lady in Black Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Brutal Enforcer",
-                    "type": "Prophecy",
-                    "text": "The Brutal Enforcer Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Flesh of the Beast",
-                    "type": "Prophecy",
-                    "text": "Flesh of the Beast Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Storm on the Horizon",
-                    "type": "Prophecy",
-                    "text": "Storm on the Horizon Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Nest",
-                    "type": "Prophecy",
-                    "text": "The Nest Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Abnormal Effulgence",
-                    "type": "Prophecy",
-                    "text": "Abnormal Effulgence Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fire, Wood and Stone",
-                    "type": "Prophecy",
-                    "text": "Fire, Wood and Stone Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Baptism by Death",
-                    "type": "Prophecy",
-                    "text": "Baptism by Death Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fear's Wide Reach",
-                    "type": "Prophecy",
-                    "text": "Fear's Wide Reach Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Against the Tide",
-                    "type": "Prophecy",
-                    "text": "Against the Tide Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "From Death Springs Life",
-                    "type": "Prophecy",
-                    "text": "From Death Springs Life Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Weeping Death",
-                    "type": "Prophecy",
-                    "text": "Weeping Death Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Storm on the Reef",
-                    "type": "Prophecy",
-                    "text": "Storm on the Reef Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Strong as a Bull",
-                    "type": "Prophecy",
-                    "text": "Strong as a Bull Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Graceful Flames",
-                    "type": "Prophecy",
-                    "text": "Graceful Flames Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Whispered Prayer",
-                    "type": "Prophecy",
-                    "text": "A Whispered Prayer Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Wind and Thunder",
-                    "type": "Prophecy",
-                    "text": "Wind and Thunder Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Flayed Man",
-                    "type": "Prophecy",
-                    "text": "The Flayed Man Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Blood of the Betrayed",
-                    "type": "Prophecy",
-                    "text": "Blood of the Betrayed Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Defiled in the Scepter",
-                    "type": "Prophecy",
-                    "text": "Defiled in the Scepter Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Sword King's Passion",
-                    "type": "Prophecy",
-                    "text": "The Sword King's Passion Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Blood in the Eyes",
-                    "type": "Prophecy",
-                    "text": "Blood in the Eyes Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Risen Blood",
-                    "type": "Prophecy",
-                    "text": "Risen Blood Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Eagle's Cry",
-                    "type": "Prophecy",
-                    "text": "The Eagle's Cry Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Roth's Legacy",
-                    "type": "Prophecy",
-                    "text": "Roth's Legacy Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Petrified",
-                    "type": "Prophecy",
-                    "text": "The Petrified Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Notched Flesh",
-                    "type": "Prophecy",
-                    "text": "Notched Flesh Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Walking Mountain",
-                    "type": "Prophecy",
-                    "text": "The Walking Mountain Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Firm Foothold",
-                    "type": "Prophecy",
-                    "text": "A Firm Foothold Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Sinner's Stone",
-                    "type": "Prophecy",
-                    "text": "The Sinner's Stone Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Lost Undying",
-                    "type": "Prophecy",
-                    "text": "The Lost Undying Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Prodigious Hand",
-                    "type": "Prophecy",
-                    "text": "A Prodigious Hand Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Call into the Void",
-                    "type": "Prophecy",
-                    "text": "A Call into the Void Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Hollow Pledge",
-                    "type": "Prophecy",
-                    "text": "The Hollow Pledge Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Lost in the Pages",
-                    "type": "Prophecy",
-                    "text": "Lost in the Pages Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Cleanser of Sins",
-                    "type": "Prophecy",
-                    "text": "Cleanser of Sins Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Heart of the Fire",
-                    "type": "Prophecy",
-                    "text": "Heart of the Fire Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Vanguard",
-                    "type": "Prophecy",
-                    "text": "The Vanguard Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Watcher's Watcher",
-                    "type": "Prophecy",
-                    "text": "The Watcher's Watcher Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Plague of Rats",
-                    "type": "Prophecy",
-                    "text": "Plague of Rats Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Lasting Impressions",
-                    "type": "Prophecy",
-                    "text": "Lasting Impressions Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Kalandra's Craft",
-                    "type": "Prophecy",
-                    "text": "Kalandra's Craft Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Dreaded Rhoa",
-                    "type": "Prophecy",
-                    "text": "The Dreaded Rhoa Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Fated Connections",
-                    "type": "Prophecy",
-                    "text": "Fated Connections Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Regal Death",
-                    "type": "Prophecy",
-                    "text": "A Regal Death Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Mysterious Gift",
-                    "type": "Prophecy",
-                    "text": "The Mysterious Gift Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Erasmus' Gift",
-                    "type": "Prophecy",
-                    "text": "Erasmus' Gift Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Brothers of Necromancy",
-                    "type": "Prophecy",
-                    "text": "The Brothers of Necromancy Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "An Unseen Peril",
-                    "type": "Prophecy",
-                    "text": "An Unseen Peril Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Waiting in Ambush",
-                    "type": "Prophecy",
-                    "text": "Waiting in Ambush Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Sun's Punishment",
-                    "type": "Prophecy",
-                    "text": "Sun's Punishment Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Ambitious Bandit I",
-                    "type": "Prophecy",
-                    "text": "The Ambitious Bandit I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Ambitious Bandit II",
-                    "type": "Prophecy",
-                    "text": "The Ambitious Bandit II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Ambitious Bandit III",
-                    "type": "Prophecy",
-                    "text": "The Ambitious Bandit III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Dance of Steel",
-                    "type": "Prophecy",
-                    "text": "Dance of Steel Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Feral Lord I",
-                    "type": "Prophecy",
-                    "text": "The Feral Lord I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Feral Lord II",
-                    "type": "Prophecy",
-                    "text": "The Feral Lord II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Feral Lord III",
-                    "type": "Prophecy",
-                    "text": "The Feral Lord III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Feral Lord IV",
-                    "type": "Prophecy",
-                    "text": "The Feral Lord IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Feral Lord V",
-                    "type": "Prophecy",
-                    "text": "The Feral Lord V Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Blind Faith",
-                    "type": "Prophecy",
-                    "text": "Blind Faith Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Great Mind of the North",
-                    "type": "Prophecy",
-                    "text": "The Great Mind of the North Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Great Leader of the North",
-                    "type": "Prophecy",
-                    "text": "The Great Leader of the North Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Plaguemaw I",
-                    "type": "Prophecy",
-                    "text": "The Plaguemaw I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Plaguemaw II",
-                    "type": "Prophecy",
-                    "text": "The Plaguemaw II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Plaguemaw III",
-                    "type": "Prophecy",
-                    "text": "The Plaguemaw III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Plaguemaw IV",
-                    "type": "Prophecy",
-                    "text": "The Plaguemaw IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Plaguemaw V",
-                    "type": "Prophecy",
-                    "text": "The Plaguemaw V Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Stockkeeper",
-                    "type": "Prophecy",
-                    "text": "The Stockkeeper Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Storm Spire",
-                    "type": "Prophecy",
-                    "text": "The Storm Spire Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Unbreathing Queen I",
-                    "type": "Prophecy",
-                    "text": "The Unbreathing Queen I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Unbreathing Queen II",
-                    "type": "Prophecy",
-                    "text": "The Unbreathing Queen II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Unbreathing Queen III",
-                    "type": "Prophecy",
-                    "text": "The Unbreathing Queen III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Unbreathing Queen IV",
-                    "type": "Prophecy",
-                    "text": "The Unbreathing Queen IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Unbreathing Queen V",
-                    "type": "Prophecy",
-                    "text": "The Unbreathing Queen V Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Warmongers I",
-                    "type": "Prophecy",
-                    "text": "The Warmongers I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Warmongers II",
-                    "type": "Prophecy",
-                    "text": "The Warmongers II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Warmongers III",
-                    "type": "Prophecy",
-                    "text": "The Warmongers III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Warmongers IV",
-                    "type": "Prophecy",
-                    "text": "The Warmongers IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Lost Maps",
-                    "type": "Prophecy",
-                    "text": "The Lost Maps Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "A Rift in Time",
-                    "type": "Prophecy",
-                    "text": "A Rift in Time Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Singular Spirit",
-                    "type": "Prophecy",
-                    "text": "The Singular Spirit Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Touched by the Wind",
-                    "type": "Prophecy",
-                    "text": "Touched by the Wind Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Resistant to Change",
-                    "type": "Prophecy",
-                    "text": "Resistant to Change Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Smothering Tendrils",
-                    "type": "Prophecy",
-                    "text": "Smothering Tendrils Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Vital Transformation",
-                    "type": "Prophecy",
-                    "text": "Vital Transformation Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Golden Touch",
-                    "type": "Prophecy",
-                    "text": "Golden Touch Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Holding the Bridge",
-                    "type": "Prophecy",
-                    "text": "Holding the Bridge Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Unbearable Whispers I",
-                    "type": "Prophecy",
-                    "text": "Unbearable Whispers I Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Unbearable Whispers II",
-                    "type": "Prophecy",
-                    "text": "Unbearable Whispers II Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Unbearable Whispers III",
-                    "type": "Prophecy",
-                    "text": "Unbearable Whispers III Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Unbearable Whispers IV",
-                    "type": "Prophecy",
-                    "text": "Unbearable Whispers IV Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Unbearable Whispers V",
-                    "type": "Prophecy",
-                    "text": "Unbearable Whispers V Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Undead Uprising",
-                    "type": "Prophecy",
-                    "text": "Undead Uprising Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Living Fires",
-                    "type": "Prophecy",
-                    "text": "Living Fires Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Unnatural Energy",
-                    "type": "Prophecy",
-                    "text": "Unnatural Energy Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "In the Grasp of Corruption",
-                    "type": "Prophecy",
-                    "text": "In the Grasp of Corruption Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Hardened Armour",
-                    "type": "Prophecy",
-                    "text": "The Hardened Armour Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Beautiful Guide",
-                    "type": "Prophecy",
-                    "text": "The Beautiful Guide Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Sharpened Blade",
-                    "type": "Prophecy",
-                    "text": "The Sharpened Blade Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Corrupt",
-                    "type": "Prophecy",
-                    "text": "The Corrupt Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "The Forgotten Soldiers",
-                    "type": "Prophecy",
-                    "text": "The Forgotten Soldiers Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Darktongue's Shriek",
-                    "type": "Prophecy",
-                    "text": "Darktongue's Shriek Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
-                },
-                {
-                    "name": "Greed's Folly",
-                    "type": "Prophecy",
-                    "text": "Greed's Folly Prophecy",
-                    "flags": {
-                        "prophecy": true
-                    }
                 }
             ]
         },
@@ -24348,7 +22872,7 @@
                 },
                 {
                     "type": "Sulphurspawn",
-                    "text": "ลูกหลานซัลเฟอร์"
+                    "text": "ลูกห���านซัลเฟอร์"
                 },
                 {
                     "type": "Bazur",
@@ -25664,7 +24188,7 @@
                 },
                 {
                     "type": "Brood Princess",
-                    "text": "เ���้าหญิงแห่งพงศ์พันธุ์"
+                    "text": "เจ้าหญิงแห่งพงศ์พันธุ์"
                 },
                 {
                     "type": "Merveil's Blessed",
@@ -26281,280 +24805,6 @@
             ]
         },
         {
-            "id": "watchstones",
-            "label": "",
-            "entries": [
-                {
-                    "name": "Atop the Atlas",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Lex Ejoris",
-                    "text": "Atop the Atlas อัญมณีผู้พิทักษ์แพลทินัม Lex Ejoris",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Atop the Atlas",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Valdo's Rest",
-                    "text": "Atop the Atlas อัญมณีผู้พิทักษ์แพลทินัม Valdo's Rest",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Booming Populace",
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "Booming Populace อัญมณีผู้พิทักษ์งาช้าง",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Irresistible Temptation",
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "Irresistible Temptation อัญมณีผู้พิทักษ์งาช้าง",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Misinformation",
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "Misinformation อัญมณีผู้พิทักษ์งาช้าง",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Restless Cycles",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Valdo's Rest",
-                    "text": "Restless Cycles อัญมณีผู้พิทักษ์แพลทินัม Valdo's Rest",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Stalwart Defenders",
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "Stalwart Defenders อัญมณีผู้พิทักษ์งาช้าง",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Territories Unknown",
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "Territories Unknown อัญมณีผู้พิทักษ์งาช้าง",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "Terror",
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "Terror อัญมณีผู้พิทักษ์งาช้าง",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Builder",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Glennach Cairns",
-                    "text": "The Builder อัญมณีผู้พิทักษ์แพลทินัม Glennach Cairns",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Claim",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Haewark Hamlet",
-                    "text": "The Claim อัญมณีผู้พิทักษ์แพลทินัม Haewark Hamlet",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Claim",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Tirn's End",
-                    "text": "The Claim อัญมณีผู้พิทักษ์แพลทินัม Tirn's End",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Closest Peak",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Lex Proxima",
-                    "text": "The Closest Peak อัญมณีผู้พิทักษ์แพลทินัม Lex Proxima",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Closest Peak",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Glennach Cairns",
-                    "text": "The Closest Peak อัญมณีผู้พิทักษ์แพลทินัม Glennach Cairns",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The False Hope",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Lira Arthain",
-                    "text": "The False Hope อัญมณีผู้พิทักษ์แพลทินัม Lira Arthain",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Vast Horizon",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม New Vastir",
-                    "text": "The Vast Horizon อัญมณีผู้พิทักษ์แพลทินัม New Vastir",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Vast Horizon",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Lira Arthain",
-                    "text": "The Vast Horizon อัญมณีผู้พิทักษ์แพลทินัม Lira Arthain",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "The Walls",
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Haewark Hamlet",
-                    "text": "The Walls อัญมณีผู้พิทักษ์แพลทินัม Haewark Hamlet",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "name": "War Among the Stars",
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "War Among the Stars อัญมณีผู้พิทักษ์งาช้าง",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์เลือดนก",
-                    "text": "อัญมณีผู้พิทักษ์เลือดนก"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โคบอลต์",
-                    "text": "อัญมณีผู้พิทักษ์โคบอลต์"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์มรกต",
-                    "text": "อัญมณีผู้พิทักษ์มรกต"
-                },
-                {
-                    "type": "อัญมณ���ผู้พิทักษ์ทองคำ",
-                    "text": "อัญมณีผู้พิทักษ์ทองคำ"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์งาช้าง",
-                    "text": "อัญมณีผู้พิทักษ์งาช้าง"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม Haewark Hamlet",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม Haewark Hamlet"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม Tirn's End",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม Tirn's End"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม Lex Proxima",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม Lex Proxima"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม Lex Ejoris",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม Lex Ejoris"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม New Vastir",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม New Vastir"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม Glennach Cairns",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม Glennach Cairns"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม Valdo's Rest",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม Valdo's Rest"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์โครเมียม Lira Arthain",
-                    "text": "อัญมณีผู้พิทักษ์โครเมียม Lira Arthain"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Haewark Hamlet",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม Haewark Hamlet"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Tirn's End",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม Tirn's End"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Lex Proxima",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม Lex Proxima"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Lex Ejoris",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม Lex Ejoris"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม New Vastir",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม New Vastir"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Glennach Cairns",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม Glennach Cairns"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Valdo's Rest",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม Valdo's Rest"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์แพลทินัม Lira Arthain",
-                    "text": "อัญมณีผู้พิทักษ์แพลทินัม Lira Arthain"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม Haewark Hamlet",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม Haewark Hamlet"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม Tirn's End",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม Tirn's End"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม Lex Proxima",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม Lex Proxima"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม Lex Ejoris",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม Lex Ejoris"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม New Vastir",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม New Vastir"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม Glennach Cairns",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม Glennach Cairns"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม Valdo's Rest",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม Valdo's Rest"
-                },
-                {
-                    "type": "อัญมณีผู้พิทักษ์ไทเทเนียม Lira Arthain",
-                    "text": "อัญมณีผู้พิทักษ์ไทเทเนียม Lira Arthain"
-                }
-            ]
-        },
-        {
             "id": "heistequipment",
             "label": "",
             "entries": [
@@ -26651,8 +24901,8 @@
                     "text": "วอร์ดวาววับ"
                 },
                 {
-                    "type": "วอร์ดอาคมแกร่งกล้า",
-                    "text": "วอร์ดอาคมแกร่งกล้า"
+                    "type": "วอร์ดมนต์มณีแกร่งกล้า",
+                    "text": "วอร์ดมนต์มณีแกร่งกล้า"
                 },
                 {
                     "type": "ชุดพรางตัวอย่างง่าย",
@@ -26683,8 +24933,8 @@
                     "text": "ดินระเบิดแสงอะซูไรต์"
                 },
                 {
-                    "type": "ดินระเบิดแสงทอเมติค",
-                    "text": "ดินระเบิดแสงทอเมติค"
+                    "type": "ดินระเบิดแสงมนต์มณี",
+                    "text": "ดินระเบิดแสงมนต์มณี"
                 },
                 {
                     "type": "สว่านเหล็ก",
@@ -26699,8 +24949,8 @@
                     "text": "เครื่องพ่นไฟกำมะถัน"
                 },
                 {
-                    "type": "เครื่องพ่นไฟทอเมติค",
-                    "text": "เครื่องพ่นไฟทอเมติค"
+                    "type": "เครื่องพ่นไฟมนต์มณี",
+                    "text": "เครื่องพ่นไฟมนต์มณี"
                 },
                 {
                     "type": "ลิ่มสะเดาะกุญแจอย่างง่าย",
@@ -26739,16 +24989,16 @@
                     "text": "เครื่องรางตรวจจับไม่ประณีต"
                 },
                 {
-                    "type": "เครื่องรางตรวจจับปราณีต",
-                    "text": "เครื่องรางตรวจจับปราณีต"
+                    "type": "เครื่องรางตรวจจับประณีต",
+                    "text": "เครื่องรางตรวจจับประณีต"
                 },
                 {
                     "type": "เครื่องรางตรวจจับลงอาคม",
                     "text": "เครื่องรางตรวจจับลงอาคม"
                 },
                 {
-                    "type": "เครื่องรางตรวจจับอาคมแกร่งกล้า",
-                    "text": "เครื่องรางตรวจจับอาคมแกร่งกล้า"
+                    "type": "เครื่องรางตรวจจับมนต์มณีแกร่งกล้า",
+                    "text": "เครื่องรางตรวจจับมนต์มณีแกร่งกล้า"
                 },
                 {
                     "type": "หัวลูกศรหน้าแปลน",
