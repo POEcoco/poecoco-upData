@@ -5,7 +5,7 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-  schedule: # execute every 12 hours
+  schedule: # execute every 24 hours
     - cron: '* */24 * * *'
 jobs:
 
@@ -24,5 +24,5 @@ jobs:
           git config --local user.name "Github-Action"
           git add --all
           git pull origin "${{ github.ref }}" --autostash --rebase -Xours
-          git commit -am "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}"
+          git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}"
           git push

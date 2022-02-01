@@ -5,9 +5,9 @@ async function main() {
   try {
     //主要流程
     await DefaultProcess();
-  } catch (err) {
+  } catch (err: any) {
     //Failed the process;
-    const msg = JSON.stringify(err);
+    const msg = JSON.stringify(err.message);
     core.setFailed(msg);
   }
   core.info(`所有流程更新完成!! ${new Date().toString()}`);

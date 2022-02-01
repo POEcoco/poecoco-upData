@@ -5,7 +5,6 @@
  *  @returns JSON
  **/
 export declare function WriteItemJsonToLocal(lang: string, data: any): Promise<any>;
-export declare function WriteItemJsonToFetchPath(lang: string, data: any): Promise<any>;
 /**
  * 讀取新獲取的本地物品JSON
  *  @param lang Language KEY
@@ -13,7 +12,7 @@ export declare function WriteItemJsonToFetchPath(lang: string, data: any): Promi
  **/
 export declare function LoadLocalItemJson(lang: string): Promise<any>;
 /**
- * 讀取新獲取的本地物品JSON集合
+ *  依照條件讀取新獲取的本地物品JSON集合
  *  @returns JSON{
  *  GB:{"result":[]},
  *  TW:{"result":[]},

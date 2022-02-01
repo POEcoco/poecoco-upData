@@ -1,6 +1,6 @@
 import {GetLanguageKeys, GetStatsURL} from '../content';
 import {readFileSync, writeFileSync} from 'fs';
-import exec from '../utility/cli';
+import * as exec from '../utility/cli';
 
 const FetchPath = './output/fetch/';
 const LocalPath = './output/stats/';
@@ -32,15 +32,6 @@ export async function WriteStatsJsonToLocal(
 ): Promise<any> {
   await writeFileSync(
     LocalPath + `${lang}_stats.json`,
-    JSON.stringify(data, null, 4)
-  );
-}
-export async function WriteStatsJsonToFetchPath(
-  lang: string,
-  data: any
-): Promise<any> {
-  await writeFileSync(
-    FetchPath + `${lang}_stats.json`,
     JSON.stringify(data, null, 4)
   );
 }
@@ -84,7 +75,15 @@ export async function LoadAllLocalStatsJson(input_p: string): Promise<any> {
 export async function FetchNewStatsJson(lang: string): Promise<any> {
   let result: any = {};
   const host = GetStatsURL(lang);
-  const [out] = await exec('curl', [host]);
+  const isWin = process.platform === 'win32';
+
+  const out: any = await exec.ExecutePipe('curl', [
+    '-H',
+    '"Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7"',
+    host,
+    isWin ? '' : '| iconv -f iso8859-1 -t utf-8',
+    `> ${FetchPath}${lang}_stats.json`,
+  ]);
 
   result = JSON.parse(out);
   return result;

@@ -13,11 +13,11 @@ const SourceList = [
     HOST: 'https://web.poe.garena.tw',
     LABEL: '繁體中文',
   },
-  {
+  /*{
     KEY: 'CN',
     HOST: 'https://poe.game.qq.com',
     LABEL: '简体中文',
-  },
+  },*/
   {
     KEY: 'RU',
     HOST: 'https://ru.pathofexile.com',

@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.GeneratedNewData = exports.FetchNewStatsJson = exports.LoadAllLocalStatsJson = exports.LoadLocalStatsJson = exports.WriteStatsJsonToFetchPath = exports.WriteStatsJsonToLocal = void 0;
+exports.GeneratedNewData = exports.FetchNewStatsJson = exports.LoadAllLocalStatsJson = exports.LoadLocalStatsJson = exports.WriteStatsJsonToLocal = void 0;
 const content_1 = require("../content");
 const fs_1 = require("fs");
-const cli_1 = require("../utility/cli");
+const exec = require("../utility/cli");
 const FetchPath = './output/fetch/';
 const LocalPath = './output/stats/';
 /**
@@ -31,10 +31,6 @@ async function WriteStatsJsonToLocal(lang, data) {
     await (0, fs_1.writeFileSync)(LocalPath + `${lang}_stats.json`, JSON.stringify(data, null, 4));
 }
 exports.WriteStatsJsonToLocal = WriteStatsJsonToLocal;
-async function WriteStatsJsonToFetchPath(lang, data) {
-    await (0, fs_1.writeFileSync)(FetchPath + `${lang}_stats.json`, JSON.stringify(data, null, 4));
-}
-exports.WriteStatsJsonToFetchPath = WriteStatsJsonToFetchPath;
 /**
  * 讀取本地的詞綴JSON
  *  @param lang Language KEY
@@ -76,7 +72,14 @@ exports.LoadAllLocalStatsJson = LoadAllLocalStatsJson;
 async function FetchNewStatsJson(lang) {
     let result = {};
     const host = (0, content_1.GetStatsURL)(lang);
-    const [out] = await (0, cli_1.default)('curl', [host]);
+    const isWin = process.platform === 'win32';
+    const out = await exec.ExecutePipe('curl', [
+        '-H',
+        '"Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7"',
+        host,
+        isWin ? '' : '| iconv -f iso8859-1 -t utf-8',
+        `> ${FetchPath}${lang}_stats.json`,
+    ]);
     result = JSON.parse(out);
     return result;
 }

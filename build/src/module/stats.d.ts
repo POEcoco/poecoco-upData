@@ -10,7 +10,6 @@
  *  @returns JSON
  **/
 export declare function WriteStatsJsonToLocal(lang: string, data: any): Promise<any>;
-export declare function WriteStatsJsonToFetchPath(lang: string, data: any): Promise<any>;
 /**
  * 讀取本地的詞綴JSON
  *  @param lang Language KEY

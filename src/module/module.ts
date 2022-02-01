@@ -24,7 +24,7 @@ export async function DefaultProcess() {
   } catch (error) {
     err.push(error);
   }
-  //更新技能樹JSON
+  //更新技能樹
   try {
     await skillTree.GeneratedNewData();
   } catch (error) {
@@ -32,7 +32,7 @@ export async function DefaultProcess() {
   }
 
   if (err.length > 0) {
-    throw new Error(JSON.stringify(err));
+    throw new Error(err.toString());
   }
 }
 
@@ -42,19 +42,12 @@ export async function FetchAllDataFromOffical() {
   const list = GetLanguageKeys();
   //更新每個物品JSON
   for (const lang of list) {
-    const entity = await items.FetchNewItemJson(lang);
-    if (Object.prototype.hasOwnProperty.call(entity, 'error')) {
-      continue; //中國伺服器會擋交易API
-    }
-    await items.WriteItemJsonToFetchPath(lang, entity);
+    await items.FetchNewItemJson(lang);
   }
   //更新每個詞綴JSON
   for (const lang of list) {
-    const entity = await stats.FetchNewStatsJson(lang);
-    if (Object.prototype.hasOwnProperty.call(entity, 'error')) {
-      continue; //中國伺服器會擋交易API
-    }
-    await stats.WriteStatsJsonToFetchPath(lang, entity);
+    await stats.FetchNewStatsJson(lang);
+    //await stats.WriteStatsJsonToFetchPath(lang, entity);
   }
   //更新技能樹JSON
   const skTree = await skillTree.FetchNewSkillTree();
