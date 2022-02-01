@@ -35,6 +35,15 @@ export async function WriteStatsJsonToLocal(
     JSON.stringify(data, null, 4)
   );
 }
+export async function WriteStatsJsonToFetchPath(
+  lang: string,
+  data: any
+): Promise<any> {
+  await writeFileSync(
+    FetchPath + `${lang}_stats.json`,
+    JSON.stringify(data, null, 4)
+  );
+}
 
 /**
  * 讀取本地的詞綴JSON
@@ -50,17 +59,17 @@ export async function LoadLocalStatsJson(lang: string): Promise<any> {
 /**
  * 讀取本地的物品JSON集合
  *  @returns JSON{
- *  GB:{"result":{}},
- *  TW:{"result":{}},
- *  CN:{"result":{}},
- *  KR:{"result":{}},.....
+ *  GB:{"result":[]},
+ *  TW:{"result":[]},
+ *  CN:{"result":[]},
+ *  KR:{"result":[]},.....
  * }
  **/
-export async function LoadAllLocalStatsJson(): Promise<any> {
+export async function LoadAllLocalStatsJson(input_p: string): Promise<any> {
   const collection: any = {};
   const list = GetLanguageKeys();
   for (const lang of list) {
-    const str = await readFileSync(FetchPath + `${lang}_stats.json`, 'utf8');
+    const str = await readFileSync(input_p + `${lang}_stats.json`, 'utf8');
     const rawJSON = JSON.parse(str);
     collection[lang] = rawJSON;
   }
@@ -81,6 +90,19 @@ export async function FetchNewStatsJson(lang: string): Promise<any> {
   return result;
 }
 
-export function GeneratedNewData() {
-  throw new Error('Function not implemented.');
+export async function GeneratedNewData() {
+  const collection: any = await LoadAllLocalStatsJson('./output/fetch/');
+  const list = GetLanguageKeys();
+
+  //生成供poecoco使用的資料
+  await writeFileSync(
+    './output/poecoco/coll_stats.json',
+    JSON.stringify(collection, null, 4)
+  );
+  //寫入各本地檔案
+  for (const lang of list) {
+    await WriteStatsJsonToLocal(lang, collection[lang]);
+  }
+
+  console.log(`${list.length}項的stats JSON更新完成`);
 }

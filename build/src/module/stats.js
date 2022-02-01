@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.GeneratedNewData = exports.FetchNewStatsJson = exports.LoadAllLocalStatsJson = exports.LoadLocalStatsJson = exports.WriteStatsJsonToLocal = void 0;
+exports.GeneratedNewData = exports.FetchNewStatsJson = exports.LoadAllLocalStatsJson = exports.LoadLocalStatsJson = exports.WriteStatsJsonToFetchPath = exports.WriteStatsJsonToLocal = void 0;
 const content_1 = require("../content");
 const fs_1 = require("fs");
 const cli_1 = require("../utility/cli");
@@ -31,6 +31,10 @@ async function WriteStatsJsonToLocal(lang, data) {
     await (0, fs_1.writeFileSync)(LocalPath + `${lang}_stats.json`, JSON.stringify(data, null, 4));
 }
 exports.WriteStatsJsonToLocal = WriteStatsJsonToLocal;
+async function WriteStatsJsonToFetchPath(lang, data) {
+    await (0, fs_1.writeFileSync)(FetchPath + `${lang}_stats.json`, JSON.stringify(data, null, 4));
+}
+exports.WriteStatsJsonToFetchPath = WriteStatsJsonToFetchPath;
 /**
  * 讀取本地的詞綴JSON
  *  @param lang Language KEY
@@ -46,17 +50,17 @@ exports.LoadLocalStatsJson = LoadLocalStatsJson;
 /**
  * 讀取本地的物品JSON集合
  *  @returns JSON{
- *  GB:{"result":{}},
- *  TW:{"result":{}},
- *  CN:{"result":{}},
- *  KR:{"result":{}},.....
+ *  GB:{"result":[]},
+ *  TW:{"result":[]},
+ *  CN:{"result":[]},
+ *  KR:{"result":[]},.....
  * }
  **/
-async function LoadAllLocalStatsJson() {
+async function LoadAllLocalStatsJson(input_p) {
     const collection = {};
     const list = (0, content_1.GetLanguageKeys)();
     for (const lang of list) {
-        const str = await (0, fs_1.readFileSync)(FetchPath + `${lang}_stats.json`, 'utf8');
+        const str = await (0, fs_1.readFileSync)(input_p + `${lang}_stats.json`, 'utf8');
         const rawJSON = JSON.parse(str);
         collection[lang] = rawJSON;
     }
@@ -77,8 +81,16 @@ async function FetchNewStatsJson(lang) {
     return result;
 }
 exports.FetchNewStatsJson = FetchNewStatsJson;
-function GeneratedNewData() {
-    throw new Error('Function not implemented.');
+async function GeneratedNewData() {
+    const collection = await LoadAllLocalStatsJson('./output/fetch/');
+    const list = (0, content_1.GetLanguageKeys)();
+    //生成供poecoco使用的資料
+    await (0, fs_1.writeFileSync)('./output/poecoco/coll_stats.json', JSON.stringify(collection, null, 4));
+    //寫入各本地檔案
+    for (const lang of list) {
+        await WriteStatsJsonToLocal(lang, collection[lang]);
+    }
+    console.log(`${list.length}項的stats JSON更新完成`);
 }
 exports.GeneratedNewData = GeneratedNewData;
 //# sourceMappingURL=stats.js.map

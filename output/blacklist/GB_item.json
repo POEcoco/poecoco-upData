@@ -3,7 +3,17 @@
         {
             "id": "accessories",
             "label": "Accessories",
-            "entries": []
+            "entries": [
+                {
+                    "name": "Hallowed Ground",
+                    "type": "Unset Ring",
+                    "text": "Hallowed Ground Unset Ring",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 68
+                }
+            ]
         },
         {
             "id": "armour",

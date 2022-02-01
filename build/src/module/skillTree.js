@@ -4,7 +4,7 @@ exports.GeneratedNewData = exports.FetchNewSkillTree = exports.WriteSkillTreeJso
 const fs_1 = require("fs");
 const cli_1 = require("../utility/cli");
 const PASSIVETREEPATH = 'https://www.pathofexile.com/passive-skill-tree'; //TO GET PASSIVETREE
-const ActivePath = './output/skilltree';
+const ActivePath = './output/skilltree/';
 /**
  * 讀取本地的技能樹JSON
  *  @returns JSON
@@ -63,11 +63,13 @@ async function FetchNewSkillTree() {
     catch (err) {
         throw new Error('技能樹更新失敗');
     }
+    console.log('技能樹更新完成');
     return result;
 }
 exports.FetchNewSkillTree = FetchNewSkillTree;
-function GeneratedNewData() {
-    throw new Error('Function not implemented.');
+async function GeneratedNewData() {
+    //生成結構資料以供POEcoco使用
+    /** @TODO: 生成圖形的結構資料以供POEcoco使用 */
 }
 exports.GeneratedNewData = GeneratedNewData;
 //# sourceMappingURL=skillTree.js.map

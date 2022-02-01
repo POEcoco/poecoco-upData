@@ -2,7 +2,7 @@ import {readFileSync, writeFileSync} from 'fs';
 import exec from '../utility/cli';
 
 const PASSIVETREEPATH = 'https://www.pathofexile.com/passive-skill-tree'; //TO GET PASSIVETREE
-const ActivePath = './output/skilltree';
+const ActivePath = './output/skilltree/';
 
 /**
  * 讀取本地的技能樹JSON
@@ -62,10 +62,11 @@ export async function FetchNewSkillTree(): Promise<any> {
   } catch (err) {
     throw new Error('技能樹更新失敗');
   }
-
+  console.log('技能樹更新完成');
   return result;
 }
 
-export function GeneratedNewData() {
-  throw new Error('Function not implemented.');
+export async function GeneratedNewData() {
+  //生成結構資料以供POEcoco使用
+  /** @TODO: 生成圖形的結構資料以供POEcoco使用 */
 }

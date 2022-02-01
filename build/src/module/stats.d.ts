@@ -10,6 +10,7 @@
  *  @returns JSON
  **/
 export declare function WriteStatsJsonToLocal(lang: string, data: any): Promise<any>;
+export declare function WriteStatsJsonToFetchPath(lang: string, data: any): Promise<any>;
 /**
  * 讀取本地的詞綴JSON
  *  @param lang Language KEY
@@ -19,13 +20,13 @@ export declare function LoadLocalStatsJson(lang: string): Promise<any>;
 /**
  * 讀取本地的物品JSON集合
  *  @returns JSON{
- *  GB:{"result":{}},
- *  TW:{"result":{}},
- *  CN:{"result":{}},
- *  KR:{"result":{}},.....
+ *  GB:{"result":[]},
+ *  TW:{"result":[]},
+ *  CN:{"result":[]},
+ *  KR:{"result":[]},.....
  * }
  **/
-export declare function LoadAllLocalStatsJson(): Promise<any>;
+export declare function LoadAllLocalStatsJson(input_p: string): Promise<any>;
 /**
  * 從官網拉取JSON
  *  @returns JSON{
@@ -33,4 +34,4 @@ export declare function LoadAllLocalStatsJson(): Promise<any>;
  * }
  **/
 export declare function FetchNewStatsJson(lang: string): Promise<any>;
-export declare function GeneratedNewData(): void;
+export declare function GeneratedNewData(): Promise<void>;

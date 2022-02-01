@@ -12,7 +12,7 @@ async function main() {
         const msg = JSON.stringify(err);
         core.setFailed(msg);
     }
-    core.info('更新完成!!');
+    core.info(`所有流程更新完成!! ${new Date().toString()}`);
 }
 main();
 //# sourceMappingURL=index.js.map

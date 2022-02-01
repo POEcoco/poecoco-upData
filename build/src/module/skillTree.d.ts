@@ -14,4 +14,4 @@ export declare function WriteSkillTreeJsonToLocal(data: any): Promise<any>;
  * @returns JSON
  */
 export declare function FetchNewSkillTree(): Promise<any>;
-export declare function GeneratedNewData(): void;
+export declare function GeneratedNewData(): Promise<void>;
