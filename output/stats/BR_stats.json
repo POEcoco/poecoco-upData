@@ -24126,7 +24126,7 @@
                 },
                 {
                     "id": "explicit.stat_1761642973",
-                    "text": "Ira tem Efic��cia da Reserva de Mana reduzida em #%",
+                    "text": "Ira tem Eficácia da Reserva de Mana reduzida em #%",
                     "type": "explicit"
                 },
                 {
@@ -36243,7 +36243,7 @@
                 },
                 {
                     "id": "fractured.stat_3839620417",
-                    "text": "Evasão aumentada em #% enquanto Concentrado",
+                    "text": "Evas��o aumentada em #% enquanto Concentrado",
                     "type": "fractured"
                 },
                 {
@@ -38989,7 +38989,7 @@
                 },
                 {
                     "id": "enchant.stat_3300369861",
-                    "text": "Modificadores de Defesa t��m Efeito aumentado em #%",
+                    "text": "Modificadores de Defesa têm Efeito aumentado em #%",
                     "type": "enchant"
                 },
                 {
