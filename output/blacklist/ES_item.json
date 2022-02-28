@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "Accesorios",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "Armaduras",
+            "entries": []
+        },
+        {
+            "id": "cards",
+            "label": "Cartas",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "Objetos monetarios",
+            "entries": []
+        },
+        {
+            "id": "flasks",
+            "label": "Frascos",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "Gemas",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "Joyas",
+            "entries": []
+        },
+        {
+            "id": "maps",
+            "label": "Mapas",
+            "entries": []
+        },
+        {
+            "id": "weapons",
+            "label": "Armas",
+            "entries": []
+        },
+        {
+            "id": "leaguestones",
+            "label": "Piedras de Liga",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "Profecías",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "Monstruos específicos",
+            "entries": []
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "飾品",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "護甲",
+            "entries": [
+                {
+                    "name": "德瑞索的衛衣",
+                    "type": "輕鎖甲",
+                    "text": "德瑞索的衛衣 輕鎖甲",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 85
+                }
+            ]
+        },
+        {
+            "id": "cards",
+            "label": "命運卡",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "通貨",
+            "entries": []
+        },
+        {
+            "id": "flasks",
+            "label": "藥劑",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "技能寶石",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "珠寶",
+            "entries": [
+                {
+                    "name": "塵埃落定",
+                    "type": "鈷藍珠寶",
+                    "text": "塵埃落定 鈷藍珠寶",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 146
+                }
+            ]
+        },
+        {
+            "id": "maps",
+            "label": "地圖",
+            "entries": [
+                {
+                    "name": "神諭之殿",
+                    "type": "神諭之殿．歸徒",
+                    "disc": "warfortheatlas",
+                    "text": "神諭之殿 神諭之殿．歸徒",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 24
+                },
+                {
+                    "name": "神諭之殿",
+                    "type": "神諭之殿．降師",
+                    "disc": "warfortheatlas",
+                    "text": "神諭之殿 神諭之殿．降師",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 25
+                },
+                {
+                    "name": "神諭之殿",
+                    "type": "神諭之殿．歸徒",
+                    "disc": "atlasofworlds",
+                    "text": "神諭之殿 神諭之殿．歸徒 (異界輿圖)",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 45
+                },
+                {
+                    "name": "神諭之殿",
+                    "type": "神諭之殿．降師",
+                    "disc": "atlasofworlds",
+                    "text": "神諭之殿 神諭之殿．降師 (異界輿圖)",
+                    "flags": {
+                        "unique": true
+                    },
+                    "index": 46
+                }
+            ]
+        },
+        {
+            "id": "weapons",
+            "label": "武器",
+            "entries": []
+        },
+        {
+            "id": "leaguestones",
+            "label": "聯盟石",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "Prophecies",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "物品化怪物",
+            "entries": []
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}

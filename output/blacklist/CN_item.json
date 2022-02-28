@@ -1,0 +1,213 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "附件",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "护甲",
+            "entries": [
+                {
+                    "name": "深渊之唤",
+                    "type": "锥顶盔",
+                    "text": "深渊之唤 锥顶盔",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "疯狂的象征",
+                    "type": "异色鞋(冰闪)",
+                    "text": "疯狂的象征 异色鞋(冰闪)",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "疯狂的象征",
+                    "type": "异色鞋 (火冰)",
+                    "text": "疯狂的象征 异色鞋 (火冰)",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "疯狂的象征",
+                    "type": "异色鞋 (火闪)",
+                    "text": "疯狂的象征 异色鞋 (火闪)",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "异色鞋(冰闪)",
+                    "text": "异色鞋(冰闪)"
+                },
+                {
+                    "type": "异色鞋 (火冰)",
+                    "text": "异色鞋 (火冰)"
+                },
+                {
+                    "type": "异色鞋 (火闪)",
+                    "text": "异色鞋 (火闪)"
+                }
+            ]
+        },
+        {
+            "id": "cards",
+            "label": "命運卡",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "通货",
+            "entries": [
+                {
+                    "type": "智慧之石",
+                    "text": "智慧之石"
+                },
+                {
+                    "type": "S17 福袋",
+                    "text": "S17 福袋"
+                }
+            ]
+        },
+        {
+            "id": "flasks",
+            "label": "药剂",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "技能寶石",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "珠宝",
+            "entries": []
+        },
+        {
+            "id": "maps",
+            "label": "地图",
+            "entries": [
+                {
+                    "name": "普兰德斯庄园",
+                    "type": "古堡",
+                    "disc": "theawakening",
+                    "text": "普兰德斯庄园 古堡 (大觉醒)",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "古堡",
+                    "disc": "theawakening",
+                    "text": "古堡 (大觉醒)"
+                },
+                {
+                    "type": "滨海山丘",
+                    "disc": "original",
+                    "text": "滨海山丘 (遗产)"
+                },
+                {
+                    "type": "瓦尔金字塔",
+                    "disc": "original",
+                    "text": "瓦尔金字塔 (遗产)"
+                },
+                {
+                    "type": "夺魂之殿",
+                    "disc": "original",
+                    "text": "夺魂之殿 (遗产)"
+                },
+                {
+                    "type": "致命岩滩",
+                    "disc": "original",
+                    "text": "致命岩滩 (遗产)"
+                },
+                {
+                    "type": "远古街区",
+                    "disc": "original",
+                    "text": "远古街区 (遗产)"
+                },
+                {
+                    "type": "冥神之域",
+                    "disc": "original",
+                    "text": "冥神之域 (遗产)"
+                }
+            ]
+        },
+        {
+            "id": "weapons",
+            "label": "武器",
+            "entries": [
+                {
+                    "name": "乱矢之弦",
+                    "type": "长弓",
+                    "text": "乱矢之弦 长弓",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "name": "韧木曲刃",
+                    "type": "阔剑",
+                    "text": "韧木曲刃 阔剑",
+                    "flags": {
+                        "unique": true
+                    }
+                }
+            ]
+        },
+        {
+            "id": "leaguestones",
+            "label": "聯盟石",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "预言",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "整理的怪物",
+            "entries": [
+                {
+                    "type": "Vicious Parasite",
+                    "text": "黏滞寄生虫"
+                },
+                {
+                    "type": "Poisonous Parasite",
+                    "text": "幽毒寄生虫"
+                },
+                {
+                    "type": "Devourer",
+                    "text": "吞噬者"
+                }
+            ]
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}

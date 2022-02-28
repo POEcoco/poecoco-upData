@@ -1,0 +1,27 @@
+name: Daily Process
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule: # execute every 24 hours
+    - cron: '* */24 * * *'
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    name: Generate
+    steps:
+    - uses: actions/checkout@v2
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+    # To Generate Files here
+    - run: npm run prod
+    - run: |
+          git config --local user.email "actions@example.com"
+          git config --local user.name "Github-Action"
+          git add --all
+          git commit --amend --allow-empty -m "${{ github.workflow }}- Generated:${{ steps.date.outputs.date }}"
+          git push -f

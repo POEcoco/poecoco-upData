@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "เครื่องประดับ",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "ค่าเกราะ",
+            "entries": []
+        },
+        {
+            "id": "cards",
+            "label": "บัตร",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "เงินตรา",
+            "entries": []
+        },
+        {
+            "id": "flasks",
+            "label": "ขวดยา",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "หินสกิล",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "จิวเวล",
+            "entries": []
+        },
+        {
+            "id": "maps",
+            "label": "แผนที่",
+            "entries": []
+        },
+        {
+            "id": "weapons",
+            "label": "อาวุธ",
+            "entries": []
+        },
+        {
+            "id": "leaguestones",
+            "label": "Leaguestones",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "Prophecies",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "มอนสเตอร์ที่ถูกทำให้กลายเป็นไอเทม",
+            "entries": []
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}

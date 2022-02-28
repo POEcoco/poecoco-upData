@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "id": "accessories",
+            "label": "Schmuck",
+            "entries": []
+        },
+        {
+            "id": "armour",
+            "label": "Rüstung",
+            "entries": []
+        },
+        {
+            "id": "cards",
+            "label": "Weissagungskarten",
+            "entries": []
+        },
+        {
+            "id": "currency",
+            "label": "Währung",
+            "entries": []
+        },
+        {
+            "id": "flasks",
+            "label": "Fläschchen",
+            "entries": []
+        },
+        {
+            "id": "gems",
+            "label": "Gemmen",
+            "entries": []
+        },
+        {
+            "id": "jewels",
+            "label": "Juwelen",
+            "entries": []
+        },
+        {
+            "id": "maps",
+            "label": "Karten",
+            "entries": []
+        },
+        {
+            "id": "weapons",
+            "label": "Waffen",
+            "entries": []
+        },
+        {
+            "id": "leaguestones",
+            "label": "Liga-Steine",
+            "entries": []
+        },
+        {
+            "id": "prophecies",
+            "label": "Prophezeiungen",
+            "entries": []
+        },
+        {
+            "id": "monsters",
+            "label": "Monster in Gegenständen",
+            "entries": []
+        },
+        {
+            "id": "watchstones",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistequipment",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "heistmission",
+            "label": "",
+            "entries": []
+        },
+        {
+            "id": "logbook",
+            "label": "",
+            "entries": []
+        }
+    ]
+}
