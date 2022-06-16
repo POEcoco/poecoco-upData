@@ -5,8 +5,8 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-  schedule: # execute every 24 hours
-    - cron: '* */24 * * *'
+  #schedule: # execute every 24 hours
+    #- cron: '* */24 * * *'
 jobs:
 
   build:
